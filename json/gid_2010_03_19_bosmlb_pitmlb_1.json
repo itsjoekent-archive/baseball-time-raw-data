@@ -1,0 +1,5987 @@
+{
+  "origial": {
+    "game": {
+      "atBat": 444107,
+      "deck": 451259,
+      "hole": 502135,
+      "ind": "F",
+      "inning": [
+        {
+          "num": 1,
+          "away_team": "bos",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 1,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 130650,
+                "start_tfs_zulu": "2010-03-19T17:06:50Z",
+                "batter": 111904,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "Mike Cameron reaches on fielding error by shortstop Ronny Cedeno.",
+                "event": "Field Error",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 3,
+                  "type": "X",
+                  "tfs": 131539,
+                  "tfs_zulu": "2010-03-19T17:15:39Z",
+                  "x": 94.42,
+                  "y": 127.79,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 111904,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Field Error"
+                }
+              },
+              {
+                "num": 2,
+                "b": 1,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 131546,
+                "start_tfs_zulu": "2010-03-19T17:15:46Z",
+                "batter": 456030,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "Dustin Pedroia grounds out, second baseman Akinori Iwamura to first baseman Jeff Clement.    Mike Cameron to 3rd.",
+                "event": "Groundout",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 8,
+                    "type": "B",
+                    "tfs": 131547,
+                    "tfs_zulu": "2010-03-19T17:15:47Z",
+                    "x": 73.82,
+                    "y": 137.29,
+                    "on_1b": 111904,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "In play, out(s)",
+                    "id": 12,
+                    "type": "X",
+                    "tfs": 131551,
+                    "tfs_zulu": "2010-03-19T17:15:51Z",
+                    "x": 87.55,
+                    "y": 110.52,
+                    "on_2b": 111904,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 111904,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Passed Ball"
+                  },
+                  {
+                    "id": 111904,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Groundout"
+                  }
+                ]
+              },
+              {
+                "num": 3,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 131556,
+                "start_tfs_zulu": "2010-03-19T17:15:56Z",
+                "batter": 400121,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "Victor Martinez reaches on a fielder's choice out, shortstop Ronny Cedeno to catcher Ryan Doumit.    Mike Cameron out at home.",
+                "event": "Fielders Choice Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 17,
+                  "type": "X",
+                  "tfs": 131558,
+                  "tfs_zulu": "2010-03-19T17:15:58Z",
+                  "x": 111.59,
+                  "y": 131.24,
+                  "on_3b": 111904,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 111904,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Fielders Choice Out"
+                  },
+                  {
+                    "id": 400121,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Fielders Choice Out"
+                  }
+                ]
+              },
+              {
+                "num": 4,
+                "b": 2,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 131614,
+                "start_tfs_zulu": "2010-03-19T17:16:14Z",
+                "batter": 120074,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "David Ortiz homers (1) on a fly ball to right field.    Victor Martinez scores.",
+                "event": "Home Run",
+                "score": "T",
+                "home_team_runs": 0,
+                "away_team_runs": 2,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 22,
+                    "type": "B",
+                    "tfs": 131616,
+                    "tfs_zulu": "2010-03-19T17:16:16Z",
+                    "x": 56.65,
+                    "y": 130.38,
+                    "on_1b": 400121,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 23,
+                    "type": "B",
+                    "tfs": 131617,
+                    "tfs_zulu": "2010-03-19T17:16:17Z",
+                    "x": 56.65,
+                    "y": 128.65,
+                    "on_1b": 400121,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "In play, run(s)",
+                    "id": 24,
+                    "type": "X",
+                    "tfs": 131617,
+                    "tfs_zulu": "2010-03-19T17:16:17Z",
+                    "x": 56.65,
+                    "y": 120.88,
+                    "on_1b": 400121,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 400121,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Home Run",
+                    "score": "T",
+                    "rbi": "T"
+                  },
+                  {
+                    "id": 120074,
+                    "start": "",
+                    "end": "",
+                    "event": "Home Run",
+                    "score": "T",
+                    "rbi": "T"
+                  }
+                ]
+              },
+              {
+                "num": 5,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 131631,
+                "start_tfs_zulu": "2010-03-19T17:16:31Z",
+                "batter": 123660,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "Jason Varitek grounds out, shortstop Ronny Cedeno to first baseman Jeff Clement.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 31,
+                  "type": "X",
+                  "tfs": 131632,
+                  "tfs_zulu": "2010-03-19T17:16:32Z",
+                  "x": 69.53,
+                  "y": 139.88,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ],
+            "action": {
+              "b": 1,
+              "s": 0,
+              "o": 0,
+              "des": "With Dustin Pedroia batting, passed ball by Ryan Doumit, Mike Cameron to 2nd.",
+              "event": "Passed Ball",
+              "tfs": 131550,
+              "tfs_zulu": "2010-03-19T17:15:50Z",
+              "player": 111904,
+              "pitch": 1
+            }
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 6,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 131639,
+                "start_tfs_zulu": "2010-03-19T17:16:39Z",
+                "batter": 457705,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Andrew McCutchen grounds out, shortstop Bill Hall to first baseman Victor Martinez.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 36,
+                  "type": "X",
+                  "tfs": 132257,
+                  "tfs_zulu": "2010-03-19T17:22:57Z",
+                  "x": 55.79,
+                  "y": 121.75,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 7,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 132301,
+                "start_tfs_zulu": "2010-03-19T17:23:01Z",
+                "batter": 430592,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Ronny Cedeno doubles (1) on a fly ball to center fielder Mike Cameron.",
+                "event": "Double",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 40,
+                  "type": "X",
+                  "tfs": 132302,
+                  "tfs_zulu": "2010-03-19T17:23:02Z",
+                  "x": 77.25,
+                  "y": 135.56,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 430592,
+                  "start": "",
+                  "end": "2B",
+                  "event": "Double"
+                }
+              },
+              {
+                "num": 8,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 132306,
+                "start_tfs_zulu": "2010-03-19T17:23:06Z",
+                "batter": 493127,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Akinori Iwamura strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 44,
+                    "type": "S",
+                    "tfs": 132306,
+                    "tfs_zulu": "2010-03-19T17:23:06Z",
+                    "x": 61.8,
+                    "y": 139.88,
+                    "on_2b": 430592,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 45,
+                    "type": "S",
+                    "tfs": 132307,
+                    "tfs_zulu": "2010-03-19T17:23:07Z",
+                    "x": 61.8,
+                    "y": 139.88,
+                    "on_2b": 430592,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 46,
+                    "type": "S",
+                    "tfs": 132307,
+                    "tfs_zulu": "2010-03-19T17:23:07Z",
+                    "x": 67.81,
+                    "y": 135.56,
+                    "on_2b": 430592,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 9,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 132309,
+                "start_tfs_zulu": "2010-03-19T17:23:09Z",
+                "batter": 434540,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Garrett Jones grounds out to first baseman Victor Martinez.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 50,
+                  "type": "X",
+                  "tfs": 132313,
+                  "tfs_zulu": "2010-03-19T17:23:13Z",
+                  "x": 83.26,
+                  "y": 124.34,
+                  "on_2b": 430592,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 430592,
+                  "start": "2B",
+                  "end": "",
+                  "event": "Groundout"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 2,
+          "away_team": "bos",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 10,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 132318,
+                "start_tfs_zulu": "2010-03-19T17:23:18Z",
+                "batter": 435181,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "Jeremy Hermida flies out to right fielder Delwyn Young.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 56,
+                  "type": "X",
+                  "tfs": 132950,
+                  "tfs_zulu": "2010-03-19T17:29:50Z",
+                  "x": 98.71,
+                  "y": 114.84,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 11,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 132954,
+                "start_tfs_zulu": "2010-03-19T17:29:54Z",
+                "batter": 407849,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "Bill Hall grounds out, shortstop Ronny Cedeno to first baseman Jeff Clement.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 60,
+                  "type": "X",
+                  "tfs": 132955,
+                  "tfs_zulu": "2010-03-19T17:29:55Z",
+                  "x": 75.54,
+                  "y": 120.88,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 12,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 133000,
+                "start_tfs_zulu": "2010-03-19T17:30:00Z",
+                "batter": 461834,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "Tug Hulett strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 64,
+                    "type": "S",
+                    "tfs": 133002,
+                    "tfs_zulu": "2010-03-19T17:30:02Z",
+                    "x": 57.51,
+                    "y": 122.61,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 65,
+                    "type": "S",
+                    "tfs": 133002,
+                    "tfs_zulu": "2010-03-19T17:30:02Z",
+                    "x": 57.51,
+                    "y": 122.61,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 66,
+                    "type": "S",
+                    "tfs": 133003,
+                    "tfs_zulu": "2010-03-19T17:30:03Z",
+                    "x": 57.51,
+                    "y": 122.61,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 13,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 133005,
+                "start_tfs_zulu": "2010-03-19T17:30:05Z",
+                "batter": 425491,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Ryan Doumit doubles (1) on a line drive to right fielder Josh Reddick.",
+                "event": "Double",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 71,
+                  "type": "X",
+                  "tfs": 134256,
+                  "tfs_zulu": "2010-03-19T17:42:56Z",
+                  "x": 84.12,
+                  "y": 120.88,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 425491,
+                  "start": "",
+                  "end": "2B",
+                  "event": "Double"
+                }
+              },
+              {
+                "num": 14,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 134311,
+                "start_tfs_zulu": "2010-03-19T17:43:11Z",
+                "batter": 451186,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Lastings Milledge grounds out, third baseman Tug Hulett to first baseman Victor Martinez.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 75,
+                  "type": "X",
+                  "tfs": 134313,
+                  "tfs_zulu": "2010-03-19T17:43:13Z",
+                  "x": 70.39,
+                  "y": 131.24,
+                  "on_2b": 425491,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 15,
+                "b": 4,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 134320,
+                "start_tfs_zulu": "2010-03-19T17:43:20Z",
+                "batter": 459943,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Jeff Clement walks.",
+                "event": "Walk",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 79,
+                    "type": "B",
+                    "tfs": 134322,
+                    "tfs_zulu": "2010-03-19T17:43:22Z",
+                    "x": 55.79,
+                    "y": 142.47,
+                    "on_2b": 425491,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 80,
+                    "type": "B",
+                    "tfs": 134322,
+                    "tfs_zulu": "2010-03-19T17:43:22Z",
+                    "x": 55.79,
+                    "y": 142.47,
+                    "on_2b": 425491,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 81,
+                    "type": "B",
+                    "tfs": 134322,
+                    "tfs_zulu": "2010-03-19T17:43:22Z",
+                    "x": 56.65,
+                    "y": 140.74,
+                    "on_2b": 425491,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 82,
+                    "type": "B",
+                    "tfs": 134323,
+                    "tfs_zulu": "2010-03-19T17:43:23Z",
+                    "x": 56.65,
+                    "y": 140.74,
+                    "on_2b": 425491,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 459943,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk"
+                }
+              },
+              {
+                "num": 16,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 134326,
+                "start_tfs_zulu": "2010-03-19T17:43:26Z",
+                "batter": 451188,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Andy LaRoche singles on a line drive to left fielder Jeremy Hermida.    Ryan Doumit scores.    Jeff Clement to 2nd.",
+                "event": "Single",
+                "score": "T",
+                "home_team_runs": 1,
+                "away_team_runs": 2,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 86,
+                  "type": "X",
+                  "tfs": 134340,
+                  "tfs_zulu": "2010-03-19T17:43:40Z",
+                  "x": 58.37,
+                  "y": 109.66,
+                  "on_1b": 459943,
+                  "on_2b": 425491,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 459943,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 425491,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Single",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 451188,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 17,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 134346,
+                "start_tfs_zulu": "2010-03-19T17:43:46Z",
+                "batter": 434704,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Delwyn Young flies out to center fielder Mike Cameron.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 94,
+                  "type": "X",
+                  "tfs": 134347,
+                  "tfs_zulu": "2010-03-19T17:43:47Z",
+                  "x": 117.6,
+                  "y": 121.75,
+                  "on_1b": 451188,
+                  "on_2b": 459943,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 18,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 134351,
+                "start_tfs_zulu": "2010-03-19T17:43:51Z",
+                "batter": 457705,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Andrew McCutchen grounds into a force out, shortstop Bill Hall to second baseman Dustin Pedroia.    Andy LaRoche out at 2nd.",
+                "event": "Forceout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 98,
+                  "type": "X",
+                  "tfs": 134352,
+                  "tfs_zulu": "2010-03-19T17:43:52Z",
+                  "x": 93.56,
+                  "y": 142.47,
+                  "on_1b": 451188,
+                  "on_2b": 459943,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 451188,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Forceout"
+                  },
+                  {
+                    "id": 459943,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Forceout"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "num": 3,
+          "away_team": "bos",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 19,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 134400,
+                "start_tfs_zulu": "2010-03-19T17:44:00Z",
+                "batter": 502210,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "Josh Reddick strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 105,
+                    "type": "S",
+                    "tfs": 135410,
+                    "tfs_zulu": "2010-03-19T17:54:10Z",
+                    "x": 42.06,
+                    "y": 71.67,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 106,
+                    "type": "S",
+                    "tfs": 135411,
+                    "tfs_zulu": "2010-03-19T17:54:11Z",
+                    "x": 42.06,
+                    "y": 71.67,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 107,
+                    "type": "S",
+                    "tfs": 135411,
+                    "tfs_zulu": "2010-03-19T17:54:11Z",
+                    "x": 42.06,
+                    "y": 71.67,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 20,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 135413,
+                "start_tfs_zulu": "2010-03-19T17:54:13Z",
+                "batter": 111904,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "Mike Cameron singles on a line drive to left fielder Lastings Milledge.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 111,
+                  "type": "X",
+                  "tfs": 135414,
+                  "tfs_zulu": "2010-03-19T17:54:14Z",
+                  "x": 63.52,
+                  "y": 139.02,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 111904,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 21,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 135418,
+                "start_tfs_zulu": "2010-03-19T17:54:18Z",
+                "batter": 456030,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "Dustin Pedroia doubles (1) on a line drive to left fielder Lastings Milledge.  Mike Cameron out at home on the throw, left fielder Lastings Milledge to shortstop Ronny Cedeno to catcher Ryan Doumit.",
+                "event": "Double",
+                "event2": "Runner Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 115,
+                  "type": "X",
+                  "tfs": 135419,
+                  "tfs_zulu": "2010-03-19T17:54:19Z",
+                  "x": 60.09,
+                  "y": 132.11,
+                  "on_1b": 111904,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 111904,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Double"
+                  },
+                  {
+                    "id": 456030,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Double"
+                  }
+                ]
+              },
+              {
+                "num": 22,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 135428,
+                "start_tfs_zulu": "2010-03-19T17:54:28Z",
+                "batter": 400121,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "Victor Martinez doubles (1) on a line drive to right fielder Delwyn Young.    Dustin Pedroia scores.",
+                "event": "Double",
+                "score": "T",
+                "home_team_runs": 1,
+                "away_team_runs": 3,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 122,
+                  "type": "X",
+                  "tfs": 135429,
+                  "tfs_zulu": "2010-03-19T17:54:29Z",
+                  "x": 60.94,
+                  "y": 138.15,
+                  "on_2b": 456030,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 456030,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Double",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 400121,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Double"
+                  }
+                ]
+              },
+              {
+                "num": 23,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 135433,
+                "start_tfs_zulu": "2010-03-19T17:54:33Z",
+                "batter": 120074,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "David Ortiz flies out to center fielder Andrew McCutchen.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 129,
+                  "type": "X",
+                  "tfs": 135433,
+                  "tfs_zulu": "2010-03-19T17:54:33Z",
+                  "x": 97,
+                  "y": 126.93,
+                  "on_2b": 400121,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 400121,
+                  "start": "2B",
+                  "end": "",
+                  "event": "Flyout"
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 24,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 135438,
+                "start_tfs_zulu": "2010-03-19T17:54:38Z",
+                "batter": 430592,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Ronny Cedeno grounds out to first baseman Victor Martinez.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 135,
+                  "type": "X",
+                  "tfs": 140843,
+                  "tfs_zulu": "2010-03-19T18:08:43Z",
+                  "x": 72.1,
+                  "y": 101.89,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 25,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 140848,
+                "start_tfs_zulu": "2010-03-19T18:08:48Z",
+                "batter": 493127,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Akinori Iwamura singles on a ground ball to right fielder Josh Reddick.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 139,
+                  "type": "X",
+                  "tfs": 140848,
+                  "tfs_zulu": "2010-03-19T18:08:48Z",
+                  "x": 70.39,
+                  "y": 139.88,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 493127,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 26,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 140852,
+                "start_tfs_zulu": "2010-03-19T18:08:52Z",
+                "batter": 434540,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Garrett Jones doubles (1) on a line drive to center fielder Mike Cameron.    Akinori Iwamura scores.",
+                "event": "Double",
+                "score": "T",
+                "home_team_runs": 2,
+                "away_team_runs": 3,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 143,
+                  "type": "X",
+                  "tfs": 140853,
+                  "tfs_zulu": "2010-03-19T18:08:53Z",
+                  "x": 66.95,
+                  "y": 150.24,
+                  "on_1b": 493127,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 493127,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Double",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 434540,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Double"
+                  }
+                ]
+              },
+              {
+                "num": 27,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 140900,
+                "start_tfs_zulu": "2010-03-19T18:09:00Z",
+                "batter": 425491,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Ryan Doumit grounds out to first baseman Victor Martinez.    Garrett Jones to 3rd.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 150,
+                  "type": "X",
+                  "tfs": 140901,
+                  "tfs_zulu": "2010-03-19T18:09:01Z",
+                  "x": 103,
+                  "y": 132.11,
+                  "on_2b": 434540,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 434540,
+                  "start": "2B",
+                  "end": "3B",
+                  "event": "Groundout"
+                }
+              },
+              {
+                "num": 28,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 140906,
+                "start_tfs_zulu": "2010-03-19T18:09:06Z",
+                "batter": 451186,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Lastings Milledge flies out to right fielder Josh Reddick.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 155,
+                  "type": "X",
+                  "tfs": 140907,
+                  "tfs_zulu": "2010-03-19T18:09:07Z",
+                  "x": 97,
+                  "y": 139.02,
+                  "on_3b": 434540,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 434540,
+                  "start": "3B",
+                  "end": "",
+                  "event": "Flyout"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 4,
+          "away_team": "bos",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 29,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 140911,
+                "start_tfs_zulu": "2010-03-19T18:09:11Z",
+                "batter": 123660,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "Jason Varitek grounds out to first baseman Jeff Clement.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 161,
+                  "type": "X",
+                  "tfs": 141614,
+                  "tfs_zulu": "2010-03-19T18:16:14Z",
+                  "x": 57.51,
+                  "y": 113.11,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 30,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 141618,
+                "start_tfs_zulu": "2010-03-19T18:16:18Z",
+                "batter": 435181,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "Jeremy Hermida pops out to third baseman Andy LaRoche.",
+                "event": "Pop Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 165,
+                  "type": "X",
+                  "tfs": 141619,
+                  "tfs_zulu": "2010-03-19T18:16:19Z",
+                  "x": 79.83,
+                  "y": 145.06,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 31,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 141623,
+                "start_tfs_zulu": "2010-03-19T18:16:23Z",
+                "batter": 407849,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 430904,
+                "p_throws": "L",
+                "des": "Bill Hall grounds out, shortstop Ronny Cedeno to first baseman Jeff Clement.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 169,
+                  "type": "X",
+                  "tfs": 141624,
+                  "tfs_zulu": "2010-03-19T18:16:24Z",
+                  "x": 79.83,
+                  "y": 155.42,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 32,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 141629,
+                "start_tfs_zulu": "2010-03-19T18:16:29Z",
+                "batter": 459943,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Jeff Clement flies out to left fielder Jeremy Hermida.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 174,
+                  "type": "X",
+                  "tfs": 142358,
+                  "tfs_zulu": "2010-03-19T18:23:58Z",
+                  "x": 36.91,
+                  "y": 113.11,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 33,
+                "b": 4,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 142403,
+                "start_tfs_zulu": "2010-03-19T18:24:03Z",
+                "batter": 451188,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Andy LaRoche walks.",
+                "event": "Walk",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 178,
+                    "type": "B",
+                    "tfs": 142403,
+                    "tfs_zulu": "2010-03-19T18:24:03Z",
+                    "x": 71.24,
+                    "y": 137.29,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 179,
+                    "type": "B",
+                    "tfs": 142404,
+                    "tfs_zulu": "2010-03-19T18:24:04Z",
+                    "x": 69.53,
+                    "y": 136.43,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 180,
+                    "type": "B",
+                    "tfs": 142404,
+                    "tfs_zulu": "2010-03-19T18:24:04Z",
+                    "x": 69.53,
+                    "y": 136.43,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 181,
+                    "type": "B",
+                    "tfs": 142405,
+                    "tfs_zulu": "2010-03-19T18:24:05Z",
+                    "x": 68.67,
+                    "y": 136.43,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 451188,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk"
+                }
+              },
+              {
+                "num": 34,
+                "b": 1,
+                "s": 2,
+                "o": 1,
+                "start_tfs": 142407,
+                "start_tfs_zulu": "2010-03-19T18:24:07Z",
+                "batter": 434704,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 277417,
+                "p_throws": "R",
+                "des": "Delwyn Young homers (1) on a fly ball to right field.    Andy LaRoche scores.",
+                "event": "Home Run",
+                "score": "T",
+                "home_team_runs": 4,
+                "away_team_runs": 3,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 185,
+                    "type": "B",
+                    "tfs": 142409,
+                    "tfs_zulu": "2010-03-19T18:24:09Z",
+                    "x": 73.82,
+                    "y": 141.61,
+                    "on_1b": 451188,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 186,
+                    "type": "S",
+                    "tfs": 142409,
+                    "tfs_zulu": "2010-03-19T18:24:09Z",
+                    "x": 73.82,
+                    "y": 141.61,
+                    "on_1b": 451188,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 187,
+                    "type": "S",
+                    "tfs": 142410,
+                    "tfs_zulu": "2010-03-19T18:24:10Z",
+                    "x": 73.82,
+                    "y": 141.61,
+                    "on_1b": 451188,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "In play, run(s)",
+                    "id": 188,
+                    "type": "X",
+                    "tfs": 142412,
+                    "tfs_zulu": "2010-03-19T18:24:12Z",
+                    "x": 73.82,
+                    "y": 141.61,
+                    "on_1b": 451188,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 451188,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Home Run",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 434704,
+                    "start": "",
+                    "end": "",
+                    "event": "Home Run",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  }
+                ]
+              },
+              {
+                "num": 35,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 142428,
+                "start_tfs_zulu": "2010-03-19T18:24:28Z",
+                "batter": 457705,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 425786,
+                "p_throws": "R",
+                "des": "Andrew McCutchen grounds out, shortstop Bill Hall to first baseman Victor Martinez.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 197,
+                  "type": "X",
+                  "tfs": 142739,
+                  "tfs_zulu": "2010-03-19T18:27:39Z",
+                  "x": 68.67,
+                  "y": 120.02,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 36,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 142744,
+                "start_tfs_zulu": "2010-03-19T18:27:44Z",
+                "batter": 430592,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 425786,
+                "p_throws": "R",
+                "des": "Ronny Cedeno flies out to left fielder Jeremy Hermida.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 201,
+                  "type": "X",
+                  "tfs": 142745,
+                  "tfs_zulu": "2010-03-19T18:27:45Z",
+                  "x": 64.38,
+                  "y": 133.84,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ],
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 1,
+              "des": "Pitcher Change: Scott Atchison replaces Josh Beckett.",
+              "event": "Pitching Substitution",
+              "tfs": 142425,
+              "tfs_zulu": "2010-03-19T18:24:25Z",
+              "player": 425786,
+              "pitch": 4
+            }
+          }
+        },
+        {
+          "num": 5,
+          "away_team": "bos",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitcher Change: Brian Burres replaces Paul Maholm.",
+              "event": "Pitching Substitution",
+              "tfs": 142757,
+              "tfs_zulu": "2010-03-19T18:27:57Z",
+              "player": 434638,
+              "pitch": 1
+            },
+            "atbat": [
+              {
+                "num": 37,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 142815,
+                "start_tfs_zulu": "2010-03-19T18:28:15Z",
+                "batter": 461834,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 434638,
+                "p_throws": "L",
+                "des": "Tug Hulett flies out to right fielder Delwyn Young.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 208,
+                  "type": "X",
+                  "tfs": 143555,
+                  "tfs_zulu": "2010-03-19T18:35:55Z",
+                  "x": 61.8,
+                  "y": 84.62,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 38,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 143559,
+                "start_tfs_zulu": "2010-03-19T18:35:59Z",
+                "batter": 502210,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 434638,
+                "p_throws": "L",
+                "des": "Josh Reddick singles on a line drive to right fielder Delwyn Young.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 212,
+                  "type": "X",
+                  "tfs": 143600,
+                  "tfs_zulu": "2010-03-19T18:36:00Z",
+                  "x": 74.68,
+                  "y": 140.74,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 502210,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 39,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 143605,
+                "start_tfs_zulu": "2010-03-19T18:36:05Z",
+                "batter": 111904,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 434638,
+                "p_throws": "L",
+                "des": "Mike Cameron pops out to second baseman Akinori Iwamura.",
+                "event": "Pop Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 216,
+                  "type": "X",
+                  "tfs": 143605,
+                  "tfs_zulu": "2010-03-19T18:36:05Z",
+                  "x": 84.12,
+                  "y": 140.74,
+                  "on_1b": 502210,
+                  "cc": "Brian Burres has been getting the ball up so far; he has allowed 0 HR in 2.2 IP this year.",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 40,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 143609,
+                "start_tfs_zulu": "2010-03-19T18:36:09Z",
+                "batter": 456030,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 434638,
+                "p_throws": "L",
+                "des": "Dustin Pedroia pops out to second baseman Akinori Iwamura.",
+                "event": "Pop Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 220,
+                  "type": "X",
+                  "tfs": 143610,
+                  "tfs_zulu": "2010-03-19T18:36:10Z",
+                  "x": 90.13,
+                  "y": 138.15,
+                  "on_1b": 502210,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 502210,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Pop Out"
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Bubba Bell replaces center fielder Mike Cameron, batting 1st, playing center field.",
+                "event": "Defensive Sub",
+                "tfs": 143629,
+                "tfs_zulu": "2010-03-19T18:36:29Z",
+                "player": 488694,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Angel Sanchez replaces second baseman Dustin Pedroia, batting 2nd, playing second base.",
+                "event": "Defensive Sub",
+                "tfs": 143629,
+                "tfs_zulu": "2010-03-19T18:36:29Z",
+                "player": 447816,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 41,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 143632,
+                "start_tfs_zulu": "2010-03-19T18:36:32Z",
+                "batter": 493127,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 425786,
+                "p_throws": "R",
+                "des": "Akinori Iwamura reaches on throwing error by third baseman Tug Hulett.    Akinori Iwamura to 2nd.",
+                "event": "Field Error",
+                "event2": "Error",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 230,
+                  "type": "X",
+                  "tfs": 145213,
+                  "tfs_zulu": "2010-03-19T18:52:13Z",
+                  "x": 88.41,
+                  "y": 85.48,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 493127,
+                  "start": "",
+                  "end": "2B",
+                  "event": "Field Error"
+                }
+              },
+              {
+                "num": 42,
+                "b": 1,
+                "s": 1,
+                "o": 0,
+                "start_tfs": 145223,
+                "start_tfs_zulu": "2010-03-19T18:52:23Z",
+                "batter": 434540,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 425786,
+                "p_throws": "R",
+                "des": "Garrett Jones homers (1) on a fly ball to right field.    Akinori Iwamura scores.",
+                "event": "Home Run",
+                "score": "T",
+                "home_team_runs": 6,
+                "away_team_runs": 3,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 235,
+                    "type": "B",
+                    "tfs": 145226,
+                    "tfs_zulu": "2010-03-19T18:52:26Z",
+                    "x": 38.63,
+                    "y": 139.88,
+                    "on_2b": 493127,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 236,
+                    "type": "S",
+                    "tfs": 145226,
+                    "tfs_zulu": "2010-03-19T18:52:26Z",
+                    "x": 56.65,
+                    "y": 134.7,
+                    "on_2b": 493127,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "In play, run(s)",
+                    "id": 237,
+                    "type": "X",
+                    "tfs": 145227,
+                    "tfs_zulu": "2010-03-19T18:52:27Z",
+                    "x": 65.24,
+                    "y": 126.06,
+                    "on_2b": 493127,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 493127,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Home Run",
+                    "score": "T",
+                    "rbi": "T"
+                  },
+                  {
+                    "id": 434540,
+                    "start": "",
+                    "end": "",
+                    "event": "Home Run",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  }
+                ]
+              },
+              {
+                "num": 43,
+                "b": 4,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 145236,
+                "start_tfs_zulu": "2010-03-19T18:52:36Z",
+                "batter": 425491,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 425786,
+                "p_throws": "R",
+                "des": "Ryan Doumit walks.",
+                "event": "Walk",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 244,
+                    "type": "B",
+                    "tfs": 145238,
+                    "tfs_zulu": "2010-03-19T18:52:38Z",
+                    "x": 65.24,
+                    "y": 132.11,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 245,
+                    "type": "B",
+                    "tfs": 145239,
+                    "tfs_zulu": "2010-03-19T18:52:39Z",
+                    "x": 65.24,
+                    "y": 132.11,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 246,
+                    "type": "B",
+                    "tfs": 145239,
+                    "tfs_zulu": "2010-03-19T18:52:39Z",
+                    "x": 65.24,
+                    "y": 132.11,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 247,
+                    "type": "B",
+                    "tfs": 145240,
+                    "tfs_zulu": "2010-03-19T18:52:40Z",
+                    "x": 65.24,
+                    "y": 132.11,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 425491,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk"
+                }
+              },
+              {
+                "num": 44,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 145242,
+                "start_tfs_zulu": "2010-03-19T18:52:42Z",
+                "batter": 451186,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 425786,
+                "p_throws": "R",
+                "des": "Lastings Milledge flies out to right fielder Josh Reddick.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 251,
+                  "type": "X",
+                  "tfs": 145243,
+                  "tfs_zulu": "2010-03-19T18:52:43Z",
+                  "x": 84.12,
+                  "y": 150.24,
+                  "on_1b": 425491,
+                  "cc": "Scott Atchison has Pirates batters hitting the ball into the ground so far.",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 45,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 145247,
+                "start_tfs_zulu": "2010-03-19T18:52:47Z",
+                "batter": 459943,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 425786,
+                "p_throws": "R",
+                "des": "Jeff Clement pops out to first baseman Victor Martinez.",
+                "event": "Pop Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 255,
+                  "type": "X",
+                  "tfs": 145248,
+                  "tfs_zulu": "2010-03-19T18:52:48Z",
+                  "x": 81.55,
+                  "y": 146.79,
+                  "on_1b": 425491,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 46,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 145252,
+                "start_tfs_zulu": "2010-03-19T18:52:52Z",
+                "batter": 451188,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 425786,
+                "p_throws": "R",
+                "des": "Andy LaRoche lines out to center fielder Bubba Bell.",
+                "event": "Lineout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 259,
+                  "type": "X",
+                  "tfs": 145252,
+                  "tfs_zulu": "2010-03-19T18:52:52Z",
+                  "x": 86.7,
+                  "y": 148.51,
+                  "on_1b": 425491,
+                  "cc": "Scott Atchison has been getting the ball up so far; he has allowed 0 HR in 5.0 IP this year.",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 425491,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Lineout"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 6,
+          "away_team": "bos",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  John Raynor replaces center fielder Andrew McCutchen, batting 1st, playing center field.",
+                "event": "Defensive Sub",
+                "tfs": 150118,
+                "tfs_zulu": "2010-03-19T19:01:18Z",
+                "player": 489231,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Ramon Vazquez replaces shortstop Ronny Cedeno, batting 2nd, playing shortstop.",
+                "event": "Defensive Sub",
+                "tfs": 150118,
+                "tfs_zulu": "2010-03-19T19:01:18Z",
+                "player": 407496,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Luke Carlin replaces catcher Ryan Doumit, batting 5th, playing catcher.",
+                "event": "Defensive Sub",
+                "tfs": 150118,
+                "tfs_zulu": "2010-03-19T19:01:18Z",
+                "player": 450192,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Brandon Moss replaces left fielder Lastings Milledge, batting 6th, playing left field.",
+                "event": "Defensive Sub",
+                "tfs": 150118,
+                "tfs_zulu": "2010-03-19T19:01:18Z",
+                "player": 461235,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Brian Myrow replaces first baseman Jeff Clement, batting 7th, playing first base.",
+                "event": "Defensive Sub",
+                "tfs": 150118,
+                "tfs_zulu": "2010-03-19T19:01:18Z",
+                "player": 434703,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Neil Walker replaces right fielder Delwyn Young, batting 9th, playing right field.",
+                "event": "Defensive Sub",
+                "tfs": 150118,
+                "tfs_zulu": "2010-03-19T19:01:18Z",
+                "player": 435522,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: Brendan Donnelly replaces Brian Burres.",
+                "event": "Pitching Substitution",
+                "tfs": 150118,
+                "tfs_zulu": "2010-03-19T19:01:18Z",
+                "player": 407791,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Jim Negrych replaces second baseman Akinori Iwamura, batting 3rd, playing second base.",
+                "event": "Defensive Sub",
+                "tfs": 150118,
+                "tfs_zulu": "2010-03-19T19:01:18Z",
+                "player": 502145,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Jeremy Farrell replaces third baseman Andy LaRoche, batting 8th, playing third base.",
+                "event": "Defensive Sub",
+                "tfs": 150118,
+                "tfs_zulu": "2010-03-19T19:01:18Z",
+                "player": 488871,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "des": "Offensive Substitution: Pinch runner Brett Harper replaces David Ortiz.",
+                "event": "Offensive sub",
+                "tfs": 150240,
+                "tfs_zulu": "2010-03-19T19:02:40Z",
+                "player": 444107,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 47,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 150123,
+                "start_tfs_zulu": "2010-03-19T19:01:23Z",
+                "batter": 400121,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 407791,
+                "p_throws": "R",
+                "des": "Victor Martinez grounds out, second baseman Jim Negrych to first baseman Brian Myrow.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 283,
+                  "type": "X",
+                  "tfs": 150128,
+                  "tfs_zulu": "2010-03-19T19:01:28Z",
+                  "x": 55.79,
+                  "y": 101.89,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 48,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 150134,
+                "start_tfs_zulu": "2010-03-19T19:01:34Z",
+                "batter": 120074,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 407791,
+                "p_throws": "R",
+                "des": "David Ortiz singles on a ground ball to second baseman Jim Negrych.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 287,
+                  "type": "X",
+                  "tfs": 150135,
+                  "tfs_zulu": "2010-03-19T19:01:35Z",
+                  "x": 81.55,
+                  "y": 117.43,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 120074,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 49,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 150240,
+                "start_tfs_zulu": "2010-03-19T19:02:40Z",
+                "batter": 123660,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 407791,
+                "p_throws": "R",
+                "des": "Jason Varitek grounds into double play, third baseman Jeremy Farrell to second baseman Jim Negrych to first baseman Brian Myrow.    Brett Harper out at 2nd.",
+                "event": "Grounded Into DP",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 293,
+                  "type": "X",
+                  "tfs": 150247,
+                  "tfs_zulu": "2010-03-19T19:02:47Z",
+                  "x": 60.94,
+                  "y": 119.16,
+                  "on_1b": 444107,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 444107,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Grounded Into DP"
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Aaron Bates replaces first baseman Victor Martinez, batting 3rd, playing first base.",
+                "event": "Defensive Sub",
+                "tfs": 150335,
+                "tfs_zulu": "2010-03-19T19:03:35Z",
+                "player": 488686,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Brett Harper remains in the game as the designated hitter.",
+                "event": "Defensive Switch",
+                "tfs": 150335,
+                "tfs_zulu": "2010-03-19T19:03:35Z",
+                "player": 444107,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Dusty Brown replaces catcher Jason Varitek, batting 5th, playing catcher.",
+                "event": "Defensive Sub",
+                "tfs": 150335,
+                "tfs_zulu": "2010-03-19T19:03:35Z",
+                "player": 451259,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: Brian Shouse replaces Scott Atchison.",
+                "event": "Pitching Substitution",
+                "tfs": 150335,
+                "tfs_zulu": "2010-03-19T19:03:35Z",
+                "player": 122195,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 50,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 150340,
+                "start_tfs_zulu": "2010-03-19T19:03:40Z",
+                "batter": 435522,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 122195,
+                "p_throws": "L",
+                "des": "Neil Walker singles on a ground ball to left fielder Jeremy Hermida.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 307,
+                  "type": "X",
+                  "tfs": 150351,
+                  "tfs_zulu": "2010-03-19T19:03:51Z",
+                  "x": 72.96,
+                  "y": 113.11,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 435522,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 51,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 150356,
+                "start_tfs_zulu": "2010-03-19T19:03:56Z",
+                "batter": 489231,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 122195,
+                "p_throws": "L",
+                "des": "John Raynor grounds into a force out, third baseman Tug Hulett to second baseman Angel Sanchez.    Neil Walker out at 2nd.    John Raynor to 1st.",
+                "event": "Forceout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 311,
+                  "type": "X",
+                  "tfs": 150357,
+                  "tfs_zulu": "2010-03-19T19:03:57Z",
+                  "x": 105.58,
+                  "y": 136.43,
+                  "on_1b": 435522,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 435522,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Forceout"
+                  },
+                  {
+                    "id": 489231,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Forceout"
+                  }
+                ]
+              },
+              {
+                "num": 52,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 150405,
+                "start_tfs_zulu": "2010-03-19T19:04:05Z",
+                "batter": 407496,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 122195,
+                "p_throws": "L",
+                "des": "Ramon Vazquez grounds into double play, second baseman Angel Sanchez to shortstop Bill Hall to first baseman Aaron Bates.    John Raynor out at 2nd.",
+                "event": "Grounded Into DP",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 316,
+                  "type": "X",
+                  "tfs": 150406,
+                  "tfs_zulu": "2010-03-19T19:04:06Z",
+                  "x": 88.41,
+                  "y": 128.65,
+                  "on_1b": 489231,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 489231,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Grounded Into DP"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 7,
+          "away_team": "bos",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: Vinnie Chulk replaces Brendan Donnelly.",
+                "event": "Pitching Substitution",
+                "tfs": 150424,
+                "tfs_zulu": "2010-03-19T19:04:24Z",
+                "player": 425562,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Offensive Substitution: Pinch runner Yamaico Navarro replaces Bill Hall.",
+                "event": "Offensive sub",
+                "tfs": 151729,
+                "tfs_zulu": "2010-03-19T19:17:29Z",
+                "player": 501605,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "des": "Pitcher Change: Jeff Karstens replaces Vinnie Chulk.",
+                "event": "Pitching Substitution",
+                "tfs": 151836,
+                "tfs_zulu": "2010-03-19T19:18:36Z",
+                "player": 444371,
+                "pitch": 4
+              }
+            ],
+            "atbat": [
+              {
+                "num": 53,
+                "b": 3,
+                "s": 1,
+                "o": 0,
+                "start_tfs": 150428,
+                "start_tfs_zulu": "2010-03-19T19:04:28Z",
+                "batter": 435181,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 425562,
+                "p_throws": "R",
+                "des": "Jeremy Hermida homers (1) on a fly ball to right field.",
+                "event": "Home Run",
+                "score": "T",
+                "home_team_runs": 6,
+                "away_team_runs": 4,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 324,
+                    "type": "B",
+                    "tfs": 151652,
+                    "tfs_zulu": "2010-03-19T19:16:52Z",
+                    "x": 70.39,
+                    "y": 126.93,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 325,
+                    "type": "B",
+                    "tfs": 151652,
+                    "tfs_zulu": "2010-03-19T19:16:52Z",
+                    "x": 70.39,
+                    "y": 126.93,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 326,
+                    "type": "B",
+                    "tfs": 151653,
+                    "tfs_zulu": "2010-03-19T19:16:53Z",
+                    "x": 70.39,
+                    "y": 126.93,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 327,
+                    "type": "S",
+                    "tfs": 151654,
+                    "tfs_zulu": "2010-03-19T19:16:54Z",
+                    "x": 70.39,
+                    "y": 126.93,
+                    "cc": "Vinnie Chulk battled back from 3-0 to retire Jeremy Hermida.",
+                    "mt": ""
+                  },
+                  {
+                    "des": "In play, run(s)",
+                    "id": 328,
+                    "type": "X",
+                    "tfs": 151657,
+                    "tfs_zulu": "2010-03-19T19:16:57Z",
+                    "x": 72.96,
+                    "y": 112.25,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 435181,
+                  "start": "",
+                  "end": "",
+                  "event": "Home Run",
+                  "score": "T",
+                  "rbi": "T",
+                  "earned": "T"
+                }
+              },
+              {
+                "num": 54,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 151710,
+                "start_tfs_zulu": "2010-03-19T19:17:10Z",
+                "batter": 407849,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 425562,
+                "p_throws": "R",
+                "des": "Bill Hall doubles (1) on a line drive to left fielder Brandon Moss.",
+                "event": "Double",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 333,
+                  "type": "X",
+                  "tfs": 151711,
+                  "tfs_zulu": "2010-03-19T19:17:11Z",
+                  "x": 83.26,
+                  "y": 134.7,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 407849,
+                  "start": "",
+                  "end": "2B",
+                  "event": "Double"
+                }
+              },
+              {
+                "num": 55,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 151733,
+                "start_tfs_zulu": "2010-03-19T19:17:33Z",
+                "batter": 461834,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 425562,
+                "p_throws": "R",
+                "des": "Tug Hulett grounds out, shortstop Ramon Vazquez to first baseman Brian Myrow.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 339,
+                  "type": "X",
+                  "tfs": 151757,
+                  "tfs_zulu": "2010-03-19T19:17:57Z",
+                  "x": 78.97,
+                  "y": 120.88,
+                  "on_2b": 501605,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 56,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 151804,
+                "start_tfs_zulu": "2010-03-19T19:18:04Z",
+                "batter": 502210,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 425562,
+                "p_throws": "R",
+                "des": "Josh Reddick doubles (1) on a fly ball to right fielder Neil Walker.    Yamaico Navarro to 3rd.",
+                "event": "Double",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 343,
+                  "type": "X",
+                  "tfs": 151805,
+                  "tfs_zulu": "2010-03-19T19:18:05Z",
+                  "x": 59.23,
+                  "y": 133.84,
+                  "on_2b": 501605,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 501605,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Double"
+                  },
+                  {
+                    "id": 502210,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Double"
+                  }
+                ]
+              },
+              {
+                "num": 57,
+                "b": 4,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 151814,
+                "start_tfs_zulu": "2010-03-19T19:18:14Z",
+                "batter": 488694,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 425562,
+                "p_throws": "R",
+                "des": "Bubba Bell walks.",
+                "event": "Walk",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 348,
+                    "type": "B",
+                    "tfs": 151816,
+                    "tfs_zulu": "2010-03-19T19:18:16Z",
+                    "x": 66.09,
+                    "y": 131.24,
+                    "on_2b": 502210,
+                    "on_3b": 501605,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 349,
+                    "type": "B",
+                    "tfs": 151816,
+                    "tfs_zulu": "2010-03-19T19:18:16Z",
+                    "x": 66.09,
+                    "y": 131.24,
+                    "on_2b": 502210,
+                    "on_3b": 501605,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 350,
+                    "type": "B",
+                    "tfs": 151817,
+                    "tfs_zulu": "2010-03-19T19:18:17Z",
+                    "x": 66.09,
+                    "y": 131.24,
+                    "on_2b": 502210,
+                    "on_3b": 501605,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 351,
+                    "type": "B",
+                    "tfs": 151817,
+                    "tfs_zulu": "2010-03-19T19:18:17Z",
+                    "x": 66.09,
+                    "y": 131.24,
+                    "on_2b": 502210,
+                    "on_3b": 501605,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 488694,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk"
+                }
+              },
+              {
+                "num": 58,
+                "b": 4,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 151820,
+                "start_tfs_zulu": "2010-03-19T19:18:20Z",
+                "batter": 447816,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 425562,
+                "p_throws": "R",
+                "des": "Angel Sanchez walks.    Yamaico Navarro scores.    Josh Reddick to 3rd.    Bubba Bell to 2nd.",
+                "event": "Walk",
+                "score": "T",
+                "home_team_runs": 6,
+                "away_team_runs": 5,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 355,
+                    "type": "B",
+                    "tfs": 151822,
+                    "tfs_zulu": "2010-03-19T19:18:22Z",
+                    "x": 61.8,
+                    "y": 127.79,
+                    "on_1b": 488694,
+                    "on_2b": 502210,
+                    "on_3b": 501605,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 356,
+                    "type": "B",
+                    "tfs": 151822,
+                    "tfs_zulu": "2010-03-19T19:18:22Z",
+                    "x": 61.8,
+                    "y": 127.79,
+                    "on_1b": 488694,
+                    "on_2b": 502210,
+                    "on_3b": 501605,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 357,
+                    "type": "B",
+                    "tfs": 151823,
+                    "tfs_zulu": "2010-03-19T19:18:23Z",
+                    "x": 61.8,
+                    "y": 127.79,
+                    "on_1b": 488694,
+                    "on_2b": 502210,
+                    "on_3b": 501605,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 358,
+                    "type": "B",
+                    "tfs": 151823,
+                    "tfs_zulu": "2010-03-19T19:18:23Z",
+                    "x": 61.8,
+                    "y": 127.79,
+                    "on_1b": 488694,
+                    "on_2b": 502210,
+                    "on_3b": 501605,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 488694,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Walk"
+                  },
+                  {
+                    "id": 502210,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Walk"
+                  },
+                  {
+                    "id": 501605,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Walk",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 447816,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Walk"
+                  }
+                ]
+              },
+              {
+                "num": 59,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 151841,
+                "start_tfs_zulu": "2010-03-19T19:18:41Z",
+                "batter": 488686,
+                "stand": "R",
+                "b_height": "6-4",
+                "pitcher": 444371,
+                "p_throws": "R",
+                "des": "Aaron Bates singles on a ground ball to third baseman Jeremy Farrell.    Josh Reddick scores.    Bubba Bell to 3rd.    Angel Sanchez to 2nd.",
+                "event": "Single",
+                "score": "T",
+                "home_team_runs": 6,
+                "away_team_runs": 6,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 368,
+                  "type": "X",
+                  "tfs": 152254,
+                  "tfs_zulu": "2010-03-19T19:22:54Z",
+                  "x": 82.4,
+                  "y": 120.88,
+                  "on_1b": 447816,
+                  "on_2b": 488694,
+                  "on_3b": 502210,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 447816,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 488694,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 502210,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Single",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 488686,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 60,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 152301,
+                "start_tfs_zulu": "2010-03-19T19:23:01Z",
+                "batter": 444107,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 444371,
+                "p_throws": "R",
+                "des": "Brett Harper grounds into double play, first baseman Brian Myrow to shortstop Ramon Vazquez to first baseman Brian Myrow.    Aaron Bates out at 2nd.",
+                "event": "Grounded Into DP",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 376,
+                  "type": "X",
+                  "tfs": 152305,
+                  "tfs_zulu": "2010-03-19T19:23:05Z",
+                  "x": 78.97,
+                  "y": 120.02,
+                  "on_1b": 488686,
+                  "on_2b": 447816,
+                  "on_3b": 488694,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 488686,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Grounded Into DP"
+                  },
+                  {
+                    "id": 447816,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Grounded Into DP"
+                  },
+                  {
+                    "id": 488694,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Grounded Into DP"
+                  }
+                ]
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Jason Place replaces left fielder Jeremy Hermida, batting 6th, playing left field.",
+                "event": "Defensive Sub",
+                "tfs": 152432,
+                "tfs_zulu": "2010-03-19T19:24:32Z",
+                "player": 502135,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Yamaico Navarro remains in the game as the shortstop.",
+                "event": "Defensive Switch",
+                "tfs": 152432,
+                "tfs_zulu": "2010-03-19T19:24:32Z",
+                "player": 501605,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Ryan Khoury replaces third baseman Tug Hulett, batting 8th, playing third base.",
+                "event": "Defensive Sub",
+                "tfs": 152432,
+                "tfs_zulu": "2010-03-19T19:24:32Z",
+                "player": 501929,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: Jorge Sosa replaces Brian Shouse.",
+                "event": "Pitching Substitution",
+                "tfs": 152432,
+                "tfs_zulu": "2010-03-19T19:24:32Z",
+                "player": 407901,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Offensive Substitution: Pinch hitter Steve Pearce replaces Garrett Jones.",
+                "event": "Offensive sub",
+                "tfs": 153458,
+                "tfs_zulu": "2010-03-19T19:34:58Z",
+                "player": 456665,
+                "pitch": 1
+              },
+              {
+                "b": 1,
+                "s": 0,
+                "o": 0,
+                "des": "With Steve Pearce batting, wild pitch by Jorge Sosa, Jim Negrych to 2nd.",
+                "event": "Wild Pitch",
+                "tfs": 153508,
+                "tfs_zulu": "2010-03-19T19:35:08Z",
+                "player": 502145,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 61,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 152437,
+                "start_tfs_zulu": "2010-03-19T19:24:37Z",
+                "batter": 502145,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 407901,
+                "p_throws": "R",
+                "des": "Jim Negrych singles on a ground ball to right fielder Josh Reddick.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 391,
+                  "type": "X",
+                  "tfs": 153443,
+                  "tfs_zulu": "2010-03-19T19:34:43Z",
+                  "x": 68.67,
+                  "y": 133.84,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 502145,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 62,
+                "b": 1,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 153502,
+                "start_tfs_zulu": "2010-03-19T19:35:02Z",
+                "batter": 456665,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 407901,
+                "p_throws": "R",
+                "des": "Steve Pearce homers (1) on a fly ball to right field.    Jim Negrych scores.",
+                "event": "Home Run",
+                "score": "T",
+                "home_team_runs": 8,
+                "away_team_runs": 6,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 397,
+                    "type": "B",
+                    "tfs": 153505,
+                    "tfs_zulu": "2010-03-19T19:35:05Z",
+                    "x": 15.45,
+                    "y": 124.34,
+                    "on_1b": 502145,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "In play, run(s)",
+                    "id": 401,
+                    "type": "X",
+                    "tfs": 153510,
+                    "tfs_zulu": "2010-03-19T19:35:10Z",
+                    "x": 96.14,
+                    "y": 124.34,
+                    "on_2b": 502145,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 502145,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Wild Pitch"
+                  },
+                  {
+                    "id": 502145,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Home Run",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 456665,
+                    "start": "",
+                    "end": "",
+                    "event": "Home Run",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  }
+                ]
+              },
+              {
+                "num": 63,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 153520,
+                "start_tfs_zulu": "2010-03-19T19:35:20Z",
+                "batter": 450192,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 407901,
+                "p_throws": "R",
+                "des": "Luke Carlin flies out to right fielder Josh Reddick.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 408,
+                  "type": "X",
+                  "tfs": 153521,
+                  "tfs_zulu": "2010-03-19T19:35:21Z",
+                  "x": 92.7,
+                  "y": 140.74,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 64,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 153525,
+                "start_tfs_zulu": "2010-03-19T19:35:25Z",
+                "batter": 461235,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 407901,
+                "p_throws": "R",
+                "des": "Brandon Moss singles on a ground ball to right fielder Josh Reddick.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 412,
+                  "type": "X",
+                  "tfs": 153527,
+                  "tfs_zulu": "2010-03-19T19:35:27Z",
+                  "x": 85.84,
+                  "y": 131.24,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 461235,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 65,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 153532,
+                "start_tfs_zulu": "2010-03-19T19:35:32Z",
+                "batter": 434703,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 407901,
+                "p_throws": "R",
+                "des": "Brian Myrow flies out to right fielder Josh Reddick.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 416,
+                  "type": "X",
+                  "tfs": 153533,
+                  "tfs_zulu": "2010-03-19T19:35:33Z",
+                  "x": 94.42,
+                  "y": 130.38,
+                  "on_1b": 461235,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 66,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 153538,
+                "start_tfs_zulu": "2010-03-19T19:35:38Z",
+                "batter": 488871,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 407901,
+                "p_throws": "R",
+                "des": "Jeremy Farrell singles on a line drive to center fielder Bubba Bell.    Brandon Moss to 2nd.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 420,
+                  "type": "X",
+                  "tfs": 153538,
+                  "tfs_zulu": "2010-03-19T19:35:38Z",
+                  "x": 84.98,
+                  "y": 139.88,
+                  "on_1b": 461235,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 461235,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 488871,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 67,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 153544,
+                "start_tfs_zulu": "2010-03-19T19:35:44Z",
+                "batter": 435522,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 407901,
+                "p_throws": "R",
+                "des": "Neil Walker called out on strikes.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 425,
+                    "type": "S",
+                    "tfs": 153545,
+                    "tfs_zulu": "2010-03-19T19:35:45Z",
+                    "x": 118.45,
+                    "y": 135.56,
+                    "on_1b": 488871,
+                    "on_2b": 461235,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 426,
+                    "type": "S",
+                    "tfs": 153545,
+                    "tfs_zulu": "2010-03-19T19:35:45Z",
+                    "x": 91.85,
+                    "y": 123.47,
+                    "on_1b": 488871,
+                    "on_2b": 461235,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 427,
+                    "type": "S",
+                    "tfs": 153546,
+                    "tfs_zulu": "2010-03-19T19:35:46Z",
+                    "x": 90.99,
+                    "y": 120.88,
+                    "on_1b": 488871,
+                    "on_2b": 461235,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 488871,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Strikeout"
+                  },
+                  {
+                    "id": 461235,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Strikeout"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "num": 8,
+          "away_team": "bos",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Steve Pearce remains in the game as the designated hitter.",
+                "event": "Defensive Switch",
+                "tfs": 153616,
+                "tfs_zulu": "2010-03-19T19:36:16Z",
+                "player": 456665,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: Evan Meek replaces Jeff Karstens.",
+                "event": "Pitching Substitution",
+                "tfs": 153616,
+                "tfs_zulu": "2010-03-19T19:36:16Z",
+                "player": 457425,
+                "pitch": 3
+              }
+            ],
+            "atbat": [
+              {
+                "num": 68,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 153616,
+                "start_tfs_zulu": "2010-03-19T19:36:16Z",
+                "batter": 451259,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 457425,
+                "p_throws": "R",
+                "des": "Dusty Brown singles on a line drive to right fielder Neil Walker.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 437,
+                  "type": "X",
+                  "tfs": 154644,
+                  "tfs_zulu": "2010-03-19T19:46:44Z",
+                  "x": 66.09,
+                  "y": 137.29,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 451259,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 69,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 154652,
+                "start_tfs_zulu": "2010-03-19T19:46:52Z",
+                "batter": 502135,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 457425,
+                "p_throws": "R",
+                "des": "Jason Place doubles (1) on a line drive to center fielder John Raynor.    Dusty Brown scores.",
+                "event": "Double",
+                "score": "T",
+                "home_team_runs": 8,
+                "away_team_runs": 7,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 441,
+                  "type": "X",
+                  "tfs": 154653,
+                  "tfs_zulu": "2010-03-19T19:46:53Z",
+                  "x": 93.56,
+                  "y": 139.88,
+                  "on_1b": 451259,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 451259,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Double",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 502135,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Double"
+                  }
+                ]
+              },
+              {
+                "num": 70,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 154703,
+                "start_tfs_zulu": "2010-03-19T19:47:03Z",
+                "batter": 501605,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 457425,
+                "p_throws": "R",
+                "des": "Yamaico Navarro singles on a ground ball to second baseman Jim Negrych, deflected by shortstop Ramon Vazquez.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 448,
+                  "type": "X",
+                  "tfs": 154705,
+                  "tfs_zulu": "2010-03-19T19:47:05Z",
+                  "x": 90.13,
+                  "y": 115.7,
+                  "on_2b": 502135,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 501605,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 71,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 154907,
+                "start_tfs_zulu": "2010-03-19T19:49:07Z",
+                "batter": 501929,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 457425,
+                "p_throws": "R",
+                "des": "Ryan Khoury flies into double play, center fielder John Raynor to shortstop Ramon Vazquez to second baseman Jim Negrych.    Jason Place to 3rd.    Yamaico Navarro out at 2nd on the throw.",
+                "event": "Double Play",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 452,
+                  "type": "X",
+                  "tfs": 154907,
+                  "tfs_zulu": "2010-03-19T19:49:07Z",
+                  "x": 95.28,
+                  "y": 114.84,
+                  "on_1b": 501605,
+                  "on_2b": 502135,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 501605,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Double Play"
+                  },
+                  {
+                    "id": 502135,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Double Play"
+                  }
+                ]
+              },
+              {
+                "num": 72,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 154740,
+                "start_tfs_zulu": "2010-03-19T19:47:40Z",
+                "batter": 502210,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 457425,
+                "p_throws": "R",
+                "des": "Josh Reddick flies out to left fielder Brandon Moss.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 458,
+                  "type": "X",
+                  "tfs": 154744,
+                  "tfs_zulu": "2010-03-19T19:47:44Z",
+                  "x": 90.13,
+                  "y": 120.02,
+                  "on_3b": 502135,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 502135,
+                  "start": "3B",
+                  "end": "",
+                  "event": "Flyout"
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitcher Change: Junichi Tazawa replaces Jorge Sosa.",
+              "event": "Pitching Substitution",
+              "tfs": 154757,
+              "tfs_zulu": "2010-03-19T19:47:57Z",
+              "player": 547749,
+              "pitch": 1
+            },
+            "atbat": [
+              {
+                "num": 73,
+                "b": 3,
+                "s": 1,
+                "o": 0,
+                "start_tfs": 154803,
+                "start_tfs_zulu": "2010-03-19T19:48:03Z",
+                "batter": 489231,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 547749,
+                "p_throws": "R",
+                "des": "John Raynor homers (1) on a fly ball to right field.",
+                "event": "Home Run",
+                "score": "T",
+                "home_team_runs": 9,
+                "away_team_runs": 7,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 466,
+                    "type": "B",
+                    "tfs": 155405,
+                    "tfs_zulu": "2010-03-19T19:54:05Z",
+                    "x": 68.67,
+                    "y": 126.06,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 467,
+                    "type": "B",
+                    "tfs": 155405,
+                    "tfs_zulu": "2010-03-19T19:54:05Z",
+                    "x": 67.81,
+                    "y": 122.61,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 468,
+                    "type": "B",
+                    "tfs": 155406,
+                    "tfs_zulu": "2010-03-19T19:54:06Z",
+                    "x": 67.81,
+                    "y": 120.88,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 469,
+                    "type": "S",
+                    "tfs": 155408,
+                    "tfs_zulu": "2010-03-19T19:54:08Z",
+                    "x": 67.81,
+                    "y": 120.88,
+                    "cc": "Junichi Tazawa battled back from 3-0 to retire John Raynor.",
+                    "mt": ""
+                  },
+                  {
+                    "des": "In play, run(s)",
+                    "id": 470,
+                    "type": "X",
+                    "tfs": 155409,
+                    "tfs_zulu": "2010-03-19T19:54:09Z",
+                    "x": 73.82,
+                    "y": 114.84,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 489231,
+                  "start": "",
+                  "end": "",
+                  "event": "Home Run",
+                  "score": "T",
+                  "rbi": "T",
+                  "earned": "T"
+                }
+              },
+              {
+                "num": 74,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 155415,
+                "start_tfs_zulu": "2010-03-19T19:54:15Z",
+                "batter": 407496,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 547749,
+                "p_throws": "R",
+                "des": "Ramon Vazquez pops out to catcher Dusty Brown in foul territory.",
+                "event": "Pop Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 475,
+                  "type": "X",
+                  "tfs": 155415,
+                  "tfs_zulu": "2010-03-19T19:54:15Z",
+                  "x": 84.12,
+                  "y": 137.29,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 75,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 155421,
+                "start_tfs_zulu": "2010-03-19T19:54:21Z",
+                "batter": 502145,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 547749,
+                "p_throws": "R",
+                "des": "Jim Negrych grounds out, second baseman Angel Sanchez to first baseman Aaron Bates.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 479,
+                  "type": "X",
+                  "tfs": 155422,
+                  "tfs_zulu": "2010-03-19T19:54:22Z",
+                  "x": 102.15,
+                  "y": 129.52,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 76,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 155426,
+                "start_tfs_zulu": "2010-03-19T19:54:26Z",
+                "batter": 456665,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 547749,
+                "p_throws": "R",
+                "des": "Steve Pearce strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 483,
+                    "type": "S",
+                    "tfs": 155427,
+                    "tfs_zulu": "2010-03-19T19:54:27Z",
+                    "x": 97,
+                    "y": 138.15,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 484,
+                    "type": "S",
+                    "tfs": 155428,
+                    "tfs_zulu": "2010-03-19T19:54:28Z",
+                    "x": 97,
+                    "y": 138.15,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 485,
+                    "type": "S",
+                    "tfs": 155429,
+                    "tfs_zulu": "2010-03-19T19:54:29Z",
+                    "x": 97,
+                    "y": 138.15,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "num": 9,
+          "away_team": "bos",
+          "home_team": "pit",
+          "next": "N",
+          "top": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitcher Change: Jean Machi replaces Evan Meek.",
+              "event": "Pitching Substitution",
+              "tfs": 155440,
+              "tfs_zulu": "2010-03-19T19:54:40Z",
+              "player": 466948,
+              "pitch": 3
+            },
+            "atbat": [
+              {
+                "num": 77,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 155447,
+                "start_tfs_zulu": "2010-03-19T19:54:47Z",
+                "batter": 488694,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 466948,
+                "p_throws": "R",
+                "des": "Bubba Bell singles on a ground ball to third baseman Jeremy Farrell.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 492,
+                  "type": "X",
+                  "tfs": 160607,
+                  "tfs_zulu": "2010-03-19T20:06:07Z",
+                  "x": 114.16,
+                  "y": 114.84,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 488694,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 78,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 160613,
+                "start_tfs_zulu": "2010-03-19T20:06:13Z",
+                "batter": 447816,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 466948,
+                "p_throws": "R",
+                "des": "Angel Sanchez called out on strikes.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 496,
+                    "type": "S",
+                    "tfs": 160614,
+                    "tfs_zulu": "2010-03-19T20:06:14Z",
+                    "x": 89.27,
+                    "y": 134.7,
+                    "on_1b": 488694,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 497,
+                    "type": "S",
+                    "tfs": 160615,
+                    "tfs_zulu": "2010-03-19T20:06:15Z",
+                    "x": 89.27,
+                    "y": 134.7,
+                    "on_1b": 488694,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 498,
+                    "type": "S",
+                    "tfs": 160616,
+                    "tfs_zulu": "2010-03-19T20:06:16Z",
+                    "x": 89.27,
+                    "y": 134.7,
+                    "on_1b": 488694,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 79,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 160619,
+                "start_tfs_zulu": "2010-03-19T20:06:19Z",
+                "batter": 488686,
+                "stand": "R",
+                "b_height": "6-4",
+                "pitcher": 466948,
+                "p_throws": "R",
+                "des": "Aaron Bates strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 502,
+                    "type": "S",
+                    "tfs": 160620,
+                    "tfs_zulu": "2010-03-19T20:06:20Z",
+                    "x": 91.85,
+                    "y": 124.34,
+                    "on_1b": 488694,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 503,
+                    "type": "S",
+                    "tfs": 160621,
+                    "tfs_zulu": "2010-03-19T20:06:21Z",
+                    "x": 91.85,
+                    "y": 124.34,
+                    "on_1b": 488694,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 504,
+                    "type": "S",
+                    "tfs": 160621,
+                    "tfs_zulu": "2010-03-19T20:06:21Z",
+                    "x": 91.85,
+                    "y": 124.34,
+                    "on_1b": 488694,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 80,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 160624,
+                "start_tfs_zulu": "2010-03-19T20:06:24Z",
+                "batter": 444107,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 466948,
+                "p_throws": "R",
+                "des": "Brett Harper grounds out to first baseman Brian Myrow.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 508,
+                  "type": "X",
+                  "tfs": 160625,
+                  "tfs_zulu": "2010-03-19T20:06:25Z",
+                  "x": 85.84,
+                  "y": 136.43,
+                  "on_1b": 488694,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 488694,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Groundout"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "id": "0462ba86-30ad-431d-bd31-4b7a16d85503",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:15:39Z",
+      "contextualData": {
+        "batter": 111904,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "696b708d-6c84-48d4-a36b-b689f64723f1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:15:47Z",
+      "contextualData": {
+        "batter": 456030,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "7d07dc6f-d7e1-4f3c-bdb5-7e19dd8017d0",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Passed Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:15:50Z",
+      "contextualData": {
+        "player": 111904
+      }
+    },
+    {
+      "id": "59ccf6a9-bb78-4c61-a75f-3f4724ddf3da",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:15:51Z",
+      "contextualData": {
+        "batter": 456030,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "828973e3-37bb-443d-9050-0909adf439a9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:15:58Z",
+      "contextualData": {
+        "batter": 400121,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "a7b462ff-9bfd-4dfe-8b1a-4fdf6966d8dd",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:16:16Z",
+      "contextualData": {
+        "batter": 120074,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "ad79f170-d516-4e80-9e35-0d36ce75e500",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:16:17Z",
+      "contextualData": {
+        "batter": 120074,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "e5f5b075-c4a8-4459-8640-031171162465",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:16:17Z",
+      "contextualData": {
+        "batter": 120074,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "b53154b6-bdcc-4887-af5f-8d7b252a38ac",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:16:32Z",
+      "contextualData": {
+        "batter": 123660,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "eda86517-de4e-497f-a2c3-50613844aa20",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:22:57Z",
+      "contextualData": {
+        "batter": 457705,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "dd777c36-fb64-480b-b458-393867c804df",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:23:02Z",
+      "contextualData": {
+        "batter": 430592,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "ac7b4632-8d5b-4fbd-b364-8baa0a2434d0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:23:06Z",
+      "contextualData": {
+        "batter": 493127,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "8947bb33-dad8-411f-9ff3-3d2c50ed47b2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:23:07Z",
+      "contextualData": {
+        "batter": 493127,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "9532000d-f892-4b79-9ce8-ac956793be32",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:23:07Z",
+      "contextualData": {
+        "batter": 493127,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "a77a318e-ba54-4afc-9a40-9f0a99151e7d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:23:13Z",
+      "contextualData": {
+        "batter": 434540,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "746ade80-cb87-4fd6-9a53-689155ab7f6a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:29:50Z",
+      "contextualData": {
+        "batter": 435181,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "82b34c5e-fe26-400d-bc70-1bbea7c60e9c",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:29:55Z",
+      "contextualData": {
+        "batter": 407849,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "b3009145-46d3-4395-b24a-97cd45f46b75",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:30:02Z",
+      "contextualData": {
+        "batter": 461834,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "90a0c0e5-ead9-4a65-8e78-1b0409283c60",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:30:02Z",
+      "contextualData": {
+        "batter": 461834,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "f09fa531-3d9d-42c8-bad5-c7905d066210",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:30:03Z",
+      "contextualData": {
+        "batter": 461834,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "c5ba6bf8-1bc4-4605-b8ab-77d48fe014e1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:42:56Z",
+      "contextualData": {
+        "batter": 425491,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "1c7befa0-d635-406c-80a1-7fc83fa7cd0c",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:43:13Z",
+      "contextualData": {
+        "batter": 451186,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "698a04b1-2cf2-4f6b-9b0d-ca5057f9b3f9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:43:22Z",
+      "contextualData": {
+        "batter": 459943,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "ef7f1d60-1588-4c64-8144-60407dee9aba",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:43:22Z",
+      "contextualData": {
+        "batter": 459943,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "95b36af1-9e20-47da-b669-eb402f903426",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:43:22Z",
+      "contextualData": {
+        "batter": 459943,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "b9ac5aa3-5584-4998-a69d-2ef90d76ccac",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:43:23Z",
+      "contextualData": {
+        "batter": 459943,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "cc6e0493-29ad-4642-8539-ca6f373089fb",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:43:40Z",
+      "contextualData": {
+        "batter": 451188,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "a4eee90c-e668-4fd4-92c9-eb142e8dfa29",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:43:47Z",
+      "contextualData": {
+        "batter": 434704,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "502faffa-d97a-48f1-bba7-402ff0fb8b40",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T17:43:52Z",
+      "contextualData": {
+        "batter": 457705,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "25787709-e788-4c55-a1ca-6c2712a077d3",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:54:10Z",
+      "contextualData": {
+        "batter": 502210,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "774f856b-a5e7-4890-a893-bc8b92a7f079",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:54:11Z",
+      "contextualData": {
+        "batter": 502210,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "4446c1fe-7057-4222-958e-bbaa97655403",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:54:11Z",
+      "contextualData": {
+        "batter": 502210,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "390785d8-5b48-47fd-94c2-dc030d97b224",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:54:14Z",
+      "contextualData": {
+        "batter": 111904,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "bfb4f0a3-8d7a-4c2b-9355-9bd7bb7c2d87",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:54:19Z",
+      "contextualData": {
+        "batter": 456030,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "ed639678-db4e-49cd-9990-5c5b6b688438",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:54:29Z",
+      "contextualData": {
+        "batter": 400121,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "a2f430df-489a-4bd0-b66a-e40c7e68987d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T17:54:33Z",
+      "contextualData": {
+        "batter": 120074,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "87208d2e-dd01-4593-97ba-66392ebfc483",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:08:43Z",
+      "contextualData": {
+        "batter": 430592,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "0a3ab3ce-4c87-4243-bc10-bf753adf4840",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:08:48Z",
+      "contextualData": {
+        "batter": 493127,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "fa014e13-d519-4571-99b0-6f0b4f1622e7",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:08:53Z",
+      "contextualData": {
+        "batter": 434540,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "0d10d732-c79f-4b34-b7a5-a2dba1352a6c",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:09:01Z",
+      "contextualData": {
+        "batter": 425491,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "6f1ede8e-4cce-4364-a081-385a75eafc98",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:09:07Z",
+      "contextualData": {
+        "batter": 451186,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "27a61d44-80a3-48e8-a69a-9848cb41cc89",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T18:16:14Z",
+      "contextualData": {
+        "batter": 123660,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "b43e30c7-d7f2-49a4-83b0-673af82ba6c6",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T18:16:19Z",
+      "contextualData": {
+        "batter": 435181,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "2b13f00e-c5d0-448a-bfbb-d08cdbb47cde",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T18:16:24Z",
+      "contextualData": {
+        "batter": 407849,
+        "pitcher": 430904
+      }
+    },
+    {
+      "id": "1cf478ff-4ff4-4f5b-bd96-c323dcd5df15",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:23:58Z",
+      "contextualData": {
+        "batter": 459943,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "031c19be-8401-4eda-a3db-b3808ecb70c1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:24:03Z",
+      "contextualData": {
+        "batter": 451188,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "f8179d34-8d19-410e-bd58-fb823f4ce20b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:24:04Z",
+      "contextualData": {
+        "batter": 451188,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "8735a4e7-022f-4b49-9b50-3e9bb1219569",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:24:04Z",
+      "contextualData": {
+        "batter": 451188,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "8af147ef-38dd-4b79-b9f6-5a503d884a7b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:24:05Z",
+      "contextualData": {
+        "batter": 451188,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "c1021319-5678-4acc-a932-fedf6fcbe33e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:24:09Z",
+      "contextualData": {
+        "batter": 434704,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "cafb2e6c-ba1f-4ce5-bebe-19b766b71fac",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:24:09Z",
+      "contextualData": {
+        "batter": 434704,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "a4d126f2-fd6e-40bc-b726-45412e9516f7",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:24:10Z",
+      "contextualData": {
+        "batter": 434704,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "5ab4e8d2-02cc-4d89-b81a-f8183f9daa06",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:24:12Z",
+      "contextualData": {
+        "batter": 434704,
+        "pitcher": 277417
+      }
+    },
+    {
+      "id": "b6940241-711f-4642-87c0-5912d2ae5b14",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:24:25Z",
+      "contextualData": {
+        "player": 425786
+      }
+    },
+    {
+      "id": "83188cc0-8b9c-4abf-9783-8ce28c17780e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:27:39Z",
+      "contextualData": {
+        "batter": 457705,
+        "pitcher": 425786
+      }
+    },
+    {
+      "id": "661269cc-44da-40f7-928d-2d71396cbb57",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:27:45Z",
+      "contextualData": {
+        "batter": 430592,
+        "pitcher": 425786
+      }
+    },
+    {
+      "id": "0624c90f-d22f-4a03-94a2-f6c87b930215",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T18:27:57Z",
+      "contextualData": {
+        "player": 434638
+      }
+    },
+    {
+      "id": "d54192da-f168-4ecf-81c7-fc2f890d667b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T18:35:55Z",
+      "contextualData": {
+        "batter": 461834,
+        "pitcher": 434638
+      }
+    },
+    {
+      "id": "4be4f9f8-f0ed-462f-8564-84f455c9c938",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T18:36:00Z",
+      "contextualData": {
+        "batter": 502210,
+        "pitcher": 434638
+      }
+    },
+    {
+      "id": "c649e36f-2d06-4ee1-8301-46ae7e9a93b1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T18:36:05Z",
+      "contextualData": {
+        "batter": 111904,
+        "pitcher": 434638
+      }
+    },
+    {
+      "id": "fd54ad2c-00b5-4c25-8a28-f297d6e186c4",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T18:36:10Z",
+      "contextualData": {
+        "batter": 456030,
+        "pitcher": 434638
+      }
+    },
+    {
+      "id": "e6e1daf3-8c2e-4e07-86b8-11901eef93d9",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:36:29Z",
+      "contextualData": {
+        "player": 488694
+      }
+    },
+    {
+      "id": "ea487200-708a-4be1-8ad5-9cdf155ebb7b",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:36:29Z",
+      "contextualData": {
+        "player": 447816
+      }
+    },
+    {
+      "id": "7cc5bb1c-5f34-4cd4-a9aa-534f153bfb87",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:52:13Z",
+      "contextualData": {
+        "batter": 493127,
+        "pitcher": 425786
+      }
+    },
+    {
+      "id": "05c57020-ab9c-4b33-bfb6-8af55b1cead0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:52:26Z",
+      "contextualData": {
+        "batter": 434540,
+        "pitcher": 425786
+      }
+    },
+    {
+      "id": "ead66b8e-9098-436e-8c99-3ca74a2c8156",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:52:26Z",
+      "contextualData": {
+        "batter": 434540,
+        "pitcher": 425786
+      }
+    },
+    {
+      "id": "157306a9-bfaa-4e0b-8e26-be9bb8599999",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:52:27Z",
+      "contextualData": {
+        "batter": 434540,
+        "pitcher": 425786
+      }
+    },
+    {
+      "id": "fcfc6c93-a6db-4739-8ae8-1422b820d5eb",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:52:38Z",
+      "contextualData": {
+        "batter": 425491,
+        "pitcher": 425786
+      }
+    },
+    {
+      "id": "7d6e086c-8cc4-4704-86fc-152d802c1cbe",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:52:39Z",
+      "contextualData": {
+        "batter": 425491,
+        "pitcher": 425786
+      }
+    },
+    {
+      "id": "dc7da99c-291b-47a6-aa3d-6b26091577c2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:52:39Z",
+      "contextualData": {
+        "batter": 425491,
+        "pitcher": 425786
+      }
+    },
+    {
+      "id": "c7e4e18f-2e7e-4bd9-b1b5-bdbdf3b0e132",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:52:40Z",
+      "contextualData": {
+        "batter": 425491,
+        "pitcher": 425786
+      }
+    },
+    {
+      "id": "110ffdcd-5999-4f46-b2ef-3bb171149c65",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:52:43Z",
+      "contextualData": {
+        "batter": 451186,
+        "pitcher": 425786
+      }
+    },
+    {
+      "id": "e515f065-0578-4da5-b21c-8c6bb22e80fe",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:52:48Z",
+      "contextualData": {
+        "batter": 459943,
+        "pitcher": 425786
+      }
+    },
+    {
+      "id": "1b0c65c2-0556-4fd5-9f7c-3d5c3d663abb",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T18:52:52Z",
+      "contextualData": {
+        "batter": 451188,
+        "pitcher": 425786
+      }
+    },
+    {
+      "id": "854f437f-5466-46b6-a54e-9089f4c9fb3e",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:01:18Z",
+      "contextualData": {
+        "player": 489231
+      }
+    },
+    {
+      "id": "0868d077-4437-4687-8767-077f8a70dd9d",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:01:18Z",
+      "contextualData": {
+        "player": 407496
+      }
+    },
+    {
+      "id": "d0301e63-a883-4df3-b463-2781161ceae2",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:01:18Z",
+      "contextualData": {
+        "player": 450192
+      }
+    },
+    {
+      "id": "ff2cc0f5-12fb-4fdf-8a5d-c8304569b833",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:01:18Z",
+      "contextualData": {
+        "player": 461235
+      }
+    },
+    {
+      "id": "4612d93e-533c-4572-bb3d-5eed96f51605",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:01:18Z",
+      "contextualData": {
+        "player": 434703
+      }
+    },
+    {
+      "id": "ff9dc369-2abf-4a3f-96df-7e17999dd6e6",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:01:18Z",
+      "contextualData": {
+        "player": 435522
+      }
+    },
+    {
+      "id": "115846bd-f658-413f-b60a-f6464b5c42cb",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:01:18Z",
+      "contextualData": {
+        "player": 407791
+      }
+    },
+    {
+      "id": "311efb3f-547e-4df1-87ec-5d67d6d79e27",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:01:18Z",
+      "contextualData": {
+        "player": 502145
+      }
+    },
+    {
+      "id": "a114554e-c80d-4e0e-875b-c11dd047778c",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:01:18Z",
+      "contextualData": {
+        "player": 488871
+      }
+    },
+    {
+      "id": "ea4c364c-85e0-42d1-8392-915f7bd201e0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:01:28Z",
+      "contextualData": {
+        "batter": 400121,
+        "pitcher": 407791
+      }
+    },
+    {
+      "id": "3099df51-412a-48b9-b358-c89254e5e86e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:01:35Z",
+      "contextualData": {
+        "batter": 120074,
+        "pitcher": 407791
+      }
+    },
+    {
+      "id": "7b1de10c-ff7f-48ed-8b99-7422fa8b40a3",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:02:40Z",
+      "contextualData": {
+        "player": 444107
+      }
+    },
+    {
+      "id": "76c5e727-4f21-4c91-aabd-d90434e71d7a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:02:47Z",
+      "contextualData": {
+        "batter": 123660,
+        "pitcher": 407791
+      }
+    },
+    {
+      "id": "b389ba07-adae-49d3-97c2-5d39278e5c11",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:03:35Z",
+      "contextualData": {
+        "player": 488686
+      }
+    },
+    {
+      "id": "e77bcf1c-4243-4ad1-8d5c-7f93fe0cd028",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:03:35Z",
+      "contextualData": {
+        "player": 122195
+      }
+    },
+    {
+      "id": "0bfead19-fa5e-4a2e-9024-59699365f8dd",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:03:35Z",
+      "contextualData": {
+        "player": 451259
+      }
+    },
+    {
+      "id": "d7e2a8fa-e927-4071-8ff7-c605152913fa",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:03:35Z",
+      "contextualData": {
+        "player": 444107
+      }
+    },
+    {
+      "id": "4b6ef1e3-ff10-4ec3-a40e-4dbe96912478",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:03:51Z",
+      "contextualData": {
+        "batter": 435522,
+        "pitcher": 122195
+      }
+    },
+    {
+      "id": "b759b5c3-e4fd-471d-beb3-6870f7b7139a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:03:57Z",
+      "contextualData": {
+        "batter": 489231,
+        "pitcher": 122195
+      }
+    },
+    {
+      "id": "dac212ce-0ae2-4d28-b89f-2bf8850062f0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:04:06Z",
+      "contextualData": {
+        "batter": 407496,
+        "pitcher": 122195
+      }
+    },
+    {
+      "id": "358c37f2-e6fd-4e31-a521-a57c9010a2eb",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:04:24Z",
+      "contextualData": {
+        "player": 425562
+      }
+    },
+    {
+      "id": "63fe5b78-9f5d-4250-9b42-5bdf01aced6f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:16:52Z",
+      "contextualData": {
+        "batter": 435181,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "28b70f20-c747-4f54-b5b0-380c7446157e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:16:52Z",
+      "contextualData": {
+        "batter": 435181,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "3cfc6369-95b7-4679-802d-e10c7fd78a4f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:16:53Z",
+      "contextualData": {
+        "batter": 435181,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "4f6c8bde-6caf-4054-9761-9922a2354777",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:16:54Z",
+      "contextualData": {
+        "batter": 435181,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "82cd1aae-edb8-4cf8-a000-030088963c95",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:16:57Z",
+      "contextualData": {
+        "batter": 435181,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "e6ed6840-b4a0-4520-9b9c-faf068492eb9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:17:11Z",
+      "contextualData": {
+        "batter": 407849,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "31be1898-bac1-4332-b6ed-ce6a09dcdaa2",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:17:29Z",
+      "contextualData": {
+        "player": 501605
+      }
+    },
+    {
+      "id": "2b1ef88d-46c3-44bb-895d-ac2ce58b9d31",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:17:57Z",
+      "contextualData": {
+        "batter": 461834,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "c6b1c30a-908e-4d5a-8006-32caa0b98a89",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:18:05Z",
+      "contextualData": {
+        "batter": 502210,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "a50c5591-51bd-4b60-bb0a-5299b2bed8f3",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:18:16Z",
+      "contextualData": {
+        "batter": 488694,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "563510e1-6d2c-4818-8c45-9ab3f3f57240",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:18:16Z",
+      "contextualData": {
+        "batter": 488694,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "ce669f28-10e4-4d3a-943b-511479078d7f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:18:17Z",
+      "contextualData": {
+        "batter": 488694,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "e471af23-2819-4371-b05e-d8067d346973",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:18:17Z",
+      "contextualData": {
+        "batter": 488694,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "67d0f16e-e0cc-44ff-b0e6-77fa8dfdcc99",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:18:22Z",
+      "contextualData": {
+        "batter": 447816,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "095a9e92-8bf4-4d44-b5d3-3f8265c02b8e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:18:22Z",
+      "contextualData": {
+        "batter": 447816,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "559b1cac-e49f-4bd1-9f3b-682f7f27e2f0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:18:23Z",
+      "contextualData": {
+        "batter": 447816,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "0216039b-8ce1-4aa6-bbd2-004381eb841f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:18:23Z",
+      "contextualData": {
+        "batter": 447816,
+        "pitcher": 425562
+      }
+    },
+    {
+      "id": "7cfa0b6a-5676-42fa-b39a-41c673a7e7d2",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:18:36Z",
+      "contextualData": {
+        "player": 444371
+      }
+    },
+    {
+      "id": "35c5cb0f-a5dd-4cf0-9424-e2225a0067c5",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:22:54Z",
+      "contextualData": {
+        "batter": 488686,
+        "pitcher": 444371
+      }
+    },
+    {
+      "id": "10d92936-243e-4558-bf55-298b993f1c1b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:23:05Z",
+      "contextualData": {
+        "batter": 444107,
+        "pitcher": 444371
+      }
+    },
+    {
+      "id": "a9ea4dcc-93b4-43a5-9394-fdd33a4455b9",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:24:32Z",
+      "contextualData": {
+        "player": 502135
+      }
+    },
+    {
+      "id": "997b4943-2b2a-4ec9-8dbe-7a6a7caeb615",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:24:32Z",
+      "contextualData": {
+        "player": 501605
+      }
+    },
+    {
+      "id": "e8594ce6-1277-4632-a475-f9b416bef90a",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:24:32Z",
+      "contextualData": {
+        "player": 501929
+      }
+    },
+    {
+      "id": "95b489bc-33fd-4a4c-8fea-5219a3e0be30",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:24:32Z",
+      "contextualData": {
+        "player": 407901
+      }
+    },
+    {
+      "id": "811a1e6e-d131-473f-b0f2-b7ac12d70efa",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:34:43Z",
+      "contextualData": {
+        "batter": 502145,
+        "pitcher": 407901
+      }
+    },
+    {
+      "id": "b239b45b-1e8f-42f4-8d5f-cc86b55b2166",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive sub",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:34:58Z",
+      "contextualData": {
+        "player": 456665
+      }
+    },
+    {
+      "id": "a97b9c36-5113-4241-b82d-40df7c880240",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:35:05Z",
+      "contextualData": {
+        "batter": 456665,
+        "pitcher": 407901
+      }
+    },
+    {
+      "id": "0b90b0d5-1d66-4b3e-8174-b44948ae6138",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Wild Pitch",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:35:08Z",
+      "contextualData": {
+        "player": 502145
+      }
+    },
+    {
+      "id": "98d4cff5-faa2-4524-b2b6-60ee2866b060",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:35:10Z",
+      "contextualData": {
+        "batter": 456665,
+        "pitcher": 407901
+      }
+    },
+    {
+      "id": "efa339b6-f54d-4f0f-aa40-c1ce244f0e01",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:35:21Z",
+      "contextualData": {
+        "batter": 450192,
+        "pitcher": 407901
+      }
+    },
+    {
+      "id": "ac032db1-f4bd-40b0-a53d-3c68a9b79fb6",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:35:27Z",
+      "contextualData": {
+        "batter": 461235,
+        "pitcher": 407901
+      }
+    },
+    {
+      "id": "bfc95ee8-6872-423e-91df-df555a89a7b3",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:35:33Z",
+      "contextualData": {
+        "batter": 434703,
+        "pitcher": 407901
+      }
+    },
+    {
+      "id": "2eb8995d-80aa-4748-8ee8-c9159f1f25e6",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:35:38Z",
+      "contextualData": {
+        "batter": 488871,
+        "pitcher": 407901
+      }
+    },
+    {
+      "id": "56213654-141d-4e5c-829d-16d88789ed28",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:35:45Z",
+      "contextualData": {
+        "batter": 435522,
+        "pitcher": 407901
+      }
+    },
+    {
+      "id": "721427ed-8798-40e0-9c07-1087878541b9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:35:45Z",
+      "contextualData": {
+        "batter": 435522,
+        "pitcher": 407901
+      }
+    },
+    {
+      "id": "98f5043e-facb-4d80-98ae-5e1aba8caabf",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:35:46Z",
+      "contextualData": {
+        "batter": 435522,
+        "pitcher": 407901
+      }
+    },
+    {
+      "id": "fdaaac18-960a-4d7d-bb99-2e96f631ae99",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:36:16Z",
+      "contextualData": {
+        "player": 457425
+      }
+    },
+    {
+      "id": "8905d9d5-7887-4066-8e59-c0ae0322feb4",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:36:16Z",
+      "contextualData": {
+        "player": 456665
+      }
+    },
+    {
+      "id": "3f6a28b8-3a73-4b4d-9e29-390cf9716b36",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:46:44Z",
+      "contextualData": {
+        "batter": 451259,
+        "pitcher": 457425
+      }
+    },
+    {
+      "id": "1ad1d2c1-1828-469d-9592-58c8d7f2bdc0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:46:53Z",
+      "contextualData": {
+        "batter": 502135,
+        "pitcher": 457425
+      }
+    },
+    {
+      "id": "417e499d-2053-4f98-a308-d0e8790ff1de",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:47:05Z",
+      "contextualData": {
+        "batter": 501605,
+        "pitcher": 457425
+      }
+    },
+    {
+      "id": "77d471e2-87e4-41b3-b8c5-0bea74d0cfbd",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:47:44Z",
+      "contextualData": {
+        "batter": 502210,
+        "pitcher": 457425
+      }
+    },
+    {
+      "id": "95b4e6b6-2cd9-4a32-9751-2188605b220c",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:47:57Z",
+      "contextualData": {
+        "player": 547749
+      }
+    },
+    {
+      "id": "5918824d-f490-4dd2-bc98-d8eeec26e359",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:49:07Z",
+      "contextualData": {
+        "batter": 501929,
+        "pitcher": 457425
+      }
+    },
+    {
+      "id": "be3cff38-fb25-4cd5-acc9-680b1f2930f5",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:54:05Z",
+      "contextualData": {
+        "batter": 489231,
+        "pitcher": 547749
+      }
+    },
+    {
+      "id": "ab4f093f-0b47-48c1-aafb-3646838be861",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:54:05Z",
+      "contextualData": {
+        "batter": 489231,
+        "pitcher": 547749
+      }
+    },
+    {
+      "id": "3b38f245-963f-4abc-9e22-f2620c3358fa",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:54:06Z",
+      "contextualData": {
+        "batter": 489231,
+        "pitcher": 547749
+      }
+    },
+    {
+      "id": "2d1fb726-3a8f-4337-9dbb-68328cc00032",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:54:08Z",
+      "contextualData": {
+        "batter": 489231,
+        "pitcher": 547749
+      }
+    },
+    {
+      "id": "1ccd0c64-e2fd-4ca4-a19b-551b497161df",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:54:09Z",
+      "contextualData": {
+        "batter": 489231,
+        "pitcher": 547749
+      }
+    },
+    {
+      "id": "33c5f2a5-85bd-4f43-b975-2cc7399facaf",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:54:15Z",
+      "contextualData": {
+        "batter": 407496,
+        "pitcher": 547749
+      }
+    },
+    {
+      "id": "87be5b42-96d9-401d-853f-b3df2d1d403b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:54:22Z",
+      "contextualData": {
+        "batter": 502145,
+        "pitcher": 547749
+      }
+    },
+    {
+      "id": "45234220-ed3e-4ac3-ac5c-14a04ced3521",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:54:27Z",
+      "contextualData": {
+        "batter": 456665,
+        "pitcher": 547749
+      }
+    },
+    {
+      "id": "1cfb89f0-2e1e-491e-93d7-f7d23f34074e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:54:28Z",
+      "contextualData": {
+        "batter": 456665,
+        "pitcher": 547749
+      }
+    },
+    {
+      "id": "a85c7d0a-0c02-4d6a-9b18-d9dbacc2d15a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2010-03-19T19:54:29Z",
+      "contextualData": {
+        "batter": 456665,
+        "pitcher": 547749
+      }
+    },
+    {
+      "id": "1b1337ea-ad68-4b83-b352-4efbd820cd60",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T19:54:40Z",
+      "contextualData": {
+        "player": 466948
+      }
+    },
+    {
+      "id": "87a30d42-d239-4381-bcdd-a48bae9a4778",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T20:06:07Z",
+      "contextualData": {
+        "batter": 488694,
+        "pitcher": 466948
+      }
+    },
+    {
+      "id": "a26b2476-7efe-4b57-bbe7-3e47180bd64e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T20:06:14Z",
+      "contextualData": {
+        "batter": 447816,
+        "pitcher": 466948
+      }
+    },
+    {
+      "id": "d0c9405a-b3c2-4637-bc8c-afa9a8e945c8",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T20:06:15Z",
+      "contextualData": {
+        "batter": 447816,
+        "pitcher": 466948
+      }
+    },
+    {
+      "id": "45cda0e3-aac6-48b3-8563-acf088d8efd6",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T20:06:16Z",
+      "contextualData": {
+        "batter": 447816,
+        "pitcher": 466948
+      }
+    },
+    {
+      "id": "ee9a29eb-48f7-4ba6-bb02-b9097952a43b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T20:06:20Z",
+      "contextualData": {
+        "batter": 488686,
+        "pitcher": 466948
+      }
+    },
+    {
+      "id": "c9150b5d-dcf7-4b2a-8ae0-ea720be6bbaa",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T20:06:21Z",
+      "contextualData": {
+        "batter": 488686,
+        "pitcher": 466948
+      }
+    },
+    {
+      "id": "fcc9784c-9326-463d-ac53-b8dee9808aee",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T20:06:21Z",
+      "contextualData": {
+        "batter": 488686,
+        "pitcher": 466948
+      }
+    },
+    {
+      "id": "6b263cb4-5330-41f1-b748-6641d275c2ee",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "bos",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2010-03-19T20:06:25Z",
+      "contextualData": {
+        "batter": 444107,
+        "pitcher": 466948
+      }
+    }
+  ]
+}

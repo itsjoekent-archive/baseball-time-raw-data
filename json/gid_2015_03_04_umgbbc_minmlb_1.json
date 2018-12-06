@@ -1,0 +1,5779 @@
+{
+  "origial": {
+    "game": {
+      "atBat": 662122,
+      "deck": 662127,
+      "hole": 662103,
+      "ind": "F",
+      "inning": [
+        {
+          "num": 1,
+          "away_team": "umg",
+          "home_team": "min",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 1,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 1135,
+                "start_tfs_zulu": "2015-03-05T00:11:35Z",
+                "batter": 662119,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 621244,
+                "p_throws": "R",
+                "des": "Dan Motl hit by pitch.",
+                "des_es": "Dan Motl golpeado por lanzamiento.",
+                "event_num": 4,
+                "event": "Hit By Pitch",
+                "event_es": "Pelotazo",
+                "home_team_runs": 0,
+                "away_team_runs": 0,
+                "pitch": {
+                  "des": "Hit By Pitch",
+                  "des_es": "Pelotazo",
+                  "id": 3,
+                  "type": "B",
+                  "tfs": 1141,
+                  "tfs_zulu": "2015-03-05T00:11:41Z",
+                  "x": 1,
+                  "y": 1,
+                  "event_num": 3,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 662119,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Hit By Pitch",
+                  "event_num": 4
+                }
+              },
+              {
+                "num": 2,
+                "b": 0,
+                "s": 1,
+                "o": 0,
+                "start_tfs": 1224,
+                "start_tfs_zulu": "2015-03-05T00:12:24Z",
+                "batter": 662123,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 621244,
+                "p_throws": "R",
+                "des": "Connor Schaefbauer reaches on a force attempt, fielding error by second baseman James Beresford.   Dan Motl to 2nd.",
+                "des_es": "Connor Schaefbauer se embasa en intento de out forzado, fielding error by segunda base James Beresford.   Dan Motl a 2da.",
+                "event_num": 9,
+                "event": "Field Error",
+                "event_es": "Error de Fildeo",
+                "home_team_runs": 0,
+                "away_team_runs": 0,
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 6,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 99.74300913284996,
+                  "y": 145.79251012145747,
+                  "event_num": 6,
+                  "on_1b": 662119,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 662119,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Field Error",
+                    "event_num": 9
+                  },
+                  {
+                    "id": 662123,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Field Error",
+                    "event_num": 9
+                  }
+                ]
+              },
+              {
+                "num": 3,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 1422,
+                "start_tfs_zulu": "2015-03-05T00:14:22Z",
+                "batter": 662105,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 621244,
+                "p_throws": "R",
+                "des": "Matt Fielder strikes out swinging.",
+                "des_es": "Matt Fielder se poncha tir&#225;ndole.",
+                "event_num": 15,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 0,
+                "away_team_runs": 0,
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 11,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 110.64593729404007,
+                    "y": 162.88512145748987,
+                    "event_num": 11,
+                    "on_1b": 662123,
+                    "on_2b": 662119,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 12,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 113.8259580077205,
+                    "y": 149.6993927125506,
+                    "event_num": 12,
+                    "on_1b": 662123,
+                    "on_2b": 662119,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 13,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 113.8259580077205,
+                    "y": 147.25759109311738,
+                    "event_num": 13,
+                    "on_1b": 662123,
+                    "on_2b": 662119,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 4,
+                "b": 1,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 1518,
+                "start_tfs_zulu": "2015-03-05T00:15:18Z",
+                "batter": 662110,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 621244,
+                "p_throws": "R",
+                "des": "Toby Hanson strikes out swinging.",
+                "des_es": "Toby Hanson se poncha tir&#225;ndole.",
+                "event_num": 26,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 0,
+                "away_team_runs": 0,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 17,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 117.46026739478387,
+                    "y": 205.86082995951418,
+                    "event_num": 17,
+                    "on_1b": 662123,
+                    "on_2b": 662119,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 22,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 108.37449392712546,
+                    "y": 151.1644736842105,
+                    "event_num": 22,
+                    "on_2b": 662123,
+                    "on_3b": 662119,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 23,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 120.64028810846432,
+                    "y": 143.35070850202428,
+                    "event_num": 23,
+                    "on_2b": 662123,
+                    "on_3b": 662119,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 24,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 120.64028810846432,
+                    "y": 143.35070850202428,
+                    "event_num": 24,
+                    "on_2b": 662123,
+                    "on_3b": 662119,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 662123,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Wild Pitch",
+                    "event_num": 21
+                  },
+                  {
+                    "id": 662119,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Wild Pitch",
+                    "event_num": 21
+                  }
+                ]
+              },
+              {
+                "num": 5,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 1904,
+                "start_tfs_zulu": "2015-03-05T00:19:04Z",
+                "batter": 662109,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 621244,
+                "p_throws": "R",
+                "des": "Michael Handel singles on a ground ball to second baseman James Beresford.   Dan Motl scores.    Connor Schaefbauer to 3rd.",
+                "des_es": "Michael Handel pega sencillo con rodado a segunda base James Beresford.   Dan Motl anota  Connor Schaefbauer a 3ra.",
+                "event_num": 33,
+                "event": "Single",
+                "event_es": "Sencillo",
+                "score": "T",
+                "home_team_runs": 0,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "des_es": "En juego, carrera(s)",
+                  "id": 28,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 108.82878260050839,
+                  "y": 132.11842105263153,
+                  "event_num": 28,
+                  "on_2b": 662123,
+                  "on_3b": 662119,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 662123,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Single",
+                    "event_num": 33
+                  },
+                  {
+                    "id": 662119,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Single",
+                    "event_num": 33,
+                    "score": "T",
+                    "rbi": "T"
+                  },
+                  {
+                    "id": 662109,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single",
+                    "event_num": 33
+                  }
+                ]
+              },
+              {
+                "num": 6,
+                "b": 1,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 2351,
+                "start_tfs_zulu": "2015-03-05T00:23:51Z",
+                "batter": 662108,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 621244,
+                "p_throws": "R",
+                "des": "With Matt Halloran batting, Connor Schaefbauer caught stealing home, catcher Eric Fryer to shortstop Eduardo Nunez to catcher Eric Fryer.",
+                "des_es": "Con Matt Halloran bateando, Connor Schaefbauer atrapado robando el plato, receptor Eric Fryer a campo corto Eduardo Nunez a receptor Eric Fryer.",
+                "event_num": 38,
+                "event": "Runner Out",
+                "event_es": "Corredor Out",
+                "home_team_runs": 0,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "Ball",
+                  "des_es": "Bola mala",
+                  "id": 35,
+                  "type": "B",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 155.760656423746,
+                  "y": 152.47011568123392,
+                  "event_num": 35,
+                  "on_1b": 662109,
+                  "on_3b": 662123,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 662109,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Caught Stealing Home",
+                    "event_num": 38
+                  },
+                  {
+                    "id": 662123,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Caught Stealing Home",
+                    "event_num": 38
+                  }
+                ]
+              }
+            ],
+            "action": [
+              {
+                "b": 1,
+                "s": 0,
+                "o": 1,
+                "des": "With Toby Hanson batting, wild pitch by Jose Berrios, Dan Motl to 3rd.    Connor Schaefbauer to 2nd.",
+                "des_es": "Con Toby Hanson bateando, lanzamiento desviado de Jose Berrios, Dan Motl a 3ra.    Connor Schaefbauer a 2da.",
+                "event": "Wild Pitch",
+                "event_es": "Lanzamiento Descontrolado",
+                "tfs": 1647,
+                "tfs_zulu": "2015-03-05T00:16:47Z",
+                "player": 662123,
+                "pitch": 1,
+                "event_num": 21,
+                "home_team_runs": 0,
+                "away_team_runs": 0
+              },
+              {
+                "b": 1,
+                "s": 0,
+                "o": 3,
+                "des": "With Matt Halloran batting, Connor Schaefbauer caught stealing home, catcher Eric Fryer to shortstop Eduardo Nunez to catcher Eric Fryer.",
+                "des_es": "Con Matt Halloran bateando, Connor Schaefbauer atrapado robando el plato, receptor Eric Fryer a campo corto Eduardo Nunez a receptor Eric Fryer.",
+                "event": "Caught Stealing Home",
+                "event_es": "Retirado en Intento de Robo del Plato",
+                "tfs": 2421,
+                "tfs_zulu": "2015-03-05T00:24:21Z",
+                "player": 662123,
+                "pitch": 1,
+                "event_num": 38,
+                "home_team_runs": 0,
+                "away_team_runs": 1
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 7,
+                "b": 0,
+                "s": 1,
+                "o": 0,
+                "start_tfs": 2522,
+                "start_tfs_zulu": "2015-03-05T00:25:22Z",
+                "batter": 621439,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 662097,
+                "p_throws": "R",
+                "des": "Byron Buxton doubles (1) on a fly ball to center fielder Dan Motl.",
+                "des_es": "Byron Buxton pega doble (1) con elevado a jardinero central Dan Motl.",
+                "event_num": 44,
+                "event": "Double",
+                "event_es": "Doble",
+                "home_team_runs": 0,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 42,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 102.68479105637589,
+                  "y": 127.6629177377892,
+                  "event_num": 42,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 621439,
+                  "start": "",
+                  "end": "2B",
+                  "event": "Double",
+                  "event_num": 44
+                }
+              },
+              {
+                "num": 8,
+                "b": 0,
+                "s": 1,
+                "o": 1,
+                "start_tfs": 2622,
+                "start_tfs_zulu": "2015-03-05T00:26:22Z",
+                "batter": 456488,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 662097,
+                "p_throws": "R",
+                "des": "Eduardo Nunez flies out to right fielder Matt Fielder.",
+                "des_es": "Eduardo Nunez batea elevado de out a jardinero derecho Matt Fielder.",
+                "event_num": 48,
+                "event": "Flyout",
+                "event_es": "Elevado de Out",
+                "home_team_runs": 0,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 46,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 123.45360793925985,
+                  "y": 147.508676092545,
+                  "event_num": 46,
+                  "on_2b": 621439,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 9,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 2756,
+                "start_tfs_zulu": "2015-03-05T00:27:56Z",
+                "batter": 543302,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 662097,
+                "p_throws": "R",
+                "des": "Chris Herrmann pops out to shortstop Michael Handel.",
+                "des_es": "Chris Herrmann batea elevadito de out a campo corto Michael Handel.",
+                "event_num": 52,
+                "event": "Pop Out",
+                "event_es": "Elevado de Out",
+                "home_team_runs": 0,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 50,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 104.99243737669636,
+                  "y": 164.8737146529563,
+                  "event_num": 50,
+                  "on_2b": 621439,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 10,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 2909,
+                "start_tfs_zulu": "2015-03-05T00:29:09Z",
+                "batter": 573627,
+                "stand": "L",
+                "b_height": "6-5",
+                "pitcher": 662097,
+                "p_throws": "R",
+                "des": "Kennys Vargas doubles (1) on a fly ball to center fielder Dan Motl.   Byron Buxton scores.",
+                "des_es": "Kennys Vargas pega doble (1) con elevado a jardinero central Dan Motl.   Byron Buxton anota.",
+                "event_num": 59,
+                "event": "Double",
+                "event_es": "Doble",
+                "score": "T",
+                "home_team_runs": 1,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "des_es": "En juego, carrera(s)",
+                  "id": 54,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 107.87699527709688,
+                  "y": 154.9508354755784,
+                  "event_num": 54,
+                  "on_2b": 621439,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 621439,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Double",
+                    "event_num": 59,
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 573627,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Double",
+                    "event_num": 59
+                  }
+                ]
+              },
+              {
+                "num": 11,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 3014,
+                "start_tfs_zulu": "2015-03-05T00:30:14Z",
+                "batter": 593934,
+                "stand": "R",
+                "b_height": "6-4",
+                "pitcher": 662097,
+                "p_throws": "R",
+                "des": "Miguel Sano singles on a line drive to center fielder Dan Motl.   Kennys Vargas to 3rd.",
+                "des_es": "Miguel Sano pega sencillo con l&#237;nea a jardinero central Dan Motl.   Kennys Vargas a 3ra.",
+                "event_num": 64,
+                "event": "Single",
+                "event_es": "Sencillo",
+                "home_team_runs": 1,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 61,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 97.4925868356549,
+                  "y": 148.12885604113112,
+                  "event_num": 61,
+                  "on_2b": 573627,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 573627,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Single",
+                    "event_num": 64
+                  },
+                  {
+                    "id": 593934,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single",
+                    "event_num": 64
+                  }
+                ]
+              },
+              {
+                "num": 12,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 3115,
+                "start_tfs_zulu": "2015-03-05T00:31:15Z",
+                "batter": 592696,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 662097,
+                "p_throws": "R",
+                "des": "Eddie Rosario strikes out swinging.",
+                "des_es": "Eddie Rosario se poncha tir&#225;ndole.",
+                "event_num": 73,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 1,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 66,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 115.13637191098162,
+                    "y": 159.3891878669276,
+                    "event_num": 66,
+                    "on_1b": 593934,
+                    "on_3b": 573627,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 70,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 115.13637191098162,
+                    "y": 158.9170743639922,
+                    "event_num": 70,
+                    "on_2b": 593934,
+                    "on_3b": 573627,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 71,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 115.13637191098162,
+                    "y": 158.9170743639922,
+                    "event_num": 71,
+                    "on_2b": 593934,
+                    "on_3b": 573627,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 593934,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Stolen Base 2B",
+                    "event_num": 69
+                  },
+                  {
+                    "id": 593934,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Strikeout",
+                    "event_num": 73
+                  },
+                  {
+                    "id": 573627,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Strikeout",
+                    "event_num": 73
+                  }
+                ]
+              }
+            ],
+            "action": {
+              "b": 0,
+              "s": 1,
+              "o": 2,
+              "des": "With Eddie Rosario batting, Miguel Sano steals (1) 2nd base.",
+              "des_es": "Con Eddie Rosario bateando, Miguel Sano se roba (1) la 2da base.",
+              "event": "Stolen Base 2B",
+              "event_es": "Base Robada 2B",
+              "tfs": 22738,
+              "tfs_zulu": "2015-03-05T02:27:38Z",
+              "player": 593934,
+              "pitch": 1,
+              "event_num": 69,
+              "home_team_runs": 1,
+              "away_team_runs": 1
+            }
+          }
+        },
+        {
+          "num": 2,
+          "away_team": "umg",
+          "home_team": "min",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 13,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 3552,
+                "start_tfs_zulu": "2015-03-05T00:35:52Z",
+                "batter": 662108,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 621244,
+                "p_throws": "R",
+                "des": "Matt Halloran strikes out swinging.",
+                "des_es": "Matt Halloran se poncha tir&#225;ndole.",
+                "event_num": 81,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 1,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 77,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 109.03081843725711,
+                    "y": 167.35443444730075,
+                    "event_num": 77,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 78,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 109.03081843725711,
+                    "y": 167.35443444730075,
+                    "event_num": 78,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 79,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 109.03081843725711,
+                    "y": 167.35443444730075,
+                    "event_num": 79,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 14,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 3906,
+                "start_tfs_zulu": "2015-03-05T00:39:06Z",
+                "batter": 662125,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 621244,
+                "p_throws": "R",
+                "des": "Tony Skjefte grounds out, third baseman Miguel Sano to first baseman Kennys Vargas.",
+                "des_es": "Tony Skjefte batea rodado de out, tercera base Miguel Sano a primera base Kennys Vargas.",
+                "event_num": 85,
+                "event": "Groundout",
+                "event_es": "Roletazo de Out",
+                "home_team_runs": 1,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 83,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 110.71710021070041,
+                  "y": 152.66966553767995,
+                  "event_num": 83,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 15,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 4042,
+                "start_tfs_zulu": "2015-03-05T00:40:42Z",
+                "batter": 662126,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 621244,
+                "p_throws": "R",
+                "des": "Jordan Smith strikes out swinging.",
+                "des_es": "Jordan Smith se poncha tir&#225;ndole.",
+                "event_num": 91,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 1,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 87,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 110.14702754858907,
+                    "y": 150.83118120237089,
+                    "event_num": 87,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 88,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 122.11855345292713,
+                    "y": 144.09007197290435,
+                    "event_num": 88,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 89,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 119.26819014237046,
+                    "y": 141.63875952582558,
+                    "event_num": 89,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 16,
+                "b": 4,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 4350,
+                "start_tfs_zulu": "2015-03-05T00:43:50Z",
+                "batter": 518700,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 662097,
+                "p_throws": "R",
+                "des": "Eric Fryer walks.",
+                "des_es": "Eric Fryer recibe base por bolas.",
+                "event_num": 99,
+                "event": "Walk",
+                "event_es": "Base por Bolas",
+                "home_team_runs": 1,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 94,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 152.90247720693932,
+                    "y": 128.15654106689246,
+                    "event_num": 94,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 95,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 155.18276785538467,
+                    "y": 128.15654106689246,
+                    "event_num": 95,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 96,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 155.18276785538467,
+                    "y": 128.15654106689246,
+                    "event_num": 96,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 97,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 155.18276785538467,
+                    "y": 128.15654106689246,
+                    "event_num": 97,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 518700,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk",
+                  "event_num": 99
+                }
+              },
+              {
+                "num": 17,
+                "b": 0,
+                "s": 1,
+                "o": 1,
+                "start_tfs": 4546,
+                "start_tfs_zulu": "2015-03-05T00:45:46Z",
+                "batter": 503437,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 662097,
+                "p_throws": "R",
+                "des": "James Beresford flies out to center fielder Dan Motl.",
+                "des_es": "James Beresford batea elevado de out a jardinero central Dan Motl.",
+                "event_num": 103,
+                "event": "Flyout",
+                "event_es": "Elevado de Out",
+                "home_team_runs": 1,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 101,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 111.85724553492308,
+                  "y": 150.21835309060123,
+                  "event_num": 101,
+                  "on_1b": 518700,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 18,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 4820,
+                "start_tfs_zulu": "2015-03-05T00:48:20Z",
+                "batter": 453203,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 662097,
+                "p_throws": "R",
+                "des": "Shane Robinson grounds out, second baseman Connor Schaefbauer to first baseman Toby Hanson.   Eric Fryer to 2nd.",
+                "des_es": "Shane Robinson batea rodado de out a primera base Toby Hanson en jugada de infield fly.   Eric Fryer a 2da.",
+                "event_num": 108,
+                "event": "Groundout",
+                "event_es": "Roletazo de Out",
+                "home_team_runs": 1,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 105,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 123.82877143926115,
+                  "y": 145.9285563082134,
+                  "event_num": 105,
+                  "on_1b": 518700,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 518700,
+                  "start": "1B",
+                  "end": "2B",
+                  "event": "Groundout",
+                  "event_num": 108
+                }
+              },
+              {
+                "num": 19,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 5019,
+                "start_tfs_zulu": "2015-03-05T00:50:19Z",
+                "batter": 621439,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 662097,
+                "p_throws": "R",
+                "des": "Byron Buxton doubles (2) on a line drive to left fielder Jordan Smith.   Eric Fryer scores.",
+                "des_es": "Byron Buxton pega doble (2) con l&#237;nea a jardinero izquierdo Jordan Smith.   Eric Fryer anota.",
+                "event_num": 115,
+                "event": "Double",
+                "event_es": "Doble",
+                "score": "T",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "des_es": "En juego, carrera(s)",
+                  "id": 110,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 102.7360829411417,
+                  "y": 151.44400931414057,
+                  "event_num": 110,
+                  "on_2b": 518700,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 518700,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Double",
+                    "event_num": 115,
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 621439,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Double",
+                    "event_num": 115
+                  }
+                ]
+              },
+              {
+                "num": 20,
+                "b": 0,
+                "s": 1,
+                "o": 3,
+                "start_tfs": 5044,
+                "start_tfs_zulu": "2015-03-05T00:50:44Z",
+                "batter": 456488,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 662097,
+                "p_throws": "R",
+                "des": "Eduardo Nunez grounds out, second baseman Connor Schaefbauer to first baseman Toby Hanson.",
+                "des_es": "Eduardo Nunez batea rodado de out, segunda base Connor Schaefbauer a primera base Toby Hanson.",
+                "event_num": 119,
+                "event": "Groundout",
+                "event_es": "Roletazo de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 117,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 114.70760884547978,
+                  "y": 170.44168077900088,
+                  "event_num": 117,
+                  "on_2b": 621439,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 621439,
+                  "start": "2B",
+                  "end": "",
+                  "event": "Groundout",
+                  "event_num": 119
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 3,
+          "away_team": "umg",
+          "home_team": "min",
+          "next": "Y",
+          "top": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitching Change: Glen Perkins replaces Jose Berrios.",
+              "des_es": "Cambio de Lanzador: Glen Perkins reemplaza a Jose Berrios.",
+              "event": "Pitching Substitution",
+              "event_es": "Cambio de Lanzador",
+              "tfs": "",
+              "tfs_zulu": "",
+              "player": 450282,
+              "pitch": 1,
+              "event_num": 123,
+              "home_team_runs": 2,
+              "away_team_runs": 1
+            },
+            "atbat": [
+              {
+                "num": 21,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 5238,
+                "start_tfs_zulu": "2015-03-05T00:52:38Z",
+                "batter": 662099,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 450282,
+                "p_throws": "L",
+                "des": "Jake Bergren strikes out swinging.",
+                "des_es": "Jake Bergren se poncha tir&#225;ndole.",
+                "event_num": 129,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 125,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 96.46528365791701,
+                    "y": 148.37986875529216,
+                    "event_num": 125,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 126,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 103.87622826536438,
+                    "y": 148.37986875529216,
+                    "event_num": 126,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 127,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 103.87622826536438,
+                    "y": 147.76704064352245,
+                    "event_num": 127,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 22,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 5417,
+                "start_tfs_zulu": "2015-03-05T00:54:17Z",
+                "batter": 662119,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 450282,
+                "p_throws": "L",
+                "des": "Dan Motl flies out to left fielder Eddie Rosario.",
+                "des_es": "Dan Motl batea elevado de out a jardinero izquierdo Eddie Rosario.",
+                "event_num": 133,
+                "event": "Flyout",
+                "event_es": "Elevado de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 131,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 111.85724553492308,
+                  "y": 150.21835309060123,
+                  "event_num": 131,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 23,
+                "b": 0,
+                "s": 1,
+                "o": 3,
+                "start_tfs": 5512,
+                "start_tfs_zulu": "2015-03-05T00:55:12Z",
+                "batter": 662123,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 450282,
+                "p_throws": "L",
+                "des": "Connor Schaefbauer grounds out to first baseman Kennys Vargas.",
+                "des_es": "Connor Schaefbauer batea rodado de out a primera base Kennys Vargas.",
+                "event_num": 137,
+                "event": "Groundout",
+                "event_es": "Roletazo de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 135,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 119.26819014237046,
+                  "y": 172.89299322607962,
+                  "event_num": 135,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitching Change: Cody Campbell replaces Toby Anderson.",
+              "des_es": "Cambio de Lanzador: Cody Campbell reemplaza a Toby Anderson.",
+              "event": "Pitching Substitution",
+              "event_es": "Cambio de Lanzador",
+              "tfs": "",
+              "tfs_zulu": "",
+              "player": 662101,
+              "pitch": 1,
+              "event_num": 140,
+              "home_team_runs": 2,
+              "away_team_runs": 1
+            },
+            "atbat": [
+              {
+                "num": 24,
+                "b": 4,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 5751,
+                "start_tfs_zulu": "2015-03-05T00:57:51Z",
+                "batter": 543302,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 662101,
+                "p_throws": "R",
+                "des": "Chris Herrmann walks.",
+                "des_es": "Chris Herrmann recibe base por bolas.",
+                "event_num": 147,
+                "event": "Walk",
+                "event_es": "Base por Bolas",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 142,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 151.1922592206053,
+                    "y": 128.76936917866217,
+                    "event_num": 142,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 143,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 154.04262253116198,
+                    "y": 197.4061176968671,
+                    "event_num": 143,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 144,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 75.37259515979756,
+                    "y": 80.35594834885693,
+                    "event_num": 144,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 145,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 81.07332178091092,
+                    "y": 207.21136748518208,
+                    "event_num": 145,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 543302,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk",
+                  "event_num": 147
+                }
+              },
+              {
+                "num": 25,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 10118,
+                "start_tfs_zulu": "2015-03-05T01:01:18Z",
+                "batter": 573627,
+                "stand": "L",
+                "b_height": "6-5",
+                "pitcher": 662101,
+                "p_throws": "R",
+                "des": "Kennys Vargas grounds into a double play, shortstop Michael Handel to first baseman Toby Hanson.   Chris Herrmann out at 2nd.",
+                "des_es": "Kennys Vargas batea rodado batea para doble matanza, campo corto Michael Handel a primera base Toby Hanson.   Chris Herrmann a cabo a 2da.",
+                "event_num": 152,
+                "event": "Grounded Into DP",
+                "event_es": "Roletazo de Doble Play",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 149,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 119.26819014237046,
+                  "y": 158.18511854360716,
+                  "event_num": 149,
+                  "on_1b": 543302,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 543302,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Grounded Into DP",
+                  "event_num": 152
+                }
+              },
+              {
+                "num": 26,
+                "b": 4,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 10137,
+                "start_tfs_zulu": "2015-03-05T01:01:37Z",
+                "batter": 593934,
+                "stand": "R",
+                "b_height": "6-4",
+                "pitcher": 662101,
+                "p_throws": "R",
+                "des": "Miguel Sano walks.",
+                "des_es": "Miguel Sano recibe base por bolas.",
+                "event_num": 159,
+                "event": "Walk",
+                "event_es": "Base por Bolas",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 154,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 151.1922592206053,
+                    "y": 126.9308848433531,
+                    "event_num": 154,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 155,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 84.49375775357895,
+                    "y": 197.4061176968671,
+                    "event_num": 155,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 156,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 62.830996593348154,
+                    "y": 77.90463590177818,
+                    "event_num": 156,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 157,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 82.21346710513359,
+                    "y": 69.32504233700257,
+                    "event_num": 157,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 593934,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk",
+                  "event_num": 159
+                }
+              },
+              {
+                "num": 27,
+                "b": 0,
+                "s": 1,
+                "o": 3,
+                "start_tfs": 10315,
+                "start_tfs_zulu": "2015-03-05T01:03:15Z",
+                "batter": 592696,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 662101,
+                "p_throws": "R",
+                "des": "Eddie Rosario flies out to center fielder Dan Motl.",
+                "des_es": "Eddie Rosario batea elevado de out a jardinero central Dan Motl.",
+                "event_num": 163,
+                "event": "Flyout",
+                "event_es": "Elevado de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 161,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 103.87622826536438,
+                  "y": 135.51047840812873,
+                  "event_num": 161,
+                  "on_1b": 593934,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 593934,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Flyout",
+                  "event_num": 163
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 4,
+          "away_team": "umg",
+          "home_team": "min",
+          "next": "Y",
+          "top": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitching Change: Mark Hamburger replaces Glen Perkins.",
+              "des_es": "Cambio de Lanzador: Mark Hamburger reemplaza a Glen Perkins.",
+              "event": "Pitching Substitution",
+              "event_es": "Cambio de Lanzador",
+              "tfs": "",
+              "tfs_zulu": "",
+              "player": 523648,
+              "pitch": 1,
+              "event_num": 167,
+              "home_team_runs": 2,
+              "away_team_runs": 1
+            },
+            "atbat": [
+              {
+                "num": 28,
+                "b": 0,
+                "s": 1,
+                "o": 1,
+                "start_tfs": 10749,
+                "start_tfs_zulu": "2015-03-05T01:07:49Z",
+                "batter": 662105,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 523648,
+                "p_throws": "R",
+                "des": "Matt Fielder grounds out, shortstop Eduardo Nunez to first baseman Kennys Vargas.",
+                "des_es": "Matt Fielder batea rodado de out, campo corto Eduardo Nunez a primera base Kennys Vargas.",
+                "event_num": 171,
+                "event": "Groundout",
+                "event_es": "Roletazo de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 169,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 103.87622826536438,
+                  "y": 165.5390558848434,
+                  "event_num": 169,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 29,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 10830,
+                "start_tfs_zulu": "2015-03-05T01:08:30Z",
+                "batter": 662110,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 523648,
+                "p_throws": "R",
+                "des": "Toby Hanson flies out to center fielder Byron Buxton.",
+                "des_es": "Toby Hanson batea elevado de out a jardinero central Byron Buxton.",
+                "event_num": 175,
+                "event": "Flyout",
+                "event_es": "Elevado de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 173,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 100.45579229269636,
+                  "y": 142.86441574936498,
+                  "event_num": 173,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 30,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 10954,
+                "start_tfs_zulu": "2015-03-05T01:09:54Z",
+                "batter": 662109,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 523648,
+                "p_throws": "R",
+                "des": "Michael Handel strikes out swinging.",
+                "des_es": "Michael Handel se poncha tir&#225;ndole.",
+                "event_num": 181,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 177,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 110.14702754858907,
+                    "y": 151.44400931414057,
+                    "event_num": 177,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 178,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 110.14702754858907,
+                    "y": 151.44400931414057,
+                    "event_num": 178,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 179,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 110.14702754858907,
+                    "y": 151.44400931414057,
+                    "event_num": 179,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              }
+            ]
+          },
+          "bottom": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitching Change: Lance Thonvold replaces Cody Campbell.",
+              "des_es": "Cambio de Lanzador: Lance Thonvold reemplaza a Cody Campbell.",
+              "event": "Pitching Substitution",
+              "event_es": "Cambio de Lanzador",
+              "tfs": "",
+              "tfs_zulu": "",
+              "player": 657045,
+              "pitch": 3,
+              "event_num": 184,
+              "home_team_runs": 2,
+              "away_team_runs": 1
+            },
+            "atbat": [
+              {
+                "num": 31,
+                "b": 0,
+                "s": 1,
+                "o": 0,
+                "start_tfs": 11405,
+                "start_tfs_zulu": "2015-03-05T01:14:05Z",
+                "batter": 518700,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 657045,
+                "p_throws": "R",
+                "des": "Eric Fryer doubles (1) on a line drive to left fielder Jordan Smith.",
+                "des_es": "Eric Fryer pega doble (1) con l&#237;nea a jardinero izquierdo Jordan Smith.",
+                "event_num": 188,
+                "event": "Double",
+                "event_es": "Doble",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 186,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 89.05433905046962,
+                  "y": 161.24925910245557,
+                  "event_num": 186,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 518700,
+                  "start": "",
+                  "end": "2B",
+                  "event": "Double",
+                  "event_num": 188
+                }
+              },
+              {
+                "num": 32,
+                "b": 4,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 11644,
+                "start_tfs_zulu": "2015-03-05T01:16:44Z",
+                "batter": 503437,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 657045,
+                "p_throws": "R",
+                "des": "James Beresford walks.",
+                "des_es": "James Beresford recibe base por bolas.",
+                "event_num": 195,
+                "event": "Walk",
+                "event_es": "Base por Bolas",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 190,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 21.215692259220585,
+                    "y": 145.31572819644373,
+                    "event_num": 190,
+                    "on_2b": 518700,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 191,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 148.34189591004863,
+                    "y": 123.86674428450469,
+                    "event_num": 191,
+                    "on_2b": 518700,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 192,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 149.4820412342713,
+                    "y": 175.95713378492806,
+                    "event_num": 192,
+                    "on_2b": 518700,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 193,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 71.95215918712952,
+                    "y": 212.1139923793396,
+                    "event_num": 193,
+                    "on_2b": 518700,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 503437,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk",
+                  "event_num": 195
+                }
+              },
+              {
+                "num": 33,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 11919,
+                "start_tfs_zulu": "2015-03-05T01:19:19Z",
+                "batter": 453203,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 657045,
+                "p_throws": "R",
+                "des": "Shane Robinson grounds into a double play, shortstop Michael Handel to second baseman Connor Schaefbauer to first baseman Toby Hanson.   Eric Fryer to 3rd.    James Beresford out at 2nd.",
+                "des_es": "Shane Robinson batea rodado batea para doble matanza, campo corto Michael Handel a segunda base Connor Schaefbauer a primera base Toby Hanson.   Eric Fryer a 3ra.    James Beresford a cabo a 2da.",
+                "event_num": 201,
+                "event": "Grounded Into DP",
+                "event_es": "Roletazo de Doble Play",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 197,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 119.8382628044818,
+                  "y": 155.1209779847587,
+                  "event_num": 197,
+                  "on_1b": 503437,
+                  "on_2b": 518700,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 503437,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Grounded Into DP",
+                    "event_num": 201
+                  },
+                  {
+                    "id": 518700,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Grounded Into DP",
+                    "event_num": 201
+                  }
+                ]
+              },
+              {
+                "num": 34,
+                "b": 0,
+                "s": 1,
+                "o": 3,
+                "start_tfs": 12036,
+                "start_tfs_zulu": "2015-03-05T01:20:36Z",
+                "batter": 621439,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 657045,
+                "p_throws": "R",
+                "des": "Byron Buxton grounds out, third baseman Tony Skjefte to first baseman Toby Hanson.",
+                "des_es": "Byron Buxton batea rodado de out, tercera base Tony Skjefte a primera base Toby Hanson.",
+                "event_num": 205,
+                "event": "Groundout",
+                "event_es": "Roletazo de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 203,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 102.7360829411417,
+                  "y": 135.51047840812873,
+                  "event_num": 203,
+                  "on_3b": 518700,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 518700,
+                  "start": "3B",
+                  "end": "",
+                  "event": "Groundout",
+                  "event_num": 205
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 5,
+          "away_team": "umg",
+          "home_team": "min",
+          "next": "Y",
+          "top": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Defensive Substitution: Eric Farris replaces center fielder Byron Buxton, batting 1st, playing center field.",
+              "des_es": "Sustituci&#243;n a la Defensiva: Eric Farris reemplaza a jardinero central Byron Buxton, como primer bate y jugando en el jardinero central.",
+              "event": "Defensive Sub",
+              "event_es": "Sustituci&#243;n Defensiva",
+              "tfs": "",
+              "tfs_zulu": "",
+              "player": 456544,
+              "pitch": 1,
+              "event_num": 209,
+              "home_team_runs": 2,
+              "away_team_runs": 1
+            },
+            "atbat": [
+              {
+                "num": 35,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 12324,
+                "start_tfs_zulu": "2015-03-05T01:23:24Z",
+                "batter": 662108,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 523648,
+                "p_throws": "R",
+                "des": "Matt Halloran called out on strikes.",
+                "des_es": "Matt Halloran se poncha sin tirarle.",
+                "event_num": 215,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 211,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 120.97840812870447,
+                    "y": 145.31572819644373,
+                    "event_num": 211,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 212,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 95.89521099580567,
+                    "y": 138.57461896697714,
+                    "event_num": 212,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 213,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 108.43680956225508,
+                    "y": 153.89532176121932,
+                    "event_num": 213,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 36,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 12424,
+                "start_tfs_zulu": "2015-03-05T01:24:24Z",
+                "batter": 662125,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 523648,
+                "p_throws": "R",
+                "des": "Tony Skjefte flies out to center fielder Eric Farris.",
+                "des_es": "Tony Skjefte batea elevado de out a jardinero central Eric Farris.",
+                "event_num": 219,
+                "event": "Flyout",
+                "event_es": "Elevado de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 217,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 107.2966642380324,
+                  "y": 138.57461896697714,
+                  "event_num": 217,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 37,
+                "b": 0,
+                "s": 1,
+                "o": 3,
+                "start_tfs": 12639,
+                "start_tfs_zulu": "2015-03-05T01:26:39Z",
+                "batter": 662126,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 523648,
+                "p_throws": "R",
+                "des": "Jordan Smith grounds out, shortstop Eduardo Nunez to first baseman Kennys Vargas.",
+                "des_es": "Jordan Smith batea rodado de out, campo corto Eduardo Nunez a primera base Kennys Vargas.",
+                "event_num": 223,
+                "event": "Groundout",
+                "event_es": "Roletazo de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 221,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 102.7360829411417,
+                  "y": 138.57461896697714,
+                  "event_num": 221,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Alex Boxwell replaces center fielder Dan Motl, batting 1st, playing center field.",
+                "des_es": "Sustituci&#243;n a la Defensiva: Alex Boxwell reemplaza a jardinero central Dan Motl, como primer bate y jugando en el jardinero central.",
+                "event": "Defensive Sub",
+                "event_es": "Sustituci&#243;n Defensiva",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 662100,
+                "pitch": 1,
+                "event_num": 226,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Austin Athmann replaces catcher Matt Halloran, batting 6th, playing catcher.",
+                "des_es": "Sustituci&#243;n a la Defensiva: Austin Athmann reemplaza a receptor Matt Halloran, como sexto bate y jugando en el receptor.",
+                "event": "Defensive Sub",
+                "event_es": "Sustituci&#243;n Defensiva",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 662098,
+                "pitch": 1,
+                "event_num": 228,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitching Change: Jordan Jess replaces Lance Thonvold.",
+                "des_es": "Cambio de Lanzador: Jordan Jess reemplaza a Lance Thonvold.",
+                "event": "Pitching Substitution",
+                "event_es": "Cambio de Lanzador",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 662112,
+                "pitch": 1,
+                "event_num": 230,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 38,
+                "b": 0,
+                "s": 1,
+                "o": 1,
+                "start_tfs": 13048,
+                "start_tfs_zulu": "2015-03-05T01:30:48Z",
+                "batter": 456488,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 662112,
+                "p_throws": "L",
+                "des": "Eduardo Nunez flies out to right fielder Matt Fielder.",
+                "des_es": "Eduardo Nunez batea elevado de out a jardinero derecho Matt Fielder.",
+                "event_num": 234,
+                "event": "Flyout",
+                "event_es": "Elevado de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 232,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 87.34412106413562,
+                  "y": 153.28249364944963,
+                  "event_num": 232,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 39,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 13107,
+                "start_tfs_zulu": "2015-03-05T01:31:07Z",
+                "batter": 543302,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 662112,
+                "p_throws": "L",
+                "des": "Chris Herrmann pops out to first baseman Toby Hanson.",
+                "des_es": "Chris Herrmann batea elevadito de out a primera base Toby Hanson.",
+                "event_num": 238,
+                "event": "Pop Out",
+                "event_es": "Elevado de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 236,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 123.82877143926115,
+                  "y": 147.76704064352245,
+                  "event_num": 236,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 40,
+                "b": 0,
+                "s": 1,
+                "o": 3,
+                "start_tfs": 13119,
+                "start_tfs_zulu": "2015-03-05T01:31:19Z",
+                "batter": 573627,
+                "stand": "R",
+                "b_height": "6-5",
+                "pitcher": 662112,
+                "p_throws": "L",
+                "des": "Kennys Vargas grounds out, second baseman Connor Schaefbauer to first baseman Toby Hanson.",
+                "des_es": "Kennys Vargas batea rodado de out, segunda base Connor Schaefbauer a primera base Toby Hanson.",
+                "event_num": 242,
+                "event": "Groundout",
+                "event_es": "Roletazo de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 240,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 118.69811748025913,
+                  "y": 145.9285563082134,
+                  "event_num": 240,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 6,
+          "away_team": "umg",
+          "home_team": "min",
+          "next": "Y",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitching Change: Ryan Pressly replaces Mark Hamburger.",
+                "des_es": "Cambio de Lanzador: Ryan Pressly reemplaza a Mark Hamburger.",
+                "event": "Pitching Substitution",
+                "event_es": "Cambio de Lanzador",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 519151,
+                "pitch": 1,
+                "event_num": 245,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Max Kepler replaces right fielder Shane Robinson, batting 9th, playing right field.",
+                "des_es": "Sustituci&#243;n a la Defensiva: Max Kepler reemplaza a jardinero derecho Shane Robinson, como noveno bate y jugando en el jardinero derecho.",
+                "event": "Defensive Sub",
+                "event_es": "Sustituci&#243;n Defensiva",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 596146,
+                "pitch": 0,
+                "event_num": 248,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Jorge Polanco replaces second baseman James Beresford, batting 8th, playing second base.",
+                "des_es": "Sustituci&#243;n a la Defensiva: Jorge Polanco reemplaza a segunda base James Beresford, como octavo bate y jugando en el  segunda base.",
+                "event": "Defensive Sub",
+                "event_es": "Sustituci&#243;n Defensiva",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 593871,
+                "pitch": 0,
+                "event_num": 250,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Dan Rohlfing replaces catcher Eric Fryer, batting 7th, playing catcher.",
+                "des_es": "Sustituci&#243;n a la Defensiva: Dan Rohlfing reemplaza a receptor Eric Fryer, como s&#233;ptimo bate y jugando en el receptor.",
+                "event": "Defensive Sub",
+                "event_es": "Sustituci&#243;n Defensiva",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 519221,
+                "pitch": 0,
+                "event_num": 252,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Danny Ortiz replaces left fielder Eddie Rosario, batting 6th, playing left field.",
+                "des_es": "Sustituci&#243;n a la Defensiva: Danny Ortiz reemplaza a jardinero izquierdo Eddie Rosario, como sexto bate y jugando en el jardinero izquierdo.",
+                "event": "Defensive Sub",
+                "event_es": "Sustituci&#243;n Defensiva",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 543611,
+                "pitch": 0,
+                "event_num": 254,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Heiker Meneses replaces third baseman Miguel Sano, batting 5th, playing third base.",
+                "des_es": "Sustituci&#243;n a la Defensiva: Heiker Meneses reemplaza a tercera base Miguel Sano, como quinto bate y jugando en el tercera base.",
+                "event": "Defensive Sub",
+                "event_es": "Sustituci&#243;n Defensiva",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 542344,
+                "pitch": 0,
+                "event_num": 256,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Jose Martinez replaces first baseman Kennys Vargas, batting 4th, playing first base.",
+                "des_es": "Sustituci&#243;n a la Defensiva: Jose Martinez reemplaza a primera base Kennys Vargas, como cuarto bate y jugando en el primera base.",
+                "event": "Defensive Sub",
+                "event_es": "Sustituci&#243;n Defensiva",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 456065,
+                "pitch": 0,
+                "event_num": 258,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Argenis Diaz replaces shortstop Eduardo Nunez, batting 2nd, playing shortstop.",
+                "des_es": "Sustituci&#243;n a la Defensiva: Argenis Diaz reemplaza a campo corto Eduardo Nunez, como segundo bate y jugando en el  campo corto.",
+                "event": "Defensive Sub",
+                "event_es": "Sustituci&#243;n Defensiva",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 469810,
+                "pitch": 0,
+                "event_num": 260,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 41,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 14015,
+                "start_tfs_zulu": "2015-03-05T01:40:15Z",
+                "batter": 662099,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 519151,
+                "p_throws": "R",
+                "des": "Jake Bergren called out on strikes.",
+                "des_es": "Jake Bergren se poncha sin tirarle.",
+                "event_num": 265,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 261,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 101.0258649548077,
+                    "y": 166.1518839966131,
+                    "event_num": 261,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 262,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 112.99739085914575,
+                    "y": 152.66966553767995,
+                    "event_num": 262,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 263,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 112.99739085914575,
+                    "y": 152.66966553767995,
+                    "event_num": 263,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 42,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 14026,
+                "start_tfs_zulu": "2015-03-05T01:40:26Z",
+                "batter": 662100,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 519151,
+                "p_throws": "R",
+                "des": "Alex Boxwell strikes out swinging.",
+                "des_es": "Alex Boxwell se poncha tir&#225;ndole.",
+                "event_num": 271,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 267,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 101.0258649548077,
+                    "y": 150.21835309060123,
+                    "event_num": 267,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 268,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 101.0258649548077,
+                    "y": 150.21835309060123,
+                    "event_num": 268,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 269,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 101.0258649548077,
+                    "y": 150.21835309060123,
+                    "event_num": 269,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 43,
+                "b": 0,
+                "s": 1,
+                "o": 3,
+                "start_tfs": 14034,
+                "start_tfs_zulu": "2015-03-05T01:40:34Z",
+                "batter": 662123,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 519151,
+                "p_throws": "R",
+                "des": "Connor Schaefbauer flies out to center fielder Eric Farris.",
+                "des_es": "Connor Schaefbauer batea elevado de out a jardinero central Eric Farris.",
+                "event_num": 275,
+                "event": "Flyout",
+                "event_es": "Elevado de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 273,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 110.14702754858907,
+                  "y": 148.37986875529216,
+                  "event_num": 273,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Kyle Crocker replaces first baseman Toby Hanson, batting 4th, playing first base.",
+                "des_es": "Sustituci&#243;n a la Defensiva: Kyle Crocker reemplaza a primera base Toby Hanson, como cuarto bate y jugando en el primera base.",
+                "event": "Defensive Sub",
+                "event_es": "Sustituci&#243;n Defensiva",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 662103,
+                "pitch": 1,
+                "event_num": 278,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitching Change: Tyler Hanson replaces Jordan Jess.",
+                "des_es": "Cambio de Lanzador: Tyler Hanson reemplaza a Jordan Jess.",
+                "event": "Pitching Substitution",
+                "event_es": "Cambio de Lanzador",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 662111,
+                "pitch": 1,
+                "event_num": 280,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 44,
+                "b": 0,
+                "s": 1,
+                "o": 1,
+                "start_tfs": 14613,
+                "start_tfs_zulu": "2015-03-05T01:46:13Z",
+                "batter": 542344,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 662111,
+                "p_throws": "R",
+                "des": "Heiker Meneses pops out to second baseman Connor Schaefbauer.",
+                "des_es": "Heiker Meneses batea elevadito de out a segunda base Connor Schaefbauer.",
+                "event_num": 284,
+                "event": "Pop Out",
+                "event_es": "Elevado de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 282,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 110.14702754858907,
+                  "y": 166.1518839966131,
+                  "event_num": 282,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 45,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 14623,
+                "start_tfs_zulu": "2015-03-05T01:46:23Z",
+                "batter": 543611,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 662111,
+                "p_throws": "R",
+                "des": "Danny Ortiz flies out to center fielder Alex Boxwell.",
+                "des_es": "Danny Ortiz batea elevado de out a jardinero central Alex Boxwell.",
+                "event_num": 288,
+                "event": "Flyout",
+                "event_es": "Elevado de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 286,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 114.70760884547978,
+                  "y": 136.7361346316681,
+                  "event_num": 286,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 46,
+                "b": 0,
+                "s": 1,
+                "o": 3,
+                "start_tfs": 14632,
+                "start_tfs_zulu": "2015-03-05T01:46:32Z",
+                "batter": 519221,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 662111,
+                "p_throws": "R",
+                "des": "Dan Rohlfing grounds out, second baseman Connor Schaefbauer to first baseman Kyle Crocker.",
+                "des_es": "Dan Rohlfing batea rodado de out, segunda base Connor Schaefbauer a primera base Kyle Crocker.",
+                "event_num": 292,
+                "event": "Groundout",
+                "event_es": "Roletazo de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 290,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 110.14702754858907,
+                  "y": 190.66500846740055,
+                  "event_num": 290,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 7,
+          "away_team": "umg",
+          "home_team": "min",
+          "next": "Y",
+          "top": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Offensive Substitution: Pinch-hitter Matt Stemper replaces Matt Fielder.",
+              "des_es": "Sustituci&#243;n a la ofensiva: bateador emergente Matt Stemper reemplaza a Matt Fielder.",
+              "event": "Offensive Sub",
+              "event_es": "Cambio Defensivo",
+              "tfs": "",
+              "tfs_zulu": "",
+              "player": 662127,
+              "pitch": 0,
+              "event_num": 296,
+              "home_team_runs": 2,
+              "away_team_runs": 1
+            },
+            "atbat": [
+              {
+                "num": 47,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 15055,
+                "start_tfs_zulu": "2015-03-05T01:50:55Z",
+                "batter": 662127,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 519151,
+                "p_throws": "R",
+                "des": "Matt Stemper called out on strikes.",
+                "des_es": "Matt Stemper se poncha sin tirarle.",
+                "event_num": 301,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 297,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 117.55797215603646,
+                    "y": 146.54138441998307,
+                    "event_num": 297,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 298,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 114.70760884547978,
+                    "y": 136.7361346316681,
+                    "event_num": 298,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 299,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 93.61492034736033,
+                    "y": 150.83118120237089,
+                    "event_num": 299,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 48,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 15234,
+                "start_tfs_zulu": "2015-03-05T01:52:34Z",
+                "batter": 662103,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 519151,
+                "p_throws": "R",
+                "des": "Kyle Crocker strikes out swinging.",
+                "des_es": "Kyle Crocker se poncha tir&#225;ndole.",
+                "event_num": 307,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 303,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 118.69811748025913,
+                    "y": 144.09007197290435,
+                    "event_num": 303,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 304,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 112.42731819703441,
+                    "y": 163.70057154953435,
+                    "event_num": 304,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 305,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 112.42731819703441,
+                    "y": 163.70057154953435,
+                    "event_num": 305,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 49,
+                "b": 0,
+                "s": 1,
+                "o": 3,
+                "start_tfs": 15320,
+                "start_tfs_zulu": "2015-03-05T01:53:20Z",
+                "batter": 662109,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 519151,
+                "p_throws": "R",
+                "des": "Michael Handel grounds out, third baseman Heiker Meneses to first baseman Jose Martinez.",
+                "des_es": "Michael Handel batea rodado de out, tercera base Heiker Meneses a primera base Jose Martinez.",
+                "event_num": 311,
+                "event": "Groundout",
+                "event_es": "Roletazo de Out",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 309,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 66.82150522812749,
+                  "y": 134.28482218458933,
+                  "event_num": 309,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Chris Schaaf replaces second baseman Connor Schaefbauer, batting 2nd, playing second base.",
+                "des_es": "Sustituci&#243;n a la Defensiva: Chris Schaaf reemplaza a segunda base Connor Schaefbauer, como segundo bate y jugando en el  segunda base.",
+                "event": "Defensive Sub",
+                "event_es": "Sustituci&#243;n Defensiva",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 662122,
+                "pitch": 1,
+                "event_num": 314,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Matt Stemper remains in the game as the right fielder.",
+                "des_es": "Matt Stemper permanece en el juego como el jardinero derecho.",
+                "event": "Defensive Switch",
+                "event_es": "Cambio Defensivo",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 662127,
+                "pitch": 1,
+                "event_num": 316,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitching Change: Reggie Meyer replaces Tyler Hanson.",
+                "des_es": "Cambio de Lanzador: Reggie Meyer reemplaza a Tyler Hanson.",
+                "event": "Pitching Substitution",
+                "event_es": "Cambio de Lanzador",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 662118,
+                "pitch": 1,
+                "event_num": 318,
+                "home_team_runs": 2,
+                "away_team_runs": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 50,
+                "b": 0,
+                "s": 2,
+                "o": 0,
+                "start_tfs": 15857,
+                "start_tfs_zulu": "2015-03-05T01:58:57Z",
+                "batter": 593871,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 662118,
+                "p_throws": "R",
+                "des": "Jorge Polanco homers (1) on a line drive to right field.",
+                "des_es": "Jorge Polanco batea jonr&#243;n (1) con l&#237;nea por el jard&#237;n derecho.",
+                "event_num": 324,
+                "event": "Home Run",
+                "event_es": "Jonr&#243;n",
+                "score": "T",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 320,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 98.175501644251,
+                    "y": 130.60785351397124,
+                    "event_num": 320,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "In play, run(s)",
+                    "des_es": "En juego, carrera(s)",
+                    "id": 321,
+                    "type": "X",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 123.25869877714982,
+                    "y": 141.63875952582558,
+                    "event_num": 321,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 593871,
+                  "start": "",
+                  "end": "",
+                  "event": "Home Run",
+                  "event_num": 324,
+                  "score": "T",
+                  "rbi": "T",
+                  "earned": "T"
+                }
+              },
+              {
+                "num": 51,
+                "b": 4,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 15912,
+                "start_tfs_zulu": "2015-03-05T01:59:12Z",
+                "batter": 596146,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 662118,
+                "p_throws": "R",
+                "des": "Max Kepler walks.",
+                "des_es": "Max Kepler recibe base por bolas.",
+                "event_num": 331,
+                "event": "Walk",
+                "event_es": "Base por Bolas",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 326,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 151.76233188271664,
+                    "y": 139.18744707874686,
+                    "event_num": 326,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 327,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 155.752840517496,
+                    "y": 137.96179085520748,
+                    "event_num": 327,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 328,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 155.752840517496,
+                    "y": 180.85975867908553,
+                    "event_num": 328,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 329,
+                    "type": "B",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 49.14925270267608,
+                    "y": 150.21835309060123,
+                    "event_num": 329,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 596146,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk",
+                  "event_num": 331
+                }
+              },
+              {
+                "num": 52,
+                "b": 0,
+                "s": 1,
+                "o": 1,
+                "start_tfs": 15942,
+                "start_tfs_zulu": "2015-03-05T01:59:42Z",
+                "batter": 456544,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 662118,
+                "p_throws": "R",
+                "des": "Eric Farris grounds into a force out, shortstop Michael Handel to second baseman Chris Schaaf.   Max Kepler out at 2nd.  Eric Farris advances to 2nd, on a throwing error by second baseman Chris Schaaf.",
+                "des_es": "Eric Farris batea rodado batea para out forzado, campo corto Michael Handel a segunda base Chris Schaaf.   Max Kepler a cabo a 2da.  Eric Farris avanza a la 2da, on error en tiro de segunda base Chris Schaaf.",
+                "event_num": 338,
+                "event": "Forceout",
+                "event_es": "Out Forzado",
+                "event2": "Error",
+                "event2_es": "Error",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 333,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 103.87622826536438,
+                  "y": 163.08774343776463,
+                  "event_num": 333,
+                  "on_1b": 596146,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 596146,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Forceout",
+                    "event_num": 338
+                  },
+                  {
+                    "id": 456544,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Forceout",
+                    "event_num": 338
+                  }
+                ]
+              },
+              {
+                "num": 53,
+                "b": 0,
+                "s": 1,
+                "o": 1,
+                "start_tfs": 20300,
+                "start_tfs_zulu": "2015-03-05T02:03:00Z",
+                "batter": 469810,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 662118,
+                "p_throws": "R",
+                "des": "Argenis Diaz reaches on a throwing error by shortstop Michael Handel.   Eric Farris to 3rd.    Argenis Diaz to 2nd.",
+                "des_es": "Argenis Diaz se embasa por error en tiro de campo corto Michael Handel.   Eric Farris a 3ra.    Argenis Diaz a 2da.",
+                "event_num": 344,
+                "event": "Field Error",
+                "event_es": "Error de Fildeo",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 340,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 120.97840812870447,
+                  "y": 153.28249364944963,
+                  "event_num": 340,
+                  "on_2b": 456544,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 456544,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Field Error",
+                    "event_num": 344
+                  },
+                  {
+                    "id": 469810,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Field Error",
+                    "event_num": 344
+                  }
+                ]
+              },
+              {
+                "num": 54,
+                "b": 0,
+                "s": 1,
+                "o": 3,
+                "start_tfs": 20427,
+                "start_tfs_zulu": "2015-03-05T02:04:27Z",
+                "batter": 543302,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 662118,
+                "p_throws": "R",
+                "des": "Chris Herrmann lines into a double play, pitcher Reggie Meyer to shortstop Michael Handel.   Argenis Diaz out at 2nd.",
+                "des_es": "Chris Herrmann batea l&#237;nea para doble matanza, lanzador Reggie Meyer a campo corto Michael Handel.   Argenis Diaz a cabo a 2da.",
+                "event_num": 349,
+                "event": "Double Play",
+                "event_es": "Doble-Play",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 346,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 116.41782683181378,
+                  "y": 155.1209779847587,
+                  "event_num": 346,
+                  "on_2b": 469810,
+                  "on_3b": 456544,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 469810,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Double Play",
+                    "event_num": 349
+                  },
+                  {
+                    "id": 456544,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Double Play",
+                    "event_num": 349
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "num": 8,
+          "away_team": "umg",
+          "home_team": "min",
+          "next": "Y",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitching Change: Michael Tonkin replaces Ryan Pressly.",
+                "des_es": "Cambio de Lanzador: Michael Tonkin reemplaza a Ryan Pressly.",
+                "event": "Pitching Substitution",
+                "event_es": "Cambio de Lanzador",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 543859,
+                "pitch": 1,
+                "event_num": 353,
+                "home_team_runs": 3,
+                "away_team_runs": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "des": "Offensive Substitution: Pinch-hitter Micah Coffey replaces Tony Skjefte.",
+                "des_es": "Sustituci&#243;n a la ofensiva: bateador emergente Micah Coffey reemplaza a Tony Skjefte.",
+                "event": "Offensive Sub",
+                "event_es": "Cambio Defensivo",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 662102,
+                "pitch": 0,
+                "event_num": 360,
+                "home_team_runs": 3,
+                "away_team_runs": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 55,
+                "b": 0,
+                "s": 1,
+                "o": 1,
+                "start_tfs": 20650,
+                "start_tfs_zulu": "2015-03-05T02:06:50Z",
+                "batter": 662098,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 543859,
+                "p_throws": "R",
+                "des": "Austin Athmann grounds out, pitcher Michael Tonkin to first baseman Jose Martinez.",
+                "des_es": "Austin Athmann batea rodado de out, lanzador Michael Tonkin a primera base Jose Martinez.",
+                "event_num": 357,
+                "event": "Groundout",
+                "event_es": "Roletazo de Out",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 355,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 84.49375775357895,
+                  "y": 128.76936917866217,
+                  "event_num": 355,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 56,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 20828,
+                "start_tfs_zulu": "2015-03-05T02:08:28Z",
+                "batter": 662102,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 543859,
+                "p_throws": "R",
+                "des": "Micah Coffey flies out to center fielder Eric Farris.",
+                "des_es": "Micah Coffey batea elevado de out a jardinero central Eric Farris.",
+                "event_num": 363,
+                "event": "Flyout",
+                "event_es": "Elevado de Out",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 361,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 123.82877143926115,
+                  "y": 172.89299322607962,
+                  "event_num": 361,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 57,
+                "b": 0,
+                "s": 1,
+                "o": 3,
+                "start_tfs": 20953,
+                "start_tfs_zulu": "2015-03-05T02:09:53Z",
+                "batter": 662126,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 543859,
+                "p_throws": "R",
+                "des": "Jordan Smith grounds out, second baseman Jorge Polanco to first baseman Jose Martinez.",
+                "des_es": "Jordan Smith batea rodado de out, segunda base Jorge Polanco a primera base Jose Martinez.",
+                "event_num": 367,
+                "event": "Groundout",
+                "event_es": "Roletazo de Out",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 365,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 108.43680956225508,
+                  "y": 138.57461896697714,
+                  "event_num": 365,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Micah Coffey remains in the game as the third baseman.",
+                "des_es": "Micah Coffey permanece en el juego como el tercera base.",
+                "event": "Defensive Switch",
+                "event_es": "Cambio Defensivo",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 662102,
+                "pitch": 1,
+                "event_num": 370,
+                "home_team_runs": 3,
+                "away_team_runs": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitching Change: Brian Glowicki replaces Reggie Meyer.",
+                "des_es": "Cambio de Lanzador: Brian Glowicki reemplaza a Reggie Meyer.",
+                "event": "Pitching Substitution",
+                "event_es": "Cambio de Lanzador",
+                "tfs": "",
+                "tfs_zulu": "",
+                "player": 662107,
+                "pitch": 1,
+                "event_num": 372,
+                "home_team_runs": 3,
+                "away_team_runs": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 58,
+                "b": 0,
+                "s": 1,
+                "o": 1,
+                "start_tfs": 21124,
+                "start_tfs_zulu": "2015-03-05T02:11:24Z",
+                "batter": 456065,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 662107,
+                "p_throws": "R",
+                "des": "Jose Martinez grounds out, pitcher Brian Glowicki to second baseman Chris Schaaf to first baseman Kyle Crocker.",
+                "des_es": "Jose Martinez batea rodado de out, lanzador Brian Glowicki a segunda base Chris Schaaf a primera base Kyle Crocker.",
+                "event_num": 376,
+                "event": "Groundout",
+                "event_es": "Roletazo de Out",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 374,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 91.90470236102631,
+                  "y": 152.66966553767995,
+                  "event_num": 374,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 59,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 21352,
+                "start_tfs_zulu": "2015-03-05T02:13:52Z",
+                "batter": 542344,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 662107,
+                "p_throws": "R",
+                "des": "Heiker Meneses strikes out swinging, catcher Austin Athmann to first baseman Kyle Crocker.",
+                "des_es": "Heiker Meneses se poncha tir&#225;ndole, receptor Austin Athmann a primera base Kyle Crocker.",
+                "event_num": 382,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 378,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 122.11855345292713,
+                    "y": 179.63410245554618,
+                    "event_num": 378,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 379,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 112.42731819703441,
+                    "y": 150.21835309060123,
+                    "event_num": 379,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike (Blocked)",
+                    "des_es": "Strike tir&#225;ndole (Bloqueado)",
+                    "id": 380,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 94.755065671583,
+                    "y": 182.6982430143946,
+                    "event_num": 380,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 60,
+                "b": 0,
+                "s": 1,
+                "o": 2,
+                "start_tfs": 21636,
+                "start_tfs_zulu": "2015-03-05T02:16:36Z",
+                "batter": 543611,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 662107,
+                "p_throws": "R",
+                "des": "Danny Ortiz reaches on a fielding error by first baseman Kyle Crocker.",
+                "des_es": "Danny Ortiz se embasa por error en fildeo de primera base Kyle Crocker.",
+                "event_num": 387,
+                "event": "Field Error",
+                "event_es": "Error de Fildeo",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 384,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 111.85724553492308,
+                  "y": 143.47724386113464,
+                  "event_num": 384,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 543611,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Field Error",
+                  "event_num": 387
+                }
+              },
+              {
+                "num": 61,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 21922,
+                "start_tfs_zulu": "2015-03-05T02:19:22Z",
+                "batter": 519221,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 662107,
+                "p_throws": "R",
+                "des": "Dan Rohlfing strikes out swinging.",
+                "des_es": "Dan Rohlfing se poncha tir&#225;ndole.",
+                "event_num": 393,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 389,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 85.6339030778016,
+                    "y": 155.1209779847587,
+                    "event_num": 389,
+                    "on_1b": 543611,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 390,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 92.47477502313765,
+                    "y": 155.1209779847587,
+                    "event_num": 390,
+                    "on_1b": 543611,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 391,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 114.70760884547978,
+                    "y": 158.18511854360716,
+                    "event_num": 391,
+                    "on_1b": 543611,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 543611,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Strikeout",
+                  "event_num": 393
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 9,
+          "away_team": "umg",
+          "home_team": "min",
+          "next": "N",
+          "top": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Offensive Substitution: Pinch-hitter Troy Traxler replaces Jake Bergren.",
+              "des_es": "Sustituci&#243;n a la ofensiva: bateador emergente Troy Traxler reemplaza a Jake Bergren.",
+              "event": "Offensive Sub",
+              "event_es": "Cambio Defensivo",
+              "tfs": "",
+              "tfs_zulu": "",
+              "player": 662129,
+              "pitch": 3,
+              "event_num": 397,
+              "home_team_runs": 3,
+              "away_team_runs": 1
+            },
+            "atbat": [
+              {
+                "num": 62,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 22347,
+                "start_tfs_zulu": "2015-03-05T02:23:47Z",
+                "batter": 662129,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 543859,
+                "p_throws": "R",
+                "des": "Troy Traxler strikes out swinging.",
+                "des_es": "Troy Traxler se poncha tir&#225;ndole.",
+                "event_num": 403,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 399,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 110.14702754858907,
+                    "y": 161.24925910245557,
+                    "event_num": 399,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 400,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 110.14702754858907,
+                    "y": 161.24925910245557,
+                    "event_num": 400,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 401,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 163.1637851249434,
+                    "y": 185.14955546147337,
+                    "event_num": 401,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 63,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 22430,
+                "start_tfs_zulu": "2015-03-05T02:24:30Z",
+                "batter": 662100,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 543859,
+                "p_throws": "R",
+                "des": "Alex Boxwell strikes out swinging.",
+                "des_es": "Alex Boxwell se poncha tir&#225;ndole.",
+                "event_num": 409,
+                "event": "Strikeout",
+                "event_es": "Ponche",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 405,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 69.10179587657285,
+                    "y": 140.4131033022862,
+                    "event_num": 405,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 406,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 142.0710966268239,
+                    "y": 136.7361346316681,
+                    "event_num": 406,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tir&#225;ndole",
+                    "id": 407,
+                    "type": "S",
+                    "tfs": 22738,
+                    "tfs_zulu": "2015-03-05T02:27:38Z",
+                    "x": 148.91196857215996,
+                    "y": 179.63410245554618,
+                    "event_num": 407,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 64,
+                "b": 0,
+                "s": 1,
+                "o": 3,
+                "start_tfs": 22530,
+                "start_tfs_zulu": "2015-03-05T02:25:30Z",
+                "batter": 662122,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 543859,
+                "p_throws": "R",
+                "des": "Chris Schaaf flies out to left fielder Danny Ortiz.",
+                "des_es": "Chris Schaaf batea elevado de out a jardinero izquierdo Danny Ortiz.",
+                "event_num": 413,
+                "event": "Flyout",
+                "event_es": "Elevado de Out",
+                "home_team_runs": 3,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 411,
+                  "type": "X",
+                  "tfs": 22738,
+                  "tfs_zulu": "2015-03-05T02:27:38Z",
+                  "x": 101.59593761691903,
+                  "y": 170.44168077900088,
+                  "event_num": 411,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "id": "5bdc6cf7-e590-4fed-b700-abf776e0648a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Hit By Pitch",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T00:11:41Z",
+      "contextualData": {
+        "batter": 662119,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "5f4e2d1e-3ef9-4f9b-96f9-5039cf15534d",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Wild Pitch",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T00:16:47Z",
+      "contextualData": {
+        "player": 662123
+      }
+    },
+    {
+      "id": "b96557c0-2f8c-43ea-9d10-c77d3a2c376b",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Caught Stealing Home",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T00:24:21Z",
+      "contextualData": {
+        "player": 662123
+      }
+    },
+    {
+      "id": "42a2c037-41ee-4ebe-895f-29a8838b919d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662123,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "a20d3860-e05b-4196-a65e-c0d5b33754ea",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662105,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "68170ae1-5c2e-4d2c-8b2c-e53d5b0b979a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662105,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "c199ff0f-3123-4946-8597-005925c62841",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662105,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "efb991b9-2704-45b3-854c-85d0c2fc6041",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662110,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "298ab293-4658-47cb-93a5-aa4ee76d406e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662110,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "904b7d57-2158-4f82-a234-0cc4098d7a4b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662110,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "be6215cb-e2bb-4de3-96ad-698c4a3f9401",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662110,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "e4aa4686-af4a-4c93-b2ea-da71d1d68253",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662109,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "a26beabe-e2c1-45f0-ade6-df43f7194857",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662108,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "6644f855-e2cf-47dc-8c70-e7d3663847be",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Stolen Base 2B",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "player": 593934
+      }
+    },
+    {
+      "id": "6305504e-f767-40c5-900f-a021070250f4",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 621439,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "aa50b4b8-99f4-441b-9aa7-afa776aae04a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 456488,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "055a0e8f-00bc-4226-ba97-0b8904e7db71",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 543302,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "70da9c05-e122-4b5c-8aab-7025ca14e1bd",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 573627,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "6cd4ec35-2836-41b3-8dff-d16bc9e5b9e4",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 593934,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "18c1a9d7-027f-4528-a00b-ff1518d98e9f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 592696,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "1afa7a74-8ae4-4c3a-995c-ceb5c03f0ef7",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 592696,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "0d1ff7b0-cef1-4063-86bc-e6240a449f90",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 592696,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "5cce4c03-f31b-414d-ba26-dd816313e5ea",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662108,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "bd843418-15a5-43a5-986a-e284dcfdab20",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662108,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "6b8e5219-2469-4eaa-aa34-890d144575f4",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662108,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "b4c3b404-7502-46c4-96ee-aa903b259926",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662125,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "197b8f40-4dff-48af-9619-05f5aa0912c9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662126,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "450bcc75-76d8-452a-9579-42a13b2b5509",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662126,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "14472c67-0cdc-4298-ab1f-7aab1dccb683",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662126,
+        "pitcher": 621244
+      }
+    },
+    {
+      "id": "a10fe263-8b7c-4b99-9b9c-ee4f11afcbd8",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 518700,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "c6567f80-822c-4c9f-9f29-052ad16a006f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 518700,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "a430a81f-951d-4096-aefb-d65cbd175fea",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 518700,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "f0c6437c-96f7-4286-a1eb-dece2aa3d794",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 518700,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "c17a0cef-4930-4550-8da0-8183c777da23",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 503437,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "f79b0a60-779d-4c5c-9efd-463906883f01",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 453203,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "7425968f-68a0-46db-b4f4-995f238f7f85",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 621439,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "c799790a-12f0-44c4-af9a-800b4c7c6191",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 456488,
+        "pitcher": 662097
+      }
+    },
+    {
+      "id": "9257b6ce-49db-46e3-bbec-1f2c9208aecb",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 450282
+      }
+    },
+    {
+      "id": "1abd71da-af30-4dc9-adb5-73c644087ca6",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662099,
+        "pitcher": 450282
+      }
+    },
+    {
+      "id": "d41185ff-0769-4677-a764-ab534124cac5",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662099,
+        "pitcher": 450282
+      }
+    },
+    {
+      "id": "17b0d5f2-cb67-4585-b58f-995bd0d544aa",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662099,
+        "pitcher": 450282
+      }
+    },
+    {
+      "id": "e48d73f3-5668-44cd-b428-1add68add7e7",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662119,
+        "pitcher": 450282
+      }
+    },
+    {
+      "id": "8e25a2d3-9620-4333-b377-e91b50d6f3f8",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662123,
+        "pitcher": 450282
+      }
+    },
+    {
+      "id": "828b05eb-280f-4901-bcc5-1200ec60ad42",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 662101
+      }
+    },
+    {
+      "id": "6738cecc-6cf0-491e-9bcd-6d779000ba43",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 543302,
+        "pitcher": 662101
+      }
+    },
+    {
+      "id": "b2d074b8-956a-49a7-bb12-40a6584cbfb9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 543302,
+        "pitcher": 662101
+      }
+    },
+    {
+      "id": "74f9d812-4a2d-413d-9c83-db919f45549d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 543302,
+        "pitcher": 662101
+      }
+    },
+    {
+      "id": "d61ce11a-ae89-4f64-8278-017d98b160be",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 543302,
+        "pitcher": 662101
+      }
+    },
+    {
+      "id": "b10383a6-00ac-44f4-9deb-03476e723526",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 573627,
+        "pitcher": 662101
+      }
+    },
+    {
+      "id": "e83c0353-e650-472a-aeee-c0fda20bac69",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 593934,
+        "pitcher": 662101
+      }
+    },
+    {
+      "id": "2a4575d5-56ef-4c08-a080-7a92cb15b8de",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 593934,
+        "pitcher": 662101
+      }
+    },
+    {
+      "id": "5c0242b6-36d5-46d1-a7df-c01794adc9c9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 593934,
+        "pitcher": 662101
+      }
+    },
+    {
+      "id": "0d3ff016-6d81-4f5a-a068-423a093b5c36",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 593934,
+        "pitcher": 662101
+      }
+    },
+    {
+      "id": "f64fb177-4bb8-4f66-9f7d-fe41ae612fca",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 592696,
+        "pitcher": 662101
+      }
+    },
+    {
+      "id": "8c61eae2-bfb3-4169-8e05-8d6123c3b2f2",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 523648
+      }
+    },
+    {
+      "id": "cec4541f-1a84-4f0b-a31c-82f93bef2ea1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662105,
+        "pitcher": 523648
+      }
+    },
+    {
+      "id": "bc6932f7-098c-4600-8df4-14ffcd569a0b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662110,
+        "pitcher": 523648
+      }
+    },
+    {
+      "id": "3cc2212e-f17c-4b53-9257-dcc691fb97fc",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662109,
+        "pitcher": 523648
+      }
+    },
+    {
+      "id": "94248cc4-0842-4291-ad79-e0698b790c2a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662109,
+        "pitcher": 523648
+      }
+    },
+    {
+      "id": "1d340265-58d1-457e-8882-0b2eef020f92",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662109,
+        "pitcher": 523648
+      }
+    },
+    {
+      "id": "2395b82e-1943-4627-bb93-7b8b036bf9fd",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 657045
+      }
+    },
+    {
+      "id": "c0a7efab-f09e-4a88-8869-d6d925b2df62",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 518700,
+        "pitcher": 657045
+      }
+    },
+    {
+      "id": "4dd4354c-aad5-4881-af29-730bf358d511",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 503437,
+        "pitcher": 657045
+      }
+    },
+    {
+      "id": "2f767a8d-eede-4b83-a940-6be5c3c44c64",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 503437,
+        "pitcher": 657045
+      }
+    },
+    {
+      "id": "ae18299d-2631-417d-8cdd-f614224bb2e5",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 503437,
+        "pitcher": 657045
+      }
+    },
+    {
+      "id": "9251e7bb-0669-421f-bd59-d4def34f58d7",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 503437,
+        "pitcher": 657045
+      }
+    },
+    {
+      "id": "c7843332-cc79-4ad0-8c1d-6eaa6830c4c9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 453203,
+        "pitcher": 657045
+      }
+    },
+    {
+      "id": "31bcd434-c7b2-46fb-aea4-d1ed9b755a6d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 621439,
+        "pitcher": 657045
+      }
+    },
+    {
+      "id": "361240a3-3172-4279-9868-31aaf62b0e53",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 456544
+      }
+    },
+    {
+      "id": "a0fec558-02c4-4469-b0eb-ea28e8c46eae",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662108,
+        "pitcher": 523648
+      }
+    },
+    {
+      "id": "ee4b07be-9bb0-46af-a967-b20e573fce6b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662108,
+        "pitcher": 523648
+      }
+    },
+    {
+      "id": "45333c23-6f38-4d31-a2e8-49f3c7c5cad5",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662122,
+        "pitcher": 543859
+      }
+    },
+    {
+      "id": "fa256bb6-c092-4a6b-bd58-e28487a0386f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662125,
+        "pitcher": 523648
+      }
+    },
+    {
+      "id": "f220b9bb-1f7b-484b-a04c-c109694e90f4",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662126,
+        "pitcher": 523648
+      }
+    },
+    {
+      "id": "6dde6406-29db-4c48-baec-90f9bd25b82b",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 662100
+      }
+    },
+    {
+      "id": "3823c4bc-0e48-4a3f-980c-8ac3b8b1b440",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 662098
+      }
+    },
+    {
+      "id": "614e50f0-f1be-4ed7-b26c-1559e78eeaa8",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 662112
+      }
+    },
+    {
+      "id": "2f6713e9-397f-4a6d-bff5-a0c535d98acd",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 456488,
+        "pitcher": 662112
+      }
+    },
+    {
+      "id": "9cde3ffa-665b-48b1-a6f6-1641d2bb24a6",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 543302,
+        "pitcher": 662112
+      }
+    },
+    {
+      "id": "1c96302e-9c89-45db-a542-4e5d07e133d7",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 573627,
+        "pitcher": 662112
+      }
+    },
+    {
+      "id": "c3dbc1dd-12d4-4b09-b15d-be1997acb770",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 519151
+      }
+    },
+    {
+      "id": "6dd76189-c343-42f3-b33b-60c1d4086a60",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 596146
+      }
+    },
+    {
+      "id": "d8549d3c-86aa-44d8-ad1b-6ba81ba432a2",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 593871
+      }
+    },
+    {
+      "id": "86d8bd97-7d2a-4eda-b556-a805ee5a4885",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 519221
+      }
+    },
+    {
+      "id": "eb9aa3f6-14db-4ac3-9bb3-83b0a406f3b9",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 543611
+      }
+    },
+    {
+      "id": "97b97d10-2984-4c63-a703-6f6e86a538c8",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 542344
+      }
+    },
+    {
+      "id": "1385a753-d532-4acf-b7cb-56ab640d9035",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 456065
+      }
+    },
+    {
+      "id": "67f4168a-0fdf-45b7-b5f1-0c8c41066024",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 469810
+      }
+    },
+    {
+      "id": "cbc337ad-8b6f-458b-af61-812ed411ce50",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662099,
+        "pitcher": 519151
+      }
+    },
+    {
+      "id": "e7bbf5af-108b-458e-8944-82e8b43df84b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662099,
+        "pitcher": 519151
+      }
+    },
+    {
+      "id": "be3b9eef-8cef-40be-815e-d5d29d209fb6",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662099,
+        "pitcher": 519151
+      }
+    },
+    {
+      "id": "1252167d-3d6b-4f21-a095-6f35d1ec2f8d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662100,
+        "pitcher": 519151
+      }
+    },
+    {
+      "id": "1572c13b-19e2-440c-9fe7-6fc8c373aab4",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662100,
+        "pitcher": 519151
+      }
+    },
+    {
+      "id": "18e44d26-e8e3-49b6-9dc0-9923b74f3ce3",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662100,
+        "pitcher": 519151
+      }
+    },
+    {
+      "id": "6f661829-41ad-44c4-a86f-b5d172cf6e40",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662123,
+        "pitcher": 519151
+      }
+    },
+    {
+      "id": "5bd6f79b-c200-4003-ab09-5db9c2c30e36",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 662103
+      }
+    },
+    {
+      "id": "cf17690e-e020-43e6-8833-f65006a7e4c0",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 662111
+      }
+    },
+    {
+      "id": "92444677-ee89-41a2-b32a-3a9f11db4105",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 542344,
+        "pitcher": 662111
+      }
+    },
+    {
+      "id": "aecc4080-df98-42cf-b18b-8c9a036987ab",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 543611,
+        "pitcher": 662111
+      }
+    },
+    {
+      "id": "69378add-9449-4f08-9f16-4472a37d980b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 519221,
+        "pitcher": 662111
+      }
+    },
+    {
+      "id": "7ec3f61b-cb45-4531-a086-d4495de045a4",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 662127
+      }
+    },
+    {
+      "id": "20ab06fb-d42b-4d19-835f-132fda9ad645",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662127,
+        "pitcher": 519151
+      }
+    },
+    {
+      "id": "0d271aff-2969-4948-aefb-ab443122fe14",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662127,
+        "pitcher": 519151
+      }
+    },
+    {
+      "id": "f5ec2be0-c534-4dae-86c4-f6f1590ab101",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662127,
+        "pitcher": 519151
+      }
+    },
+    {
+      "id": "90491224-0bfc-44e3-bde8-86d766fadf51",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662103,
+        "pitcher": 519151
+      }
+    },
+    {
+      "id": "8412d4fe-b4ef-482e-b33e-68e070b71969",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662103,
+        "pitcher": 519151
+      }
+    },
+    {
+      "id": "eb09da98-3d48-4f25-864f-1b855862547c",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662103,
+        "pitcher": 519151
+      }
+    },
+    {
+      "id": "01b96ed0-0494-4fbe-8d7b-a483468e23cc",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662109,
+        "pitcher": 519151
+      }
+    },
+    {
+      "id": "68a2e268-c265-4ffc-bb05-e2d30b466f76",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 662122
+      }
+    },
+    {
+      "id": "764dde90-5596-42c6-b6cf-240cf0550186",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 662127
+      }
+    },
+    {
+      "id": "6bef67e7-6621-42be-b241-ad54df2c474f",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 662118
+      }
+    },
+    {
+      "id": "3e1bd887-a0df-437c-8052-ea95a3394fbf",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 593871,
+        "pitcher": 662118
+      }
+    },
+    {
+      "id": "9d2d9ef1-8e5f-4e68-ac75-6eeaa10873c2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 593871,
+        "pitcher": 662118
+      }
+    },
+    {
+      "id": "f21cce4f-36a7-4da9-b91e-2bada43a86f3",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 596146,
+        "pitcher": 662118
+      }
+    },
+    {
+      "id": "e648dd13-5ea0-44d1-843c-60fd4a943a1f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 596146,
+        "pitcher": 662118
+      }
+    },
+    {
+      "id": "0e0956c3-a7dd-426d-a7c7-142e483d68b2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 596146,
+        "pitcher": 662118
+      }
+    },
+    {
+      "id": "4bb3fe0c-4c7c-4040-a1de-9a5e33f413df",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 596146,
+        "pitcher": 662118
+      }
+    },
+    {
+      "id": "2919c2ee-9b60-4554-855c-ea90ec78818b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 456544,
+        "pitcher": 662118
+      }
+    },
+    {
+      "id": "f0b63bfb-f2ad-4bba-a733-db2889dfff41",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 469810,
+        "pitcher": 662118
+      }
+    },
+    {
+      "id": "5c9d018e-6f59-422b-8a4d-17c93e591dfa",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 543302,
+        "pitcher": 662118
+      }
+    },
+    {
+      "id": "849db6a5-758c-4e3b-9d9d-aefcf554fcd1",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 543859
+      }
+    },
+    {
+      "id": "5f08366a-94a9-4b2f-bbe1-8182a61a9d45",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 662102
+      }
+    },
+    {
+      "id": "79a3fa55-8fda-4df9-b5ad-95b9bd9143e5",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662098,
+        "pitcher": 543859
+      }
+    },
+    {
+      "id": "ec907c3e-2c18-4635-9261-74392c816cec",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662102,
+        "pitcher": 543859
+      }
+    },
+    {
+      "id": "90c03e58-e8aa-46e7-8407-4063ab87fad8",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662126,
+        "pitcher": 543859
+      }
+    },
+    {
+      "id": "74c5b46c-4996-45a0-be25-a843a6d97429",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 662102
+      }
+    },
+    {
+      "id": "3abd2ec0-3c1c-4901-bd98-c04d6368df3e",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 662107
+      }
+    },
+    {
+      "id": "6fe8da1c-954d-40de-994c-a6c5eeea2f00",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 456065,
+        "pitcher": 662107
+      }
+    },
+    {
+      "id": "6c400e21-ddbe-4d58-acff-4a4a92e5d70c",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 542344,
+        "pitcher": 662107
+      }
+    },
+    {
+      "id": "edb67701-ccde-4220-a51c-0d28fb788971",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 542344,
+        "pitcher": 662107
+      }
+    },
+    {
+      "id": "0a5dd5ff-d397-4537-9811-8cf6e1eaf461",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike (Blocked)",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 542344,
+        "pitcher": 662107
+      }
+    },
+    {
+      "id": "a06584e7-62d4-4b3f-a830-82992984bd8b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 543611,
+        "pitcher": 662107
+      }
+    },
+    {
+      "id": "a22ee677-896a-443e-878d-7001820ec989",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 519221,
+        "pitcher": 662107
+      }
+    },
+    {
+      "id": "085a512b-e63c-4836-a44b-43f8f67fd4f1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 519221,
+        "pitcher": 662107
+      }
+    },
+    {
+      "id": "2de4b859-1cbf-49e0-88a1-a9ebdf6970bd",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 519221,
+        "pitcher": 662107
+      }
+    },
+    {
+      "id": "a5cfc3ec-0b0d-48f1-9058-299aa8c81b86",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive Sub",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "",
+      "contextualData": {
+        "player": 662129
+      }
+    },
+    {
+      "id": "cb6580d8-01fd-44e1-bbb6-cb7184d0f6d9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662129,
+        "pitcher": 543859
+      }
+    },
+    {
+      "id": "e7027897-6cad-4b20-86a0-b357f6791370",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662129,
+        "pitcher": 543859
+      }
+    },
+    {
+      "id": "4d550167-19c7-48d2-a616-0302d233147b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662129,
+        "pitcher": 543859
+      }
+    },
+    {
+      "id": "979a0bf0-47ed-4e94-bbce-ab328e706469",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662100,
+        "pitcher": 543859
+      }
+    },
+    {
+      "id": "ab953cca-cdbd-4109-9035-6670d8be5c47",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662100,
+        "pitcher": 543859
+      }
+    },
+    {
+      "id": "7ce9a890-12b7-4a78-a432-4d5539edae76",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662100,
+        "pitcher": 543859
+      }
+    },
+    {
+      "id": "df8a005f-4f84-4738-8b29-a51939e289d5",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "min",
+      "awayTeam": "umg",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2015-03-05T02:27:38Z",
+      "contextualData": {
+        "batter": 662108,
+        "pitcher": 523648
+      }
+    }
+  ]
+}

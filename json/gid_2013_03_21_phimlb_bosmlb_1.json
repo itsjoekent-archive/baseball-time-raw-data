@@ -1,0 +1,5221 @@
+{
+  "origial": {
+    "game": {
+      "atBat": 460055,
+      "deck": 520471,
+      "hole": 435623,
+      "ind": "F",
+      "inning": [
+        {
+          "num": 1,
+          "away_team": "phi",
+          "home_team": "bos",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 1,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 230637,
+                "start_tfs_zulu": "2013-03-21T23:06:37Z",
+                "batter": 519184,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Ben Revere grounds out, second baseman Dustin Pedroia to first baseman Mike Napoli.",
+                "des_es": "Ben Revere batea rodado de out, segunda base Dustin Pedroia a primera base Mike Napoli.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 3,
+                  "type": "X",
+                  "tfs": 230808,
+                  "tfs_zulu": "2013-03-21T23:08:08Z",
+                  "x": 89.27,
+                  "y": 101.89,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 2,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 230819,
+                "start_tfs_zulu": "2013-03-21T23:08:19Z",
+                "batter": 434681,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Pete Orr singles on a ground ball to center fielder Jacoby Ellsbury.",
+                "des_es": "Pete Orr pega sencillo con rodado a jardinero central Jacoby Ellsbury.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 7,
+                  "type": "X",
+                  "tfs": 230859,
+                  "tfs_zulu": "2013-03-21T23:08:59Z",
+                  "x": 98.71,
+                  "y": 95.84,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 434681,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 3,
+                "b": 1,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 230907,
+                "start_tfs_zulu": "2013-03-21T23:09:07Z",
+                "batter": 276519,
+                "stand": "L",
+                "b_height": "5-8",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Jimmy Rollins doubles (1) on a pop up to shortstop Jose Iglesias.   Pete Orr to 3rd.",
+                "des_es": "Jimmy Rollins pega doble (1) con elevadito a campo corto Jose Iglesias.   Pete Orr a 3ra.",
+                "event": "Double",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 11,
+                    "type": "B",
+                    "tfs": 230917,
+                    "tfs_zulu": "2013-03-21T23:09:17Z",
+                    "x": 101.29,
+                    "y": 125.2,
+                    "on_1b": 434681,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "In play, no out",
+                    "des_es": "En juego, no out",
+                    "id": 15,
+                    "type": "X",
+                    "tfs": 231403,
+                    "tfs_zulu": "2013-03-21T23:14:03Z",
+                    "x": 97.85,
+                    "y": 101.02,
+                    "on_2b": 434681,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 434681,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Stolen Base 2B"
+                  },
+                  {
+                    "id": 434681,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Double"
+                  },
+                  {
+                    "id": 276519,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Double"
+                  }
+                ]
+              },
+              {
+                "num": 4,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 231418,
+                "start_tfs_zulu": "2013-03-21T23:14:18Z",
+                "batter": 276545,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Michael Young grounds out, second baseman Dustin Pedroia to first baseman Mike Napoli.   Pete Orr scores.    Jimmy Rollins to 3rd.",
+                "des_es": "Michael Young batea rodado de out a primera base Mike Napoli en jugada de infield fly.   Pete Orr anota  Jimmy Rollins a 3ra.",
+                "event": "Groundout",
+                "score": "T",
+                "home_team_runs": 0,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "des_es": "En juego, carrera(s)",
+                  "id": 20,
+                  "type": "X",
+                  "tfs": 231426,
+                  "tfs_zulu": "2013-03-21T23:14:26Z",
+                  "x": 99.57,
+                  "y": 94.98,
+                  "on_2b": 276519,
+                  "on_3b": 434681,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 276519,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Groundout"
+                  },
+                  {
+                    "id": 434681,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Groundout",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  }
+                ]
+              },
+              {
+                "num": 5,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 231440,
+                "start_tfs_zulu": "2013-03-21T23:14:40Z",
+                "batter": 425556,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Laynce Nix grounds out, second baseman Dustin Pedroia to first baseman Mike Napoli.",
+                "des_es": "Laynce Nix batea rodado de out, segunda base Dustin Pedroia a primera base Mike Napoli.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 27,
+                  "type": "X",
+                  "tfs": 231443,
+                  "tfs_zulu": "2013-03-21T23:14:43Z",
+                  "x": 102.15,
+                  "y": 96.71,
+                  "on_3b": 276519,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 276519,
+                  "start": "3B",
+                  "end": "",
+                  "event": "Groundout"
+                }
+              }
+            ],
+            "action": {
+              "b": 1,
+              "s": 0,
+              "o": 1,
+              "des": "With Jimmy Rollins batting, Pete Orr steals (1) 2nd base.",
+              "event": "Stolen Base 2B",
+              "tfs": 230923,
+              "tfs_zulu": "2013-03-21T23:09:23Z",
+              "player": 434681,
+              "pitch": 1
+            }
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 6,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 231559,
+                "start_tfs_zulu": "2013-03-21T23:15:59Z",
+                "batter": 453056,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Jacoby Ellsbury lines out to second baseman Freddy Galvis.",
+                "des_es": "Jacoby Ellsbury batea línea de out a segunda base Freddy Galvis.",
+                "event": "Lineout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 33,
+                  "type": "X",
+                  "tfs": 231632,
+                  "tfs_zulu": "2013-03-21T23:16:32Z",
+                  "x": 86.7,
+                  "y": 99.3,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 7,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 231642,
+                "start_tfs_zulu": "2013-03-21T23:16:42Z",
+                "batter": 425664,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Shane Victorino pops out to second baseman Freddy Galvis.",
+                "des_es": "Shane Victorino batea elevadito de out a segunda base Freddy Galvis.",
+                "event": "Pop Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 37,
+                  "type": "X",
+                  "tfs": 231751,
+                  "tfs_zulu": "2013-03-21T23:17:51Z",
+                  "x": 77.25,
+                  "y": 102.75,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 8,
+                "b": 4,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 231803,
+                "start_tfs_zulu": "2013-03-21T23:18:03Z",
+                "batter": 456030,
+                "stand": "R",
+                "b_height": "5-8",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Dustin Pedroia walks.",
+                "des_es": "Dustin Pedroia recibe base por bolas.",
+                "event": "Walk",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 41,
+                    "type": "B",
+                    "tfs": 231918,
+                    "tfs_zulu": "2013-03-21T23:19:18Z",
+                    "x": 73.82,
+                    "y": 107.93,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 42,
+                    "type": "B",
+                    "tfs": 231919,
+                    "tfs_zulu": "2013-03-21T23:19:19Z",
+                    "x": 81.55,
+                    "y": 123.47,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 43,
+                    "type": "B",
+                    "tfs": 231920,
+                    "tfs_zulu": "2013-03-21T23:19:20Z",
+                    "x": 81.55,
+                    "y": 123.47,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 44,
+                    "type": "B",
+                    "tfs": 231922,
+                    "tfs_zulu": "2013-03-21T23:19:22Z",
+                    "x": 81.55,
+                    "y": 123.47,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 456030,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk"
+                }
+              },
+              {
+                "num": 9,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 231927,
+                "start_tfs_zulu": "2013-03-21T23:19:27Z",
+                "batter": 435063,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Mike Napoli flies out to center fielder Ben Revere.",
+                "des_es": "Mike Napoli batea elevado de out a jardinero central Ben Revere.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 48,
+                  "type": "X",
+                  "tfs": 232209,
+                  "tfs_zulu": "2013-03-21T23:22:09Z",
+                  "x": 101.29,
+                  "y": 101.89,
+                  "on_1b": 456030,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 456030,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Flyout"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 2,
+          "away_team": "phi",
+          "home_team": "bos",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 10,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 232443,
+                "start_tfs_zulu": "2013-03-21T23:24:43Z",
+                "batter": 434563,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Carlos Ruiz grounds out, second baseman Dustin Pedroia to first baseman Mike Napoli.",
+                "des_es": "Carlos Ruiz batea rodado de out, segunda base Dustin Pedroia a primera base Mike Napoli.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 54,
+                  "type": "X",
+                  "tfs": 232748,
+                  "tfs_zulu": "2013-03-21T23:27:48Z",
+                  "x": 87.55,
+                  "y": 101.89,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 11,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 232757,
+                "start_tfs_zulu": "2013-03-21T23:27:57Z",
+                "batter": 460055,
+                "stand": "R",
+                "b_height": "6-6",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "John Mayberry grounds out, shortstop Jose Iglesias to first baseman Mike Napoli.",
+                "des_es": "John Mayberry batea rodado de out, campo corto Jose Iglesias a primera base Mike Napoli.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 58,
+                  "type": "X",
+                  "tfs": 233323,
+                  "tfs_zulu": "2013-03-21T23:33:23Z",
+                  "x": 103.86,
+                  "y": 101.02,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 12,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 233339,
+                "start_tfs_zulu": "2013-03-21T23:33:39Z",
+                "batter": 520471,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Freddy Galvis triples (1) on a fly ball to center fielder Jacoby Ellsbury.",
+                "des_es": "Freddy Galvis pega triple (1) con elevado al jardinero central Jacoby Ellsbury.",
+                "event": "Triple",
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 62,
+                  "type": "X",
+                  "tfs": 233343,
+                  "tfs_zulu": "2013-03-21T23:33:43Z",
+                  "x": 85.84,
+                  "y": 94.12,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 520471,
+                  "start": "",
+                  "end": "3B",
+                  "event": "Triple"
+                }
+              },
+              {
+                "num": 13,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 233356,
+                "start_tfs_zulu": "2013-03-21T23:33:56Z",
+                "batter": 430935,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Cole Hamels called out on strikes.",
+                "des_es": "Cole Hamels se poncha sin tirarle.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 66,
+                    "type": "S",
+                    "tfs": 233358,
+                    "tfs_zulu": "2013-03-21T23:33:58Z",
+                    "x": 108.15,
+                    "y": 126.93,
+                    "on_3b": 520471,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 67,
+                    "type": "S",
+                    "tfs": 233400,
+                    "tfs_zulu": "2013-03-21T23:34:00Z",
+                    "x": 103,
+                    "y": 127.79,
+                    "on_3b": 520471,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 68,
+                    "type": "S",
+                    "tfs": 233403,
+                    "tfs_zulu": "2013-03-21T23:34:03Z",
+                    "x": 94.42,
+                    "y": 115.7,
+                    "on_3b": 520471,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 520471,
+                  "start": "3B",
+                  "end": "",
+                  "event": "Strikeout"
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 14,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 233519,
+                "start_tfs_zulu": "2013-03-21T23:35:19Z",
+                "batter": 519025,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Will Middlebrooks doubles (1) on a fly ball to center fielder Ben Revere.",
+                "des_es": "Will Middlebrooks pega doble (1) con elevado a jardinero central Ben Revere.",
+                "event": "Double",
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 74,
+                  "type": "X",
+                  "tfs": 233720,
+                  "tfs_zulu": "2013-03-21T23:37:20Z",
+                  "x": 98.71,
+                  "y": 100.16,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 519025,
+                  "start": "",
+                  "end": "2B",
+                  "event": "Double"
+                }
+              },
+              {
+                "num": 15,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 233729,
+                "start_tfs_zulu": "2013-03-21T23:37:29Z",
+                "batter": 430404,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Jonny Gomes singles on a soft line drive to left fielder Laynce Nix.   Will Middlebrooks to 3rd.",
+                "des_es": "Jonny Gomes pega sencillo con línea suave a jardinero izquierdo Laynce Nix.   Will Middlebrooks a 3ra.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 78,
+                  "type": "X",
+                  "tfs": 233806,
+                  "tfs_zulu": "2013-03-21T23:38:06Z",
+                  "x": 99.57,
+                  "y": 90.66,
+                  "on_2b": 519025,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 519025,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 430404,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 16,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 233814,
+                "start_tfs_zulu": "2013-03-21T23:38:14Z",
+                "batter": 457454,
+                "stand": "R",
+                "b_height": "6-4",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Jarrod Saltalamacchia flies out to left fielder Laynce Nix.",
+                "des_es": "Jarrod Saltalamacchia batea elevado de out a jardinero izquierdo Laynce Nix.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 83,
+                  "type": "X",
+                  "tfs": 233950,
+                  "tfs_zulu": "2013-03-21T23:39:50Z",
+                  "x": 86.7,
+                  "y": 89.8,
+                  "on_1b": 430404,
+                  "on_3b": 519025,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 17,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 233957,
+                "start_tfs_zulu": "2013-03-21T23:39:57Z",
+                "batter": 537953,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Daniel Nava out on a sacrifice fly to left fielder Laynce Nix.   Will Middlebrooks scores.",
+                "des_es": "Daniel Nava out con elevado de sacrificio a jardinero izquierdo Laynce Nix.   Will Middlebrooks anota.",
+                "event": "Sac Fly",
+                "score": "T",
+                "home_team_runs": 1,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "des_es": "En juego, carrera(s)",
+                  "id": 87,
+                  "type": "X",
+                  "tfs": 234449,
+                  "tfs_zulu": "2013-03-21T23:44:49Z",
+                  "x": 86.7,
+                  "y": 97.57,
+                  "on_1b": 430404,
+                  "on_3b": 519025,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 519025,
+                  "start": "3B",
+                  "end": "",
+                  "event": "Sac Fly",
+                  "score": "T",
+                  "rbi": "T",
+                  "earned": "T"
+                }
+              },
+              {
+                "num": 18,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 234500,
+                "start_tfs_zulu": "2013-03-21T23:45:00Z",
+                "batter": 578428,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Jose Iglesias flies out to center fielder Ben Revere.",
+                "des_es": "Jose Iglesias batea elevado de out a jardinero central Ben Revere.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 93,
+                  "type": "X",
+                  "tfs": 234619,
+                  "tfs_zulu": "2013-03-21T23:46:19Z",
+                  "x": 83.26,
+                  "y": 97.57,
+                  "on_1b": 430404,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 430404,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Flyout"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 3,
+          "away_team": "phi",
+          "home_team": "bos",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 19,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 234853,
+                "start_tfs_zulu": "2013-03-21T23:48:53Z",
+                "batter": 519184,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Ben Revere grounds out, shortstop Jose Iglesias to first baseman Mike Napoli.",
+                "des_es": "Ben Revere batea rodado de out, campo corto Jose Iglesias a primera base Mike Napoli.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 99,
+                  "type": "X",
+                  "tfs": 235119,
+                  "tfs_zulu": "2013-03-21T23:51:19Z",
+                  "x": 90.13,
+                  "y": 99.3,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 20,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 235142,
+                "start_tfs_zulu": "2013-03-21T23:51:42Z",
+                "batter": 434681,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Pete Orr bunt grounds out, third baseman Will Middlebrooks to first baseman Mike Napoli.",
+                "des_es": "Pete Orr batea rodado con toque de out, tercera base Will Middlebrooks a primera base Mike Napoli.",
+                "event": "Bunt Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 103,
+                  "type": "X",
+                  "tfs": 235146,
+                  "tfs_zulu": "2013-03-21T23:51:46Z",
+                  "x": 79.83,
+                  "y": 99.3,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 21,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 235154,
+                "start_tfs_zulu": "2013-03-21T23:51:54Z",
+                "batter": 276519,
+                "stand": "L",
+                "b_height": "5-8",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Jimmy Rollins grounds out, first baseman Mike Napoli to pitcher John Lackey.",
+                "des_es": "Jimmy Rollins batea rodado de out, primera base Mike Napoli a lanzador John Lackey.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 107,
+                  "type": "X",
+                  "tfs": 235159,
+                  "tfs_zulu": "2013-03-21T23:51:59Z",
+                  "x": 92.7,
+                  "y": 99.3,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 22,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 235342,
+                "start_tfs_zulu": "2013-03-21T23:53:42Z",
+                "batter": 453056,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Jacoby Ellsbury grounds out, second baseman Freddy Galvis to first baseman John Mayberry.",
+                "des_es": "Jacoby Ellsbury batea rodado de out, segunda base Freddy Galvis a primera base John Mayberry.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 112,
+                  "type": "X",
+                  "tfs": 235351,
+                  "tfs_zulu": "2013-03-21T23:53:51Z",
+                  "x": 80.69,
+                  "y": 92.39,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 23,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 235358,
+                "start_tfs_zulu": "2013-03-21T23:53:58Z",
+                "batter": 425664,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Shane Victorino grounds out, shortstop Jimmy Rollins to first baseman John Mayberry.",
+                "des_es": "Shane Victorino batea rodado de out, campo corto Jimmy Rollins a primera base John Mayberry.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 116,
+                  "type": "X",
+                  "tfs": 235715,
+                  "tfs_zulu": "2013-03-21T23:57:15Z",
+                  "x": 105.58,
+                  "y": 96.71,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 24,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 235722,
+                "start_tfs_zulu": "2013-03-21T23:57:22Z",
+                "batter": 456030,
+                "stand": "R",
+                "b_height": "5-8",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Dustin Pedroia singles on a line drive to right fielder Pete Orr.",
+                "des_es": "Dustin Pedroia pega sencillo con línea a jardinero derecho Pete Orr.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 120,
+                  "type": "X",
+                  "tfs": 235728,
+                  "tfs_zulu": "2013-03-21T23:57:28Z",
+                  "x": 80.69,
+                  "y": 100.16,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 456030,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 25,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 235739,
+                "start_tfs_zulu": "2013-03-21T23:57:39Z",
+                "batter": 435063,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Mike Napoli strikes out swinging.",
+                "des_es": "Mike Napoli se poncha tirándole.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 124,
+                    "type": "S",
+                    "tfs": 235853,
+                    "tfs_zulu": "2013-03-21T23:58:53Z",
+                    "x": 100.43,
+                    "y": 118.29,
+                    "on_1b": 456030,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 125,
+                    "type": "S",
+                    "tfs": 235854,
+                    "tfs_zulu": "2013-03-21T23:58:54Z",
+                    "x": 89.27,
+                    "y": 124.34,
+                    "on_1b": 456030,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 126,
+                    "type": "S",
+                    "tfs": 235855,
+                    "tfs_zulu": "2013-03-21T23:58:55Z",
+                    "x": 89.27,
+                    "y": 125.2,
+                    "on_1b": 456030,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 456030,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Strikeout"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 4,
+          "away_team": "phi",
+          "home_team": "bos",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 26,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 114,
+                "start_tfs_zulu": "2013-03-22T00:01:14Z",
+                "batter": 276545,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Michael Young grounds out, shortstop Jose Iglesias to first baseman Mike Napoli.",
+                "des_es": "Michael Young batea rodado de out, campo corto Jose Iglesias a primera base Mike Napoli.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 132,
+                  "type": "X",
+                  "tfs": 221,
+                  "tfs_zulu": "2013-03-22T00:02:21Z",
+                  "x": 80.69,
+                  "y": 99.3,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 27,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 229,
+                "start_tfs_zulu": "2013-03-22T00:02:29Z",
+                "batter": 425556,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Laynce Nix doubles (1) on a ground ball to left fielder Jonny Gomes.",
+                "des_es": "Laynce Nix pega doble (1) con rodado a jardinero izquierdo Jonny Gomes.",
+                "event": "Double",
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 136,
+                  "type": "X",
+                  "tfs": 459,
+                  "tfs_zulu": "2013-03-22T00:04:59Z",
+                  "x": 97,
+                  "y": 93.25,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 425556,
+                  "start": "",
+                  "end": "2B",
+                  "event": "Double"
+                }
+              },
+              {
+                "num": 28,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 630,
+                "start_tfs_zulu": "2013-03-22T00:06:30Z",
+                "batter": 434563,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Carlos Ruiz grounds out, shortstop Jose Iglesias to first baseman Mike Napoli.",
+                "des_es": "Carlos Ruiz batea rodado de out, campo corto Jose Iglesias a primera base Mike Napoli.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 140,
+                  "type": "X",
+                  "tfs": 633,
+                  "tfs_zulu": "2013-03-22T00:06:33Z",
+                  "x": 92.7,
+                  "y": 98.43,
+                  "on_2b": 425556,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 29,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 645,
+                "start_tfs_zulu": "2013-03-22T00:06:45Z",
+                "batter": 460055,
+                "stand": "R",
+                "b_height": "6-6",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "John Mayberry flies out to center fielder Jacoby Ellsbury.",
+                "des_es": "John Mayberry batea elevado de out a jardinero central Jacoby Ellsbury.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 144,
+                  "type": "X",
+                  "tfs": 816,
+                  "tfs_zulu": "2013-03-22T00:08:16Z",
+                  "x": 83.26,
+                  "y": 99.3,
+                  "on_2b": 425556,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 425556,
+                  "start": "2B",
+                  "end": "",
+                  "event": "Flyout"
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 30,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 1119,
+                "start_tfs_zulu": "2013-03-22T00:11:19Z",
+                "batter": 519025,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Will Middlebrooks pops out to second baseman Freddy Galvis.",
+                "des_es": "Will Middlebrooks batea elevadito de out a segunda base Freddy Galvis.",
+                "event": "Pop Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 150,
+                  "type": "X",
+                  "tfs": 1125,
+                  "tfs_zulu": "2013-03-22T00:11:25Z",
+                  "x": 89.27,
+                  "y": 97.57,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 31,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 1134,
+                "start_tfs_zulu": "2013-03-22T00:11:34Z",
+                "batter": 430404,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Jonny Gomes strikes out swinging.",
+                "des_es": "Jonny Gomes se poncha tirándole.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 154,
+                    "type": "S",
+                    "tfs": 1217,
+                    "tfs_zulu": "2013-03-22T00:12:17Z",
+                    "x": 86.7,
+                    "y": 121.75,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 155,
+                    "type": "S",
+                    "tfs": 1218,
+                    "tfs_zulu": "2013-03-22T00:12:18Z",
+                    "x": 86.7,
+                    "y": 122.61,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 156,
+                    "type": "S",
+                    "tfs": 1220,
+                    "tfs_zulu": "2013-03-22T00:12:20Z",
+                    "x": 86.7,
+                    "y": 126.06,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 32,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 1223,
+                "start_tfs_zulu": "2013-03-22T00:12:23Z",
+                "batter": 457454,
+                "stand": "R",
+                "b_height": "6-4",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Jarrod Saltalamacchia strikes out swinging.",
+                "des_es": "Jarrod Saltalamacchia se poncha tirándole.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 160,
+                    "type": "S",
+                    "tfs": 1322,
+                    "tfs_zulu": "2013-03-22T00:13:22Z",
+                    "x": 95.28,
+                    "y": 130.38,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 161,
+                    "type": "S",
+                    "tfs": 1323,
+                    "tfs_zulu": "2013-03-22T00:13:23Z",
+                    "x": 89.27,
+                    "y": 127.79,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 162,
+                    "type": "S",
+                    "tfs": 1324,
+                    "tfs_zulu": "2013-03-22T00:13:24Z",
+                    "x": 89.27,
+                    "y": 127.79,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "num": 5,
+          "away_team": "phi",
+          "home_team": "bos",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 33,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 1557,
+                "start_tfs_zulu": "2013-03-22T00:15:57Z",
+                "batter": 520471,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Freddy Galvis grounds out, shortstop Jose Iglesias to first baseman Mike Napoli.",
+                "des_es": "Freddy Galvis batea rodado de out, campo corto Jose Iglesias a primera base Mike Napoli.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 167,
+                  "type": "X",
+                  "tfs": 1656,
+                  "tfs_zulu": "2013-03-22T00:16:56Z",
+                  "x": 89.27,
+                  "y": 99.3,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 34,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 1733,
+                "start_tfs_zulu": "2013-03-22T00:17:33Z",
+                "batter": 430935,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Cole Hamels grounds out, shortstop Jose Iglesias to first baseman Mike Napoli.",
+                "des_es": "Cole Hamels batea rodado de out, campo corto Jose Iglesias a primera base Mike Napoli.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 171,
+                  "type": "X",
+                  "tfs": 1759,
+                  "tfs_zulu": "2013-03-22T00:17:59Z",
+                  "x": 89.27,
+                  "y": 96.71,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 35,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 1810,
+                "start_tfs_zulu": "2013-03-22T00:18:10Z",
+                "batter": 519184,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 407793,
+                "p_throws": "R",
+                "des": "Ben Revere bunt grounds out, pitcher John Lackey to first baseman Mike Napoli.",
+                "des_es": "Ben Revere batea rodado con toque de out, lanzador John Lackey a primera base Mike Napoli.",
+                "event": "Bunt Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 175,
+                  "type": "X",
+                  "tfs": 1913,
+                  "tfs_zulu": "2013-03-22T00:19:13Z",
+                  "x": 94.42,
+                  "y": 99.3,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 36,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 2141,
+                "start_tfs_zulu": "2013-03-22T00:21:41Z",
+                "batter": 537953,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Daniel Nava grounds out, shortstop Jimmy Rollins to first baseman John Mayberry.",
+                "des_es": "Daniel Nava batea rodado de out, campo corto Jimmy Rollins a primera base John Mayberry.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 180,
+                  "type": "X",
+                  "tfs": 2239,
+                  "tfs_zulu": "2013-03-22T00:22:39Z",
+                  "x": 92.7,
+                  "y": 95.84,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 37,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 2248,
+                "start_tfs_zulu": "2013-03-22T00:22:48Z",
+                "batter": 578428,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Jose Iglesias singles on a bunt ground ball to third baseman Michael Young.",
+                "des_es": "Jose Iglesias pega sencillo con rodado con toque a tercera base Michael Young.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 184,
+                  "type": "X",
+                  "tfs": 2311,
+                  "tfs_zulu": "2013-03-22T00:23:11Z",
+                  "x": 73.82,
+                  "y": 98.43,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 578428,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 38,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 2342,
+                "start_tfs_zulu": "2013-03-22T00:23:42Z",
+                "batter": 453056,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Jacoby Ellsbury strikes out swinging.",
+                "des_es": "Jacoby Ellsbury se poncha tirándole.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 188,
+                    "type": "S",
+                    "tfs": 2531,
+                    "tfs_zulu": "2013-03-22T00:25:31Z",
+                    "x": 91.85,
+                    "y": 120.88,
+                    "on_1b": 578428,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 189,
+                    "type": "S",
+                    "tfs": 2532,
+                    "tfs_zulu": "2013-03-22T00:25:32Z",
+                    "x": 88.41,
+                    "y": 124.34,
+                    "on_1b": 578428,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 190,
+                    "type": "S",
+                    "tfs": 2533,
+                    "tfs_zulu": "2013-03-22T00:25:33Z",
+                    "x": 88.41,
+                    "y": 124.34,
+                    "on_1b": 578428,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 39,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 2717,
+                "start_tfs_zulu": "2013-03-22T00:27:17Z",
+                "batter": 425664,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "With Shane Victorino batting, Jose Iglesias picked off and caught stealing 2nd base, pitcher Cole Hamels to first baseman John Mayberry to shortstop Jimmy Rollins.",
+                "des_es": "Con Shane Victorino bateando, Jose Iglesias sorprendido fuera de base y atrapado robando la 2da base, lanzador Cole Hamels a primera base John Mayberry a campo corto Jimmy Rollins.",
+                "event": "Runner Out",
+                "po": {
+                  "des": "Pickoff Attempt 1B"
+                },
+                "runner": {
+                  "id": 578428,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Picked off stealing 2B"
+                }
+              }
+            ],
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 3,
+              "des": "With Shane Victorino batting, Jose Iglesias picked off and caught stealing 2nd base, pitcher Cole Hamels to first baseman John Mayberry to shortstop Jimmy Rollins.",
+              "event": "Picked off stealing 2B",
+              "tfs": 2744,
+              "tfs_zulu": "2013-03-22T00:27:44Z",
+              "player": 578428,
+              "pitch": 0
+            }
+          }
+        },
+        {
+          "num": 6,
+          "away_team": "phi",
+          "home_team": "bos",
+          "next": "Y",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitching Change: Andrew Miller replaces John Lackey.",
+                "event": "Pitching Substitution",
+                "tfs": 2851,
+                "tfs_zulu": "2013-03-22T00:28:51Z",
+                "player": 453192,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "des": "Pitching Change: Joel Hanrahan replaces Andrew Miller.",
+                "event": "Pitching Substitution",
+                "tfs": 3355,
+                "tfs_zulu": "2013-03-22T00:33:55Z",
+                "player": 430629,
+                "pitch": 3
+              }
+            ],
+            "atbat": [
+              {
+                "num": 40,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 3031,
+                "start_tfs_zulu": "2013-03-22T00:30:31Z",
+                "batter": 434681,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 453192,
+                "p_throws": "L",
+                "des": "Pete Orr strikes out swinging.",
+                "des_es": "Pete Orr se poncha tirándole.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 202,
+                    "type": "S",
+                    "tfs": 3035,
+                    "tfs_zulu": "2013-03-22T00:30:35Z",
+                    "x": 102.15,
+                    "y": 120.02,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 203,
+                    "type": "S",
+                    "tfs": 3036,
+                    "tfs_zulu": "2013-03-22T00:30:36Z",
+                    "x": 101.29,
+                    "y": 124.34,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 204,
+                    "type": "S",
+                    "tfs": 3037,
+                    "tfs_zulu": "2013-03-22T00:30:37Z",
+                    "x": 101.29,
+                    "y": 124.34,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 41,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 3058,
+                "start_tfs_zulu": "2013-03-22T00:30:58Z",
+                "batter": 276519,
+                "stand": "R",
+                "b_height": "5-8",
+                "pitcher": 453192,
+                "p_throws": "L",
+                "des": "Jimmy Rollins called out on strikes.",
+                "des_es": "Jimmy Rollins se poncha sin tirarle.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 208,
+                    "type": "S",
+                    "tfs": 3250,
+                    "tfs_zulu": "2013-03-22T00:32:50Z",
+                    "x": 103,
+                    "y": 126.93,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 209,
+                    "type": "S",
+                    "tfs": 3252,
+                    "tfs_zulu": "2013-03-22T00:32:52Z",
+                    "x": 102.15,
+                    "y": 126.93,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 210,
+                    "type": "S",
+                    "tfs": 3256,
+                    "tfs_zulu": "2013-03-22T00:32:56Z",
+                    "x": 95.28,
+                    "y": 100.16,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 42,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 3258,
+                "start_tfs_zulu": "2013-03-22T00:32:58Z",
+                "batter": 276545,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 430629,
+                "p_throws": "R",
+                "des": "Michael Young flies out to right fielder Shane Victorino.",
+                "des_es": "Michael Young batea elevado de out a jardinero derecho Shane Victorino.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 216,
+                  "type": "X",
+                  "tfs": 3715,
+                  "tfs_zulu": "2013-03-22T00:37:15Z",
+                  "x": 78.97,
+                  "y": 97.57,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Yuniesky Betancourt replaces shortstop Jimmy Rollins, batting 3rd, playing shortstop.",
+                "event": "Defensive Sub",
+                "tfs": 4051,
+                "tfs_zulu": "2013-03-22T00:40:51Z",
+                "player": 435358,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Darin Ruf replaces left fielder Laynce Nix, batting 5th, playing left field.",
+                "event": "Defensive Sub",
+                "tfs": 4051,
+                "tfs_zulu": "2013-03-22T00:40:51Z",
+                "player": 573131,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 43,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 4057,
+                "start_tfs_zulu": "2013-03-22T00:40:57Z",
+                "batter": 425664,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Shane Victorino called out on strikes.",
+                "des_es": "Shane Victorino se poncha sin tirarle.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 225,
+                    "type": "S",
+                    "tfs": 4100,
+                    "tfs_zulu": "2013-03-22T00:41:00Z",
+                    "x": 97.85,
+                    "y": 130.38,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 226,
+                    "type": "S",
+                    "tfs": 4102,
+                    "tfs_zulu": "2013-03-22T00:41:02Z",
+                    "x": 97.85,
+                    "y": 128.65,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 227,
+                    "type": "S",
+                    "tfs": 4107,
+                    "tfs_zulu": "2013-03-22T00:41:07Z",
+                    "x": 91.85,
+                    "y": 126.06,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 44,
+                "b": 4,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 4137,
+                "start_tfs_zulu": "2013-03-22T00:41:37Z",
+                "batter": 456030,
+                "stand": "R",
+                "b_height": "5-8",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Dustin Pedroia walks.",
+                "des_es": "Dustin Pedroia recibe base por bolas.",
+                "event": "Walk",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 231,
+                    "type": "B",
+                    "tfs": 4216,
+                    "tfs_zulu": "2013-03-22T00:42:16Z",
+                    "x": 97.85,
+                    "y": 125.2,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 232,
+                    "type": "B",
+                    "tfs": 4217,
+                    "tfs_zulu": "2013-03-22T00:42:17Z",
+                    "x": 92.7,
+                    "y": 122.61,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 233,
+                    "type": "B",
+                    "tfs": 4218,
+                    "tfs_zulu": "2013-03-22T00:42:18Z",
+                    "x": 92.7,
+                    "y": 122.61,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 234,
+                    "type": "B",
+                    "tfs": 4220,
+                    "tfs_zulu": "2013-03-22T00:42:20Z",
+                    "x": 91.85,
+                    "y": 125.2,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 456030,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk"
+                }
+              },
+              {
+                "num": 45,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 4224,
+                "start_tfs_zulu": "2013-03-22T00:42:24Z",
+                "batter": 435063,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 430935,
+                "p_throws": "L",
+                "des": "Mike Napoli grounds into a double play, third baseman Michael Young to second baseman Freddy Galvis to first baseman John Mayberry.   Dustin Pedroia out at 2nd.",
+                "des_es": "Mike Napoli batea rodado batea para doble matanza, tercera base Michael Young a segunda base Freddy Galvis a primera base John Mayberry.   Dustin Pedroia a cabo a 2da.",
+                "event": "Grounded Into DP",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 238,
+                  "type": "X",
+                  "tfs": 4422,
+                  "tfs_zulu": "2013-03-22T00:44:22Z",
+                  "x": 78.97,
+                  "y": 101.89,
+                  "on_1b": 456030,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 456030,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Grounded Into DP"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 7,
+          "away_team": "phi",
+          "home_team": "bos",
+          "next": "Y",
+          "top": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitching Change: Andrew Bailey replaces Joel Hanrahan.",
+              "event": "Pitching Substitution",
+              "tfs": 4611,
+              "tfs_zulu": "2013-03-22T00:46:11Z",
+              "player": 457732,
+              "pitch": 1
+            },
+            "atbat": [
+              {
+                "num": 46,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 4647,
+                "start_tfs_zulu": "2013-03-22T00:46:47Z",
+                "batter": 573131,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 457732,
+                "p_throws": "R",
+                "des": "Darin Ruf flies out to right fielder Shane Victorino.",
+                "des_es": "Darin Ruf batea elevado de out a jardinero derecho Shane Victorino.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 246,
+                  "type": "X",
+                  "tfs": 4711,
+                  "tfs_zulu": "2013-03-22T00:47:11Z",
+                  "x": 74.68,
+                  "y": 99.3,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 47,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 4739,
+                "start_tfs_zulu": "2013-03-22T00:47:39Z",
+                "batter": 434563,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 457732,
+                "p_throws": "R",
+                "des": "Carlos Ruiz flies out to right fielder Shane Victorino.",
+                "des_es": "Carlos Ruiz batea elevado de out a jardinero derecho Shane Victorino.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 250,
+                  "type": "X",
+                  "tfs": 4929,
+                  "tfs_zulu": "2013-03-22T00:49:29Z",
+                  "x": 90.99,
+                  "y": 97.57,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 48,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 4938,
+                "start_tfs_zulu": "2013-03-22T00:49:38Z",
+                "batter": 460055,
+                "stand": "R",
+                "b_height": "6-6",
+                "pitcher": 457732,
+                "p_throws": "R",
+                "des": "John Mayberry pops out to second baseman Dustin Pedroia.",
+                "des_es": "John Mayberry batea elevadito de out a segunda base Dustin Pedroia.",
+                "event": "Pop Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 254,
+                  "type": "X",
+                  "tfs": 5049,
+                  "tfs_zulu": "2013-03-22T00:50:49Z",
+                  "x": 91.85,
+                  "y": 103.61,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Ender Inciarte replaces center fielder Ben Revere, batting 1st, playing center field.",
+                "event": "Defensive Sub",
+                "tfs": 5514,
+                "tfs_zulu": "2013-03-22T00:55:14Z",
+                "player": 542255,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Kevin Frandsen replaces pitcher Cole Hamels, batting 9th, playing third base.",
+                "event": "Defensive Sub",
+                "tfs": 5514,
+                "tfs_zulu": "2013-03-22T00:55:14Z",
+                "player": 435623,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitching Change: Michael Stutes replaces Cole Hamels, batting 4th, replacing third baseman Michael Young.",
+                "event": "Pitching Substitution",
+                "tfs": 5514,
+                "tfs_zulu": "2013-03-22T00:55:14Z",
+                "player": 452741,
+                "pitch": 1
+              },
+              {
+                "b": 1,
+                "s": 0,
+                "o": 2,
+                "des": "With Daniel Nava batting, wild pitch by Michael Stutes, Jarrod Saltalamacchia to 2nd.",
+                "event": "Wild Pitch",
+                "tfs": 5914,
+                "tfs_zulu": "2013-03-22T00:59:14Z",
+                "player": 457454,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "des": "Offensive Substitution: Pinch-runner Matty Johnson replaces Jarrod Saltalamacchia.",
+                "event": "Offensive sub",
+                "tfs": 10008,
+                "tfs_zulu": "2013-03-22T01:00:08Z",
+                "player": 599726,
+                "pitch": 4
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "des": "Pitching Change: Mike Nesseth replaces Michael Stutes, batting 4th.",
+                "event": "Pitching Substitution",
+                "tfs": 12628,
+                "tfs_zulu": "2013-03-22T01:26:28Z",
+                "player": 571988,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "des": "Offensive Substitution: Pinch-runner Ryan Dent replaces Dustin Pedroia.",
+                "event": "Offensive sub",
+                "tfs": 11042,
+                "tfs_zulu": "2013-03-22T01:10:42Z",
+                "player": 518612,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "des": "Offensive Substitution: Pinch-hitter Lyle Overbay replaces Mike Napoli.",
+                "event": "Offensive sub",
+                "tfs": 11207,
+                "tfs_zulu": "2013-03-22T01:12:07Z",
+                "player": 407489,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 49,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 5529,
+                "start_tfs_zulu": "2013-03-22T00:55:29Z",
+                "batter": 519025,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 452741,
+                "p_throws": "R",
+                "des": "Will Middlebrooks flies out to center fielder Ender Inciarte.",
+                "des_es": "Will Middlebrooks batea elevado de out a jardinero central Ender Inciarte.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 265,
+                  "type": "X",
+                  "tfs": 5532,
+                  "tfs_zulu": "2013-03-22T00:55:32Z",
+                  "x": 74.68,
+                  "y": 98.43,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 50,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 5539,
+                "start_tfs_zulu": "2013-03-22T00:55:39Z",
+                "batter": 430404,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 452741,
+                "p_throws": "R",
+                "des": "Jonny Gomes pops out to second baseman Freddy Galvis.",
+                "des_es": "Jonny Gomes batea elevadito de out a segunda base Freddy Galvis.",
+                "event": "Pop Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 269,
+                  "type": "X",
+                  "tfs": 5542,
+                  "tfs_zulu": "2013-03-22T00:55:42Z",
+                  "x": 84.98,
+                  "y": 98.43,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 51,
+                "b": 4,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 5630,
+                "start_tfs_zulu": "2013-03-22T00:56:30Z",
+                "batter": 457454,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 452741,
+                "p_throws": "R",
+                "des": "Jarrod Saltalamacchia walks.",
+                "des_es": "Jarrod Saltalamacchia recibe base por bolas.",
+                "event": "Walk",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 273,
+                    "type": "B",
+                    "tfs": 5633,
+                    "tfs_zulu": "2013-03-22T00:56:33Z",
+                    "x": 104.72,
+                    "y": 132.97,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 274,
+                    "type": "B",
+                    "tfs": 5634,
+                    "tfs_zulu": "2013-03-22T00:56:34Z",
+                    "x": 85.84,
+                    "y": 129.52,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 275,
+                    "type": "B",
+                    "tfs": 5635,
+                    "tfs_zulu": "2013-03-22T00:56:35Z",
+                    "x": 85.84,
+                    "y": 129.52,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 276,
+                    "type": "B",
+                    "tfs": 5636,
+                    "tfs_zulu": "2013-03-22T00:56:36Z",
+                    "x": 85.84,
+                    "y": 129.52,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 457454,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk"
+                }
+              },
+              {
+                "num": 52,
+                "b": 4,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 5728,
+                "start_tfs_zulu": "2013-03-22T00:57:28Z",
+                "batter": 537953,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 452741,
+                "p_throws": "R",
+                "des": "Daniel Nava walks.",
+                "des_es": "Daniel Nava recibe base por bolas.",
+                "event": "Walk",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 280,
+                    "type": "B",
+                    "tfs": 5909,
+                    "tfs_zulu": "2013-03-22T00:59:09Z",
+                    "x": 99.57,
+                    "y": 125.2,
+                    "on_1b": 457454,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 284,
+                    "type": "B",
+                    "tfs": 5922,
+                    "tfs_zulu": "2013-03-22T00:59:22Z",
+                    "x": 99.57,
+                    "y": 123.47,
+                    "on_2b": 457454,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 285,
+                    "type": "B",
+                    "tfs": 5923,
+                    "tfs_zulu": "2013-03-22T00:59:23Z",
+                    "x": 99.57,
+                    "y": 123.47,
+                    "on_2b": 457454,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 286,
+                    "type": "B",
+                    "tfs": 5924,
+                    "tfs_zulu": "2013-03-22T00:59:24Z",
+                    "x": 98.71,
+                    "y": 123.47,
+                    "on_2b": 457454,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 457454,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Wild Pitch"
+                  },
+                  {
+                    "id": 537953,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Walk"
+                  }
+                ]
+              },
+              {
+                "num": 53,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 10012,
+                "start_tfs_zulu": "2013-03-22T01:00:12Z",
+                "batter": 578428,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 452741,
+                "p_throws": "R",
+                "des": "Jose Iglesias reaches on a fielder's choice, fielded by shortstop Yuniesky Betancourt.   Matty Johnson scores.    Daniel Nava to 2nd.",
+                "des_es": "Jose Iglesias se embasa en jugada de selección, fildeada por campo corto Yuniesky Betancourt.   Matty Johnson anota  Daniel Nava a 2da.",
+                "event": "Fielders Choice",
+                "score": "T",
+                "home_team_runs": 2,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "des_es": "En juego, carrera(s)",
+                  "id": 292,
+                  "type": "X",
+                  "tfs": 10251,
+                  "tfs_zulu": "2013-03-22T01:02:51Z",
+                  "x": 85.84,
+                  "y": 101.02,
+                  "on_1b": 537953,
+                  "on_2b": 599726,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 537953,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Fielders Choice"
+                  },
+                  {
+                    "id": 599726,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Fielders Choice",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 578428,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Fielders Choice"
+                  }
+                ]
+              },
+              {
+                "num": 54,
+                "b": 4,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 10537,
+                "start_tfs_zulu": "2013-03-22T01:05:37Z",
+                "batter": 453056,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 452741,
+                "p_throws": "R",
+                "des": "Jacoby Ellsbury walks.   Daniel Nava to 3rd.    Jose Iglesias to 2nd.",
+                "des_es": "Jacoby Ellsbury recibe base por bolas.   Daniel Nava a 3ra.    Jose Iglesias a 2da.",
+                "event": "Walk",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 299,
+                    "type": "B",
+                    "tfs": 10540,
+                    "tfs_zulu": "2013-03-22T01:05:40Z",
+                    "x": 94.42,
+                    "y": 128.65,
+                    "on_1b": 578428,
+                    "on_2b": 537953,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 300,
+                    "type": "B",
+                    "tfs": 10541,
+                    "tfs_zulu": "2013-03-22T01:05:41Z",
+                    "x": 91.85,
+                    "y": 130.38,
+                    "on_1b": 578428,
+                    "on_2b": 537953,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 301,
+                    "type": "B",
+                    "tfs": 10542,
+                    "tfs_zulu": "2013-03-22T01:05:42Z",
+                    "x": 92.7,
+                    "y": 130.38,
+                    "on_1b": 578428,
+                    "on_2b": 537953,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "des_es": "Bola mala",
+                    "id": 302,
+                    "type": "B",
+                    "tfs": 10545,
+                    "tfs_zulu": "2013-03-22T01:05:45Z",
+                    "x": 92.7,
+                    "y": 130.38,
+                    "on_1b": 578428,
+                    "on_2b": 537953,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 578428,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Walk"
+                  },
+                  {
+                    "id": 537953,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Walk"
+                  },
+                  {
+                    "id": 453056,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Walk"
+                  }
+                ]
+              },
+              {
+                "num": 55,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 10549,
+                "start_tfs_zulu": "2013-03-22T01:05:49Z",
+                "batter": 425664,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 452741,
+                "p_throws": "R",
+                "des": "Shane Victorino triples (1) on a fly ball to right fielder Pete Orr.   Daniel Nava scores.    Jose Iglesias scores.    Jacoby Ellsbury scores.",
+                "des_es": "Shane Victorino pega triple (1) con elevado al jardinero derecho Pete Orr.   Daniel Nava anota  Jose Iglesias anota  Jacoby Ellsbury anota.",
+                "event": "Triple",
+                "score": "T",
+                "home_team_runs": 5,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "des_es": "En juego, carrera(s)",
+                  "id": 308,
+                  "type": "X",
+                  "tfs": 10553,
+                  "tfs_zulu": "2013-03-22T01:05:53Z",
+                  "x": 84.12,
+                  "y": 94.98,
+                  "on_1b": 453056,
+                  "on_2b": 578428,
+                  "on_3b": 537953,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 453056,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Triple",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 578428,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Triple",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 537953,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Triple",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 425664,
+                    "start": "",
+                    "end": "3B",
+                    "event": "Triple"
+                  }
+                ]
+              },
+              {
+                "num": 56,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 10812,
+                "start_tfs_zulu": "2013-03-22T01:08:12Z",
+                "batter": 456030,
+                "stand": "R",
+                "b_height": "5-8",
+                "pitcher": 571988,
+                "p_throws": "R",
+                "des": "Dustin Pedroia doubles (1) on a line drive to right fielder Pete Orr.   Shane Victorino scores.",
+                "des_es": "Dustin Pedroia pega doble (1) con línea a jardinero derecho Pete Orr.   Shane Victorino anota.",
+                "event": "Double",
+                "score": "T",
+                "home_team_runs": 6,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "des_es": "En juego, carrera(s)",
+                  "id": 320,
+                  "type": "X",
+                  "tfs": 10941,
+                  "tfs_zulu": "2013-03-22T01:09:41Z",
+                  "x": 76.39,
+                  "y": 98.43,
+                  "on_3b": 425664,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 425664,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Double",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 456030,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Double"
+                  }
+                ]
+              },
+              {
+                "num": 57,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 11220,
+                "start_tfs_zulu": "2013-03-22T01:12:20Z",
+                "batter": 407489,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 571988,
+                "p_throws": "R",
+                "des": "Lyle Overbay called out on strikes.",
+                "des_es": "Lyle Overbay se poncha sin tirarle.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 330,
+                    "type": "S",
+                    "tfs": 11223,
+                    "tfs_zulu": "2013-03-22T01:12:23Z",
+                    "x": 93.56,
+                    "y": 131.24,
+                    "on_2b": 518612,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 331,
+                    "type": "S",
+                    "tfs": 11224,
+                    "tfs_zulu": "2013-03-22T01:12:24Z",
+                    "x": 93.56,
+                    "y": 131.24,
+                    "on_2b": 518612,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "des_es": "Strike cantado",
+                    "id": 332,
+                    "type": "S",
+                    "tfs": 11227,
+                    "tfs_zulu": "2013-03-22T01:12:27Z",
+                    "x": 95.28,
+                    "y": 118.29,
+                    "on_2b": 518612,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 518612,
+                  "start": "2B",
+                  "end": "",
+                  "event": "Strikeout"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 8,
+          "away_team": "phi",
+          "home_team": "bos",
+          "next": "Y",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Ronald Bermudez replaces center fielder Jacoby Ellsbury, batting 1st, playing center field.",
+                "event": "Defensive Sub",
+                "tfs": 12819,
+                "tfs_zulu": "2013-03-22T01:28:19Z",
+                "player": 499543,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Ryan Sweeney replaces third baseman Will Middlebrooks, batting 5th, playing right field.",
+                "event": "Defensive Sub",
+                "tfs": 12819,
+                "tfs_zulu": "2013-03-22T01:28:19Z",
+                "player": 435220,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Ryan Dent remains in the game as the second baseman.",
+                "event": "Defensive Switch",
+                "tfs": 12819,
+                "tfs_zulu": "2013-03-22T01:28:19Z",
+                "player": 518612,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Lyle Overbay remains in the game as the first baseman.",
+                "event": "Defensive Switch",
+                "tfs": 12819,
+                "tfs_zulu": "2013-03-22T01:28:19Z",
+                "player": 407489,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Jonathan Diaz replaces left fielder Jonny Gomes, batting 6th, playing third base.",
+                "event": "Defensive Sub",
+                "tfs": 12819,
+                "tfs_zulu": "2013-03-22T01:28:19Z",
+                "player": 502409,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Dan Butler replaces right fielder Shane Victorino, batting 2nd, playing catcher.",
+                "event": "Defensive Sub",
+                "tfs": 12819,
+                "tfs_zulu": "2013-03-22T01:28:19Z",
+                "player": 576788,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Matty Johnson remains in the game as the left fielder.",
+                "event": "Defensive Switch",
+                "tfs": 12819,
+                "tfs_zulu": "2013-03-22T01:28:19Z",
+                "player": 599726,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitching Change: Koji Uehara replaces Andrew Bailey.",
+                "event": "Pitching Substitution",
+                "tfs": 12819,
+                "tfs_zulu": "2013-03-22T01:28:19Z",
+                "player": 493157,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "With Kevin Frandsen batting, Freddy Galvis advances to 2nd on a balk.",
+                "event": "Balk",
+                "tfs": 12908,
+                "tfs_zulu": "2013-03-22T01:29:08Z",
+                "player": 520471,
+                "pitch": 0
+              }
+            ],
+            "atbat": [
+              {
+                "num": 58,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 12839,
+                "start_tfs_zulu": "2013-03-22T01:28:39Z",
+                "batter": 520471,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 493157,
+                "p_throws": "R",
+                "des": "Freddy Galvis singles on a fly ball to left fielder Matty Johnson.",
+                "des_es": "Freddy Galvis pega sencillo con elevado a jardinero izquierdo Matty Johnson.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 354,
+                  "type": "X",
+                  "tfs": 12855,
+                  "tfs_zulu": "2013-03-22T01:28:55Z",
+                  "x": 84.12,
+                  "y": 105.34,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 520471,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 59,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 12904,
+                "start_tfs_zulu": "2013-03-22T01:29:04Z",
+                "batter": 435623,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 493157,
+                "p_throws": "R",
+                "des": "Kevin Frandsen strikes out swinging.",
+                "des_es": "Kevin Frandsen se poncha tirándole.",
+                "event": "Strikeout",
+                "runner": {
+                  "id": 520471,
+                  "start": "1B",
+                  "end": "2B",
+                  "event": "Balk"
+                },
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 361,
+                    "type": "S",
+                    "tfs": 12915,
+                    "tfs_zulu": "2013-03-22T01:29:15Z",
+                    "x": 106.44,
+                    "y": 128.65,
+                    "on_2b": 520471,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 362,
+                    "type": "S",
+                    "tfs": 12917,
+                    "tfs_zulu": "2013-03-22T01:29:17Z",
+                    "x": 104.72,
+                    "y": 132.11,
+                    "on_2b": 520471,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 363,
+                    "type": "S",
+                    "tfs": 12918,
+                    "tfs_zulu": "2013-03-22T01:29:18Z",
+                    "x": 98.71,
+                    "y": 126.06,
+                    "on_2b": 520471,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 60,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 12922,
+                "start_tfs_zulu": "2013-03-22T01:29:22Z",
+                "batter": 542255,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 493157,
+                "p_throws": "R",
+                "des": "Ender Inciarte pops out to third baseman Jonathan Diaz in foul territory.",
+                "des_es": "Ender Inciarte batea elevadito de out a tercera base Jonathan Diaz en territorio de foul.",
+                "event": "Pop Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 367,
+                  "type": "X",
+                  "tfs": 12926,
+                  "tfs_zulu": "2013-03-22T01:29:26Z",
+                  "x": 85.84,
+                  "y": 96.71,
+                  "on_2b": 520471,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 61,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 12938,
+                "start_tfs_zulu": "2013-03-22T01:29:38Z",
+                "batter": 434681,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 493157,
+                "p_throws": "R",
+                "des": "Pete Orr strikes out swinging.",
+                "des_es": "Pete Orr se poncha tirándole.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 371,
+                    "type": "S",
+                    "tfs": 12941,
+                    "tfs_zulu": "2013-03-22T01:29:41Z",
+                    "x": 100.43,
+                    "y": 133.84,
+                    "on_2b": 520471,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 372,
+                    "type": "S",
+                    "tfs": 12942,
+                    "tfs_zulu": "2013-03-22T01:29:42Z",
+                    "x": 97,
+                    "y": 128.65,
+                    "on_2b": 520471,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 373,
+                    "type": "S",
+                    "tfs": 12943,
+                    "tfs_zulu": "2013-03-22T01:29:43Z",
+                    "x": 97,
+                    "y": 130.38,
+                    "on_2b": 520471,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 520471,
+                  "start": "2B",
+                  "end": "",
+                  "event": "Strikeout"
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitching Change: Jeremy Horst replaces Mike Nesseth, batting 4th.",
+              "event": "Pitching Substitution",
+              "tfs": 13026,
+              "tfs_zulu": "2013-03-22T01:30:26Z",
+              "player": 456662,
+              "pitch": 3
+            },
+            "atbat": [
+              {
+                "num": 62,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 13325,
+                "start_tfs_zulu": "2013-03-22T01:33:25Z",
+                "batter": 435220,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 456662,
+                "p_throws": "L",
+                "des": "Ryan Sweeney grounds out, third baseman Kevin Frandsen to first baseman John Mayberry.",
+                "des_es": "Ryan Sweeney batea rodado de out, tercera base Kevin Frandsen a primera base John Mayberry.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 381,
+                  "type": "X",
+                  "tfs": 13330,
+                  "tfs_zulu": "2013-03-22T01:33:30Z",
+                  "x": 84.98,
+                  "y": 100.16,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 63,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 13339,
+                "start_tfs_zulu": "2013-03-22T01:33:39Z",
+                "batter": 502409,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 456662,
+                "p_throws": "L",
+                "des": "Jonathan Diaz singles on a ground ball to left fielder Darin Ruf.",
+                "des_es": "Jonathan Diaz pega sencillo con rodado a jardinero izquierdo Darin Ruf.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 385,
+                  "type": "X",
+                  "tfs": 13346,
+                  "tfs_zulu": "2013-03-22T01:33:46Z",
+                  "x": 77.25,
+                  "y": 98.43,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 502409,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 64,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 13352,
+                "start_tfs_zulu": "2013-03-22T01:33:52Z",
+                "batter": 599726,
+                "stand": "R",
+                "b_height": "5-8",
+                "pitcher": 456662,
+                "p_throws": "L",
+                "des": "Matty Johnson grounds into a double play, second baseman Freddy Galvis to shortstop Yuniesky Betancourt to first baseman John Mayberry.   Jonathan Diaz out at 2nd.",
+                "des_es": "Matty Johnson batea rodado batea para doble matanza, segunda base Freddy Galvis a campo corto Yuniesky Betancourt a primera base John Mayberry.   Jonathan Diaz a cabo a 2da.",
+                "event": "Grounded Into DP",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 389,
+                  "type": "X",
+                  "tfs": 13356,
+                  "tfs_zulu": "2013-03-22T01:33:56Z",
+                  "x": 114.16,
+                  "y": 90.66,
+                  "on_1b": 502409,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 502409,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Grounded Into DP"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 9,
+          "away_team": "phi",
+          "home_team": "bos",
+          "next": "N",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive switch from third base to shortstop for Jonathan Diaz.",
+                "event": "Defensive Switch",
+                "tfs": 13512,
+                "tfs_zulu": "2013-03-22T01:35:12Z",
+                "player": 502409,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution: Garin Cecchini replaces shortstop Jose Iglesias, batting 9th, playing third base.",
+                "event": "Defensive Sub",
+                "tfs": 13512,
+                "tfs_zulu": "2013-03-22T01:35:12Z",
+                "player": 594555,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitching Change: Anthony Carter replaces Koji Uehara.",
+                "event": "Pitching Substitution",
+                "tfs": 13512,
+                "tfs_zulu": "2013-03-22T01:35:12Z",
+                "player": 457580,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "des": "Offensive Substitution: Pinch-hitter Jermaine Mitchell replaces Jeremy Horst.",
+                "event": "Offensive sub",
+                "tfs": 13551,
+                "tfs_zulu": "2013-03-22T01:35:51Z",
+                "player": 501827,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "des": "Offensive Substitution: Pinch-runner Steven Lerud replaces Carlos Ruiz.",
+                "event": "Offensive sub",
+                "tfs": 13704,
+                "tfs_zulu": "2013-03-22T01:37:04Z",
+                "player": 452722,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 65,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 13523,
+                "start_tfs_zulu": "2013-03-22T01:35:23Z",
+                "batter": 435358,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 457580,
+                "p_throws": "R",
+                "des": "Yuniesky Betancourt grounds out, shortstop Jonathan Diaz to first baseman Lyle Overbay.",
+                "des_es": "Yuniesky Betancourt batea rodado de out, campo corto Jonathan Diaz a primera base Lyle Overbay.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 401,
+                  "type": "X",
+                  "tfs": 13526,
+                  "tfs_zulu": "2013-03-22T01:35:26Z",
+                  "x": 73.82,
+                  "y": 98.43,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 66,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 13554,
+                "start_tfs_zulu": "2013-03-22T01:35:54Z",
+                "batter": 501827,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 457580,
+                "p_throws": "R",
+                "des": "Jermaine Mitchell strikes out swinging.",
+                "des_es": "Jermaine Mitchell se poncha tirándole.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 407,
+                    "type": "S",
+                    "tfs": 13557,
+                    "tfs_zulu": "2013-03-22T01:35:57Z",
+                    "x": 105.58,
+                    "y": 125.2,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 408,
+                    "type": "S",
+                    "tfs": 13558,
+                    "tfs_zulu": "2013-03-22T01:35:58Z",
+                    "x": 88.41,
+                    "y": 127.79,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "des_es": "Strike tirándole",
+                    "id": 409,
+                    "type": "S",
+                    "tfs": 13600,
+                    "tfs_zulu": "2013-03-22T01:36:00Z",
+                    "x": 88.41,
+                    "y": 128.65,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 67,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 13604,
+                "start_tfs_zulu": "2013-03-22T01:36:04Z",
+                "batter": 573131,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 457580,
+                "p_throws": "R",
+                "des": "Darin Ruf doubles (1) on a line drive to left fielder Matty Johnson.",
+                "des_es": "Darin Ruf pega doble (1) con línea a jardinero izquierdo Matty Johnson.",
+                "event": "Double",
+                "pitch": {
+                  "des": "In play, no out",
+                  "des_es": "En juego, no out",
+                  "id": 413,
+                  "type": "X",
+                  "tfs": 13608,
+                  "tfs_zulu": "2013-03-22T01:36:08Z",
+                  "x": 78.11,
+                  "y": 94.98,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 573131,
+                  "start": "",
+                  "end": "2B",
+                  "event": "Double"
+                }
+              },
+              {
+                "num": 68,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 13618,
+                "start_tfs_zulu": "2013-03-22T01:36:18Z",
+                "batter": 434563,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 457580,
+                "p_throws": "R",
+                "des": "Carlos Ruiz hit by pitch.",
+                "des_es": "Carlos Ruiz golpeado por lanzamiento.",
+                "event": "Hit By Pitch",
+                "pitch": {
+                  "des": "Hit By Pitch",
+                  "des_es": "Golpeado por lanzamiento",
+                  "id": 417,
+                  "type": "B",
+                  "tfs": 13623,
+                  "tfs_zulu": "2013-03-22T01:36:23Z",
+                  "x": 76.39,
+                  "y": 94.12,
+                  "on_2b": 573131,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 434563,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Hit By Pitch"
+                }
+              },
+              {
+                "num": 69,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 13711,
+                "start_tfs_zulu": "2013-03-22T01:37:11Z",
+                "batter": 460055,
+                "stand": "R",
+                "b_height": "6-6",
+                "pitcher": 457580,
+                "p_throws": "R",
+                "des": "John Mayberry pops out to third baseman Garin Cecchini.",
+                "des_es": "John Mayberry batea elevadito de out a tercera base Garin Cecchini.",
+                "event": "Pop Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "des_es": "En juego, out(s)",
+                  "id": 422,
+                  "type": "X",
+                  "tfs": 13731,
+                  "tfs_zulu": "2013-03-22T01:37:31Z",
+                  "x": 68.67,
+                  "y": 84.62,
+                  "on_1b": 452722,
+                  "on_2b": 573131,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 452722,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Pop Out"
+                  },
+                  {
+                    "id": 573131,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Pop Out"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "id": "7ddb49fb-9c9c-4f91-b123-1e6cb99f1e83",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:08:08Z",
+      "contextualData": {
+        "batter": 519184,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "343b1d80-0c3f-45b5-9788-a169e02befc2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:08:59Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "29de0ce9-9763-4579-ae99-1754c74dee8d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:09:17Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "70f8b8c9-726c-42b4-801f-b9273b0ba44e",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Stolen Base 2B",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:09:23Z",
+      "contextualData": {
+        "player": 434681
+      }
+    },
+    {
+      "id": "604e904b-563d-454e-b5fc-9834b87e28c9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:14:03Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "7a880c16-aa2d-4e88-9d8f-050f6541e615",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:14:26Z",
+      "contextualData": {
+        "batter": 276545,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "42c73738-91c0-4a27-b159-4d5ca38849d0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:14:43Z",
+      "contextualData": {
+        "batter": 425556,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "aef6bd79-476d-45ce-baa3-f990150ccc5f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:16:32Z",
+      "contextualData": {
+        "batter": 453056,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "249a9f8d-3365-4c69-82fb-6ff9cb39fdcd",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:17:51Z",
+      "contextualData": {
+        "batter": 425664,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "7f7bd849-3823-4c67-bb48-fc526e620f7c",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:19:18Z",
+      "contextualData": {
+        "batter": 456030,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "df012acd-17d0-42dd-9d75-bd7419a61c99",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:19:19Z",
+      "contextualData": {
+        "batter": 456030,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "8ca095b9-752c-430c-a7f0-0901ad0bee8f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:19:20Z",
+      "contextualData": {
+        "batter": 456030,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "49b72e64-520f-4285-bcd0-9366523db01f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:19:22Z",
+      "contextualData": {
+        "batter": 456030,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "059202f5-ac4a-4dbc-96d8-64ae4767f0c0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:22:09Z",
+      "contextualData": {
+        "batter": 435063,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "3e41c884-8ba0-41a2-91f9-ad67911cad5f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:27:48Z",
+      "contextualData": {
+        "batter": 434563,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "5cbce2c3-a004-415d-87d9-9f3505ec6472",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:33:23Z",
+      "contextualData": {
+        "batter": 460055,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "32919ac2-8b8f-4edc-924d-2d3acff0d437",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:33:43Z",
+      "contextualData": {
+        "batter": 520471,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "82bc559f-f1ba-4a32-a51b-74a62c8ecee2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:33:58Z",
+      "contextualData": {
+        "batter": 430935,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "a6170f21-298a-41d1-96d9-301089cd9ce7",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:34:00Z",
+      "contextualData": {
+        "batter": 430935,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "63495367-87c8-4b20-8dc6-3f83abef74c8",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:34:03Z",
+      "contextualData": {
+        "batter": 430935,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "7e8d3f4f-2407-4ae7-964a-e1e42a18e2be",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:37:20Z",
+      "contextualData": {
+        "batter": 519025,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "85f4f715-0dbb-48e4-833e-e5a8a5005c44",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:38:06Z",
+      "contextualData": {
+        "batter": 430404,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "76657261-f396-439d-8bbe-719185700fec",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:39:50Z",
+      "contextualData": {
+        "batter": 457454,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "648f3fe6-36ab-411f-b813-5f2927b06eab",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:44:49Z",
+      "contextualData": {
+        "batter": 537953,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "57db8647-64d3-4f69-b081-f65742253bd1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:46:19Z",
+      "contextualData": {
+        "batter": 578428,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "6c4863ca-f807-4170-a94e-69dfe4aff0c1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:51:19Z",
+      "contextualData": {
+        "batter": 519184,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "674da0b6-7200-47c5-8170-5cd8b9313780",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:51:46Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "49ae7158-9804-45ae-8211-def8fbd38abc",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-21T23:51:59Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "afd4f5d2-1f8d-4fa5-aaa8-3a2a6d4b8e9d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:53:51Z",
+      "contextualData": {
+        "batter": 453056,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "4f797a9c-8dc1-45ed-a083-2131da40f595",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:57:15Z",
+      "contextualData": {
+        "batter": 425664,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "105dd663-ba68-47ac-bb09-342feb11b25b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:57:28Z",
+      "contextualData": {
+        "batter": 456030,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "cdc05cea-5569-485e-9023-db43327f84f1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:58:53Z",
+      "contextualData": {
+        "batter": 435063,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "a0495d67-d79d-4edc-9a88-04e93ce4eefc",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:58:54Z",
+      "contextualData": {
+        "batter": 435063,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "ce4f47a4-e16a-4f5d-ad0b-229d452fa0d1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-21T23:58:55Z",
+      "contextualData": {
+        "batter": 435063,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "3dc61b77-b6e9-4c69-87a5-5243b64a2bfa",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:02:21Z",
+      "contextualData": {
+        "batter": 276545,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "1c796210-d7b0-4501-8923-3a876430b685",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:04:59Z",
+      "contextualData": {
+        "batter": 425556,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "4de5caee-8f21-4cbb-af20-f59476cabca9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:06:33Z",
+      "contextualData": {
+        "batter": 434563,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "be83ab3e-dc89-436d-8ed4-66731ccb7327",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:08:16Z",
+      "contextualData": {
+        "batter": 460055,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "accd616e-99a2-41ad-bca2-20328d37f616",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:11:25Z",
+      "contextualData": {
+        "batter": 519025,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "3d0515e3-14df-44a2-97cc-2b03057c9058",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:12:17Z",
+      "contextualData": {
+        "batter": 430404,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "f0be223c-72e5-447f-b1eb-4c11cfe8718f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:12:18Z",
+      "contextualData": {
+        "batter": 430404,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "355945d1-f840-49b0-8eda-30013adf6523",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:12:20Z",
+      "contextualData": {
+        "batter": 430404,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "016eac19-70d9-4952-8946-87faf3d9d861",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:13:22Z",
+      "contextualData": {
+        "batter": 457454,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "3d720e89-fc32-441e-ac96-c1deb680f27c",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:13:23Z",
+      "contextualData": {
+        "batter": 457454,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "79e04b26-e101-4b0e-94aa-4dc6770493f2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:13:24Z",
+      "contextualData": {
+        "batter": 457454,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "b9486916-7cd3-436e-80a3-43d5b2bf2f68",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:16:56Z",
+      "contextualData": {
+        "batter": 520471,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "92728dfd-4b02-4e52-82bd-7cbfa0881fc0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:17:59Z",
+      "contextualData": {
+        "batter": 430935,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "27e73fe3-7de4-4b8c-a43b-196648e552e8",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:19:13Z",
+      "contextualData": {
+        "batter": 519184,
+        "pitcher": 407793
+      }
+    },
+    {
+      "id": "615d38bd-d9c9-43d9-81fd-2393bade5b77",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:22:39Z",
+      "contextualData": {
+        "batter": 537953,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "0d2deb2e-50f9-4d39-b56c-9743ae2192cc",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:23:11Z",
+      "contextualData": {
+        "batter": 578428,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "d4591664-5ac0-4760-97c8-0dd1634ce81c",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:25:31Z",
+      "contextualData": {
+        "batter": 453056,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "43a01514-be41-40ff-b58a-b82e42777385",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:25:32Z",
+      "contextualData": {
+        "batter": 453056,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "2902489c-b088-42f1-9817-598623a51ae1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:25:33Z",
+      "contextualData": {
+        "batter": 453056,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "4d965193-f083-400d-b739-6c0d614e67fd",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Picked off stealing 2B",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:27:44Z",
+      "contextualData": {
+        "player": 578428
+      }
+    },
+    {
+      "id": "39a747c5-5ee5-41d3-87dd-1d9e18cb869f",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:28:51Z",
+      "contextualData": {
+        "player": 453192
+      }
+    },
+    {
+      "id": "ee5934d2-66c1-4f9d-a758-48bcb60881f2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:30:35Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 453192
+      }
+    },
+    {
+      "id": "cfb4346b-c27e-4d75-b1fe-66f5cfee06c2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:30:36Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 453192
+      }
+    },
+    {
+      "id": "bfa44de5-7b48-4a99-986a-60ebd73f08f0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:30:37Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 453192
+      }
+    },
+    {
+      "id": "01fa4a45-1a7a-4441-96e4-6cff575cd059",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:32:50Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 453192
+      }
+    },
+    {
+      "id": "b3846ce0-7f69-485e-aea2-a546e32f107b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:32:52Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 453192
+      }
+    },
+    {
+      "id": "6d69a338-0a6e-4408-9eae-e40e48ca5f67",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:32:56Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 453192
+      }
+    },
+    {
+      "id": "52e7749f-3661-4595-a62e-cd8daacda586",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:33:55Z",
+      "contextualData": {
+        "player": 430629
+      }
+    },
+    {
+      "id": "924d557a-1506-4c2f-8f30-16e72ecff9c0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:37:15Z",
+      "contextualData": {
+        "batter": 276545,
+        "pitcher": 430629
+      }
+    },
+    {
+      "id": "7a8e76ed-6a4c-4124-883a-8656cf58f73f",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:40:51Z",
+      "contextualData": {
+        "player": 573131
+      }
+    },
+    {
+      "id": "ec928a51-2190-4d4f-ac74-58ac72a6f14a",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:40:51Z",
+      "contextualData": {
+        "player": 435358
+      }
+    },
+    {
+      "id": "eae6b2dd-f287-4bb0-972b-fdc1f9264572",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:41:00Z",
+      "contextualData": {
+        "batter": 425664,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "bf7e49e9-48ba-437f-8441-903bd2a5148b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:41:02Z",
+      "contextualData": {
+        "batter": 425664,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "72df1f3d-9c72-4ebe-a596-d7f3081c32c0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:41:07Z",
+      "contextualData": {
+        "batter": 425664,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "ee52706e-62db-49b4-b009-d7295b56bb03",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:42:16Z",
+      "contextualData": {
+        "batter": 456030,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "952823e5-0830-4267-a927-b334b7e63133",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:42:17Z",
+      "contextualData": {
+        "batter": 456030,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "725d9f43-7265-4cbf-95af-757081f3082a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:42:18Z",
+      "contextualData": {
+        "batter": 456030,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "289564e1-b682-48d2-8a9a-5444acf30fea",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:42:20Z",
+      "contextualData": {
+        "batter": 456030,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "b2ef2b08-ad2c-4393-8028-ba8d00bcc14e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:44:22Z",
+      "contextualData": {
+        "batter": 435063,
+        "pitcher": 430935
+      }
+    },
+    {
+      "id": "defb8ec9-625e-47a9-8cfc-bc58ab190b78",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:46:11Z",
+      "contextualData": {
+        "player": 457732
+      }
+    },
+    {
+      "id": "068efcae-7df4-4c13-8875-04960db34ad8",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:47:11Z",
+      "contextualData": {
+        "batter": 573131,
+        "pitcher": 457732
+      }
+    },
+    {
+      "id": "3b197c48-7fc1-4bd9-9ca9-3978d2b59d9b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:49:29Z",
+      "contextualData": {
+        "batter": 434563,
+        "pitcher": 457732
+      }
+    },
+    {
+      "id": "0097048a-3e2f-49c7-a9eb-051a8f7a02d1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T00:50:49Z",
+      "contextualData": {
+        "batter": 460055,
+        "pitcher": 457732
+      }
+    },
+    {
+      "id": "6b60ea41-e58a-453a-bf0e-410e3beb80b5",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:55:14Z",
+      "contextualData": {
+        "player": 452741
+      }
+    },
+    {
+      "id": "f9baf0a4-f65e-4741-b8fd-bb433756e7f2",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:55:14Z",
+      "contextualData": {
+        "player": 542255
+      }
+    },
+    {
+      "id": "fc588fe0-8ff0-4bbd-8c0e-8e039957657b",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:55:14Z",
+      "contextualData": {
+        "player": 435623
+      }
+    },
+    {
+      "id": "57727e25-f60b-453f-bdf6-fb15b374faf0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:55:32Z",
+      "contextualData": {
+        "batter": 519025,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "c55b0789-8947-4188-9d77-9967ab33d85b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:55:42Z",
+      "contextualData": {
+        "batter": 430404,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "64786aa1-00b1-40c1-b2d8-47b29b4fbb23",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:56:33Z",
+      "contextualData": {
+        "batter": 457454,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "bdf2d76d-ebaa-4b17-8908-11fd2718483f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:56:34Z",
+      "contextualData": {
+        "batter": 457454,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "16847493-6c48-46bb-888c-9f9c9d3c6d6e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:56:35Z",
+      "contextualData": {
+        "batter": 457454,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "40abd1df-664c-44d5-be1f-af186495503a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:56:36Z",
+      "contextualData": {
+        "batter": 457454,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "5bc0dd05-5d14-41a1-807f-fdacf9c3a7d8",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:59:09Z",
+      "contextualData": {
+        "batter": 537953,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "81088b45-5ef5-4b67-880b-42513286b725",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Wild Pitch",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:59:14Z",
+      "contextualData": {
+        "player": 457454
+      }
+    },
+    {
+      "id": "d225114c-0ade-408e-98b3-32a3b39b775d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:59:22Z",
+      "contextualData": {
+        "batter": 537953,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "0ca615e6-c5b8-4850-a7f6-1034a8a8230d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:59:23Z",
+      "contextualData": {
+        "batter": 537953,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "396fdd8f-26cb-485c-84cc-7c50396b2112",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T00:59:24Z",
+      "contextualData": {
+        "batter": 537953,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "8d6606ef-0968-4051-8a68-c6b93ff32c65",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive sub",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:00:08Z",
+      "contextualData": {
+        "player": 599726
+      }
+    },
+    {
+      "id": "a090dd5c-9d2b-405e-b327-6d0dfd699429",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:02:51Z",
+      "contextualData": {
+        "batter": 578428,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "aa489973-22e9-495e-a574-3cecb3a3f225",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:05:40Z",
+      "contextualData": {
+        "batter": 453056,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "234e950e-bc81-48dd-b1b1-3f59c6be0cac",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:05:41Z",
+      "contextualData": {
+        "batter": 453056,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "9263596a-15f5-4187-a8ac-890c6f6e988d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:05:42Z",
+      "contextualData": {
+        "batter": 453056,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "78714d69-50d6-431d-b062-ebcf9a14a5a6",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:05:45Z",
+      "contextualData": {
+        "batter": 453056,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "7b17f09c-da84-4ae7-b6c9-5ab43ae08714",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:05:53Z",
+      "contextualData": {
+        "batter": 425664,
+        "pitcher": 452741
+      }
+    },
+    {
+      "id": "9ae34a6c-ad34-4bec-b74a-c4477ce940ca",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:09:41Z",
+      "contextualData": {
+        "batter": 456030,
+        "pitcher": 571988
+      }
+    },
+    {
+      "id": "e397541d-21f9-41cd-a6be-fddf895a9c55",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive sub",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:10:42Z",
+      "contextualData": {
+        "player": 518612
+      }
+    },
+    {
+      "id": "b49c307a-62d8-45f1-8530-00a1225af001",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive sub",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:12:07Z",
+      "contextualData": {
+        "player": 407489
+      }
+    },
+    {
+      "id": "4915d88f-8cfc-4e8d-8c85-c4e20d572e19",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:12:23Z",
+      "contextualData": {
+        "batter": 407489,
+        "pitcher": 571988
+      }
+    },
+    {
+      "id": "8aa3624a-b9fc-4b0f-b408-067b00374c7e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:12:24Z",
+      "contextualData": {
+        "batter": 407489,
+        "pitcher": 571988
+      }
+    },
+    {
+      "id": "ec5e807d-949d-49a6-8ca3-4a27b656909d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:12:27Z",
+      "contextualData": {
+        "batter": 407489,
+        "pitcher": 571988
+      }
+    },
+    {
+      "id": "af397647-d9f6-45cd-b5a3-9ae7a14d7a73",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:26:28Z",
+      "contextualData": {
+        "player": 571988
+      }
+    },
+    {
+      "id": "fab3498b-f9d4-45ba-b993-81d57770e8fb",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:28:19Z",
+      "contextualData": {
+        "player": 499543
+      }
+    },
+    {
+      "id": "f804c79a-53fd-4841-90aa-02fea55d9fd7",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:28:19Z",
+      "contextualData": {
+        "player": 518612
+      }
+    },
+    {
+      "id": "e0639fc5-77b3-4529-a002-9314a0018db9",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:28:19Z",
+      "contextualData": {
+        "player": 407489
+      }
+    },
+    {
+      "id": "7cea703d-2f93-4b57-96ac-3f1e2b8b2aa6",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:28:19Z",
+      "contextualData": {
+        "player": 502409
+      }
+    },
+    {
+      "id": "bf583c97-7062-4cc8-9067-3e2d019f5840",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:28:19Z",
+      "contextualData": {
+        "player": 576788
+      }
+    },
+    {
+      "id": "d7ac4333-e500-4cb3-9086-ffdec94a91db",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:28:19Z",
+      "contextualData": {
+        "player": 599726
+      }
+    },
+    {
+      "id": "c961e282-4eb9-493b-974f-f86a8752d3a3",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:28:19Z",
+      "contextualData": {
+        "player": 493157
+      }
+    },
+    {
+      "id": "43f8f510-6254-41ae-83a6-1f75ba369473",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:28:19Z",
+      "contextualData": {
+        "player": 435220
+      }
+    },
+    {
+      "id": "18047e31-4cab-4e20-9c3f-30e44f8939f3",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:28:55Z",
+      "contextualData": {
+        "batter": 520471,
+        "pitcher": 493157
+      }
+    },
+    {
+      "id": "3f5cf1aa-c6e9-4222-a1bd-d7478f95a3e2",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Balk",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:29:08Z",
+      "contextualData": {
+        "player": 520471
+      }
+    },
+    {
+      "id": "f527da5f-461d-408e-a9ff-86a3eb2484e7",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:29:15Z",
+      "contextualData": {
+        "batter": 435623,
+        "pitcher": 493157
+      }
+    },
+    {
+      "id": "d44c6ac3-6226-4185-8f1f-1d6801b05966",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:29:17Z",
+      "contextualData": {
+        "batter": 435623,
+        "pitcher": 493157
+      }
+    },
+    {
+      "id": "a29bbde0-7603-4024-8441-4de3906a641b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:29:18Z",
+      "contextualData": {
+        "batter": 435623,
+        "pitcher": 493157
+      }
+    },
+    {
+      "id": "c48f612a-4f2f-4102-bef0-81e42b955984",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:29:26Z",
+      "contextualData": {
+        "batter": 542255,
+        "pitcher": 493157
+      }
+    },
+    {
+      "id": "61a14d5d-8f24-4c38-8899-1a2dab7ba77c",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:29:41Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 493157
+      }
+    },
+    {
+      "id": "2432322c-e5b7-4bd4-9450-865c1a81192f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:29:42Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 493157
+      }
+    },
+    {
+      "id": "366c8d5b-cc34-43c7-a8d9-9b140bfd43f5",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:29:43Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 493157
+      }
+    },
+    {
+      "id": "d935bd44-27a1-4cd3-8079-030eda6c99e6",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:30:26Z",
+      "contextualData": {
+        "player": 456662
+      }
+    },
+    {
+      "id": "eb6027cb-f42d-4f54-b7f1-7728b9ddc54c",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:33:30Z",
+      "contextualData": {
+        "batter": 435220,
+        "pitcher": 456662
+      }
+    },
+    {
+      "id": "145a7e17-6fe8-4de0-b20c-73572fbc130a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:33:46Z",
+      "contextualData": {
+        "batter": 502409,
+        "pitcher": 456662
+      }
+    },
+    {
+      "id": "37062cf2-695d-4fb8-94fd-ed15dcf8f4c0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2013-03-22T01:33:56Z",
+      "contextualData": {
+        "batter": 599726,
+        "pitcher": 456662
+      }
+    },
+    {
+      "id": "5f2c943b-d0a1-4192-9587-567c72ca8052",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:35:12Z",
+      "contextualData": {
+        "player": 594555
+      }
+    },
+    {
+      "id": "96aef8a3-3aa3-4f43-856b-f2aac87462fa",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:35:12Z",
+      "contextualData": {
+        "player": 457580
+      }
+    },
+    {
+      "id": "888ad420-036a-4667-b96b-f6c02a0e8a57",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:35:12Z",
+      "contextualData": {
+        "player": 502409
+      }
+    },
+    {
+      "id": "3a820fe1-162a-4f0d-a5cd-21ddc0d32272",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:35:26Z",
+      "contextualData": {
+        "batter": 435358,
+        "pitcher": 457580
+      }
+    },
+    {
+      "id": "2e80ce61-988b-4679-bd6a-e899916f6065",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive sub",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:35:51Z",
+      "contextualData": {
+        "player": 501827
+      }
+    },
+    {
+      "id": "b36471bc-0296-43bf-877d-3a9534a568c4",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:35:57Z",
+      "contextualData": {
+        "batter": 501827,
+        "pitcher": 457580
+      }
+    },
+    {
+      "id": "70d97f7e-0e6f-4d63-bf75-099b98ba45ed",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:35:58Z",
+      "contextualData": {
+        "batter": 501827,
+        "pitcher": 457580
+      }
+    },
+    {
+      "id": "5065b05c-3e33-4ba5-8772-852ed21f7ada",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:36:00Z",
+      "contextualData": {
+        "batter": 501827,
+        "pitcher": 457580
+      }
+    },
+    {
+      "id": "89a3c719-c695-49b1-b992-0b0723e21999",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:36:08Z",
+      "contextualData": {
+        "batter": 573131,
+        "pitcher": 457580
+      }
+    },
+    {
+      "id": "4dfcdd5c-87ef-4711-861d-be2104c5b368",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Hit By Pitch",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:36:23Z",
+      "contextualData": {
+        "batter": 434563,
+        "pitcher": 457580
+      }
+    },
+    {
+      "id": "19df710b-ac5a-4fec-bead-d19b9c3d85dc",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive sub",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:37:04Z",
+      "contextualData": {
+        "player": 452722
+      }
+    },
+    {
+      "id": "8f868bdf-7b61-4dd7-b113-a25fd2739065",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "bos",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2013-03-22T01:37:31Z",
+      "contextualData": {
+        "batter": 460055,
+        "pitcher": 457580
+      }
+    }
+  ]
+}

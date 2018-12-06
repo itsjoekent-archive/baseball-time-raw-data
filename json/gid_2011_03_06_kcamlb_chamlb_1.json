@@ -1,0 +1,5783 @@
+{
+  "origial": {
+    "game": {
+      "atBat": 425774,
+      "deck": 150229,
+      "hole": 451186,
+      "ind": "F",
+      "inning": [
+        {
+          "num": 1,
+          "away_team": "kca",
+          "home_team": "cha",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 1,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 150626,
+                "start_tfs_zulu": "2011-03-06T20:06:26Z",
+                "batter": 453923,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Gregor Blanco singles on a ground ball to shortstop Alexei Ramirez.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 3,
+                  "type": "X",
+                  "tfs": 150638,
+                  "tfs_zulu": "2011-03-06T20:06:38Z",
+                  "x": 103.86,
+                  "y": 135.56,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 453923,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 2,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 150656,
+                "start_tfs_zulu": "2011-03-06T20:06:56Z",
+                "batter": 456715,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Lorenzo Cain doubles (1) on a fly ball to left fielder Juan Pierre.    Gregor Blanco scores.",
+                "event": "Double",
+                "score": "T",
+                "home_team_runs": 0,
+                "away_team_runs": 1,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 7,
+                  "type": "X",
+                  "tfs": 150700,
+                  "tfs_zulu": "2011-03-06T20:07:00Z",
+                  "x": 89.27,
+                  "y": 137.29,
+                  "on_1b": 453923,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 453923,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Double",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 456715,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Double"
+                  }
+                ]
+              },
+              {
+                "num": 3,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 150728,
+                "start_tfs_zulu": "2011-03-06T20:07:28Z",
+                "batter": 449107,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Mike Aviles singles on a bunt ground ball to third baseman Brent Morel.    Lorenzo Cain to 3rd.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 14,
+                  "type": "X",
+                  "tfs": 150732,
+                  "tfs_zulu": "2011-03-06T20:07:32Z",
+                  "x": 94.42,
+                  "y": 143.33,
+                  "on_2b": 456715,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 456715,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 449107,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 4,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 150824,
+                "start_tfs_zulu": "2011-03-06T20:08:24Z",
+                "batter": 543333,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Eric Hosmer out on a sacrifice fly to center fielder Jordan Danks.    Lorenzo Cain scores.    Mike Aviles to 2nd on the throw.",
+                "event": "Sac Fly",
+                "score": "T",
+                "home_team_runs": 0,
+                "away_team_runs": 2,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 19,
+                  "type": "X",
+                  "tfs": 150827,
+                  "tfs_zulu": "2011-03-06T20:08:27Z",
+                  "x": 106.44,
+                  "y": 138.15,
+                  "on_1b": 449107,
+                  "on_3b": 456715,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 449107,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Sac Fly"
+                  },
+                  {
+                    "id": 456715,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Sac Fly",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  }
+                ]
+              },
+              {
+                "num": 5,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 150918,
+                "start_tfs_zulu": "2011-03-06T20:09:18Z",
+                "batter": 519208,
+                "stand": "L",
+                "b_height": "6-5",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Clint Robinson singles on a line drive to left fielder Juan Pierre.    Mike Aviles scores.",
+                "event": "Single",
+                "score": "T",
+                "home_team_runs": 0,
+                "away_team_runs": 3,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 26,
+                  "type": "X",
+                  "tfs": 150923,
+                  "tfs_zulu": "2011-03-06T20:09:23Z",
+                  "x": 109.01,
+                  "y": 134.7,
+                  "on_2b": 449107,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 449107,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Single",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 519208,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 6,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 151006,
+                "start_tfs_zulu": "2011-03-06T20:10:06Z",
+                "batter": 519058,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Mike Moustakas grounds into a force out, pitcher Mark Buehrle to shortstop Alexei Ramirez.    Clint Robinson out at 2nd.    Mike Moustakas to 1st.",
+                "event": "Forceout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 32,
+                  "type": "X",
+                  "tfs": 151009,
+                  "tfs_zulu": "2011-03-06T20:10:09Z",
+                  "x": 102.15,
+                  "y": 139.88,
+                  "on_1b": 519208,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 519208,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Forceout"
+                  },
+                  {
+                    "id": 519058,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Forceout"
+                  }
+                ]
+              },
+              {
+                "num": 7,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 151152,
+                "start_tfs_zulu": "2011-03-06T20:11:52Z",
+                "batter": 518953,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "David Lough grounds into a force out, shortstop Alexei Ramirez to second baseman Brent Lillibridge.    Mike Moustakas out at 2nd.",
+                "event": "Forceout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 37,
+                  "type": "X",
+                  "tfs": 151154,
+                  "tfs_zulu": "2011-03-06T20:11:54Z",
+                  "x": 99.57,
+                  "y": 141.61,
+                  "on_1b": 519058,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 519058,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Forceout"
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 8,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 151434,
+                "start_tfs_zulu": "2011-03-06T20:14:34Z",
+                "batter": 334393,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 460024,
+                "p_throws": "R",
+                "des": "Juan Pierre flies out to left fielder David Lough.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 44,
+                  "type": "X",
+                  "tfs": 151436,
+                  "tfs_zulu": "2011-03-06T20:14:36Z",
+                  "x": 104.72,
+                  "y": 135.56,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 9,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 151539,
+                "start_tfs_zulu": "2011-03-06T20:15:39Z",
+                "batter": 493351,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 460024,
+                "p_throws": "R",
+                "des": "Alexei Ramirez doubles (1) on a sharp ground ball to left fielder David Lough.",
+                "event": "Double",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 48,
+                  "type": "X",
+                  "tfs": 151544,
+                  "tfs_zulu": "2011-03-06T20:15:44Z",
+                  "x": 96.14,
+                  "y": 144.2,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 493351,
+                  "start": "",
+                  "end": "2B",
+                  "event": "Double"
+                }
+              },
+              {
+                "num": 10,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 151947,
+                "start_tfs_zulu": "2011-03-06T20:19:47Z",
+                "batter": 276055,
+                "stand": "L",
+                "b_height": "6-6",
+                "pitcher": 460024,
+                "p_throws": "R",
+                "des": "Adam Dunn singles on a sharp ground ball to center fielder Gregor Blanco.    Alexei Ramirez scores.",
+                "event": "Single",
+                "score": "T",
+                "home_team_runs": 1,
+                "away_team_runs": 3,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 52,
+                  "type": "X",
+                  "tfs": 151949,
+                  "tfs_zulu": "2011-03-06T20:19:49Z",
+                  "x": 103.86,
+                  "y": 132.11,
+                  "on_2b": 493351,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 493351,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Single",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 276055,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 11,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 152107,
+                "start_tfs_zulu": "2011-03-06T20:21:07Z",
+                "batter": 150229,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 460024,
+                "p_throws": "R",
+                "des": "A.  J.   Pierzynski flies out to center fielder Gregor Blanco.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 58,
+                  "type": "X",
+                  "tfs": 152111,
+                  "tfs_zulu": "2011-03-06T20:21:11Z",
+                  "x": 106.44,
+                  "y": 145.06,
+                  "on_1b": 276055,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 12,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 152331,
+                "start_tfs_zulu": "2011-03-06T20:23:31Z",
+                "batter": 451186,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 460024,
+                "p_throws": "R",
+                "des": "Lastings Milledge grounds out, third baseman Mike Moustakas to first baseman Eric Hosmer.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 62,
+                  "type": "X",
+                  "tfs": 152335,
+                  "tfs_zulu": "2011-03-06T20:23:35Z",
+                  "x": 98.71,
+                  "y": 138.15,
+                  "on_1b": 276055,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 276055,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Groundout"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 2,
+          "away_team": "kca",
+          "home_team": "cha",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 13,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 152615,
+                "start_tfs_zulu": "2011-03-06T20:26:15Z",
+                "batter": 521692,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Salvador Perez doubles (1) on a fly ball to center fielder Jordan Danks.",
+                "event": "Double",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 68,
+                  "type": "X",
+                  "tfs": 152618,
+                  "tfs_zulu": "2011-03-06T20:26:18Z",
+                  "x": 109.87,
+                  "y": 142.47,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 521692,
+                  "start": "",
+                  "end": "2B",
+                  "event": "Double"
+                }
+              },
+              {
+                "num": 14,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 152741,
+                "start_tfs_zulu": "2011-03-06T20:27:41Z",
+                "batter": 453368,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Lance Zawadzki reaches on a fielder's choice out, shortstop Alexei Ramirez to third baseman Brent Morel.    Salvador Perez out at 3rd.",
+                "event": "Fielders Choice Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 72,
+                  "type": "X",
+                  "tfs": 152743,
+                  "tfs_zulu": "2011-03-06T20:27:43Z",
+                  "x": 100.43,
+                  "y": 132.11,
+                  "on_2b": 521692,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 521692,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Fielders Choice Out"
+                  },
+                  {
+                    "id": 453368,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Fielders Choice Out"
+                  }
+                ]
+              },
+              {
+                "num": 15,
+                "b": 1,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 153138,
+                "start_tfs_zulu": "2011-03-06T20:31:38Z",
+                "batter": 453923,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Gregor Blanco lines into double play, left fielder Juan Pierre to second baseman Brent Lillibridge.    Lance Zawadzki doubled off 2nd.",
+                "event": "Double Play",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 77,
+                    "type": "B",
+                    "tfs": 153143,
+                    "tfs_zulu": "2011-03-06T20:31:43Z",
+                    "x": 101.29,
+                    "y": 85.48,
+                    "on_1b": 453368,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "In play, out(s)",
+                    "id": 81,
+                    "type": "X",
+                    "tfs": 153151,
+                    "tfs_zulu": "2011-03-06T20:31:51Z",
+                    "x": 104.72,
+                    "y": 133.84,
+                    "on_2b": 453368,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 453368,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Passed Ball"
+                  },
+                  {
+                    "id": 453368,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Double Play"
+                  }
+                ]
+              }
+            ],
+            "action": {
+              "b": 1,
+              "s": 0,
+              "o": 1,
+              "des": "With Gregor Blanco batting, passed ball by Tyler Flowers, Lance Zawadzki to 2nd.",
+              "event": "Passed Ball",
+              "tfs": 153147,
+              "tfs_zulu": "2011-03-06T20:31:47Z",
+              "player": 453368,
+              "pitch": 1
+            }
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 16,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 153435,
+                "start_tfs_zulu": "2011-03-06T20:34:35Z",
+                "batter": 543569,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 460024,
+                "p_throws": "R",
+                "des": "Brent Morel grounds out, second baseman Mike Aviles to first baseman Eric Hosmer.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 87,
+                  "type": "X",
+                  "tfs": 153436,
+                  "tfs_zulu": "2011-03-06T20:34:36Z",
+                  "x": 97.85,
+                  "y": 142.47,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 17,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 153535,
+                "start_tfs_zulu": "2011-03-06T20:35:35Z",
+                "batter": 452095,
+                "stand": "R",
+                "b_height": "6-4",
+                "pitcher": 460024,
+                "p_throws": "R",
+                "des": "Tyler Flowers singles on a line drive to left fielder David Lough.  Tyler Flowers out at 2nd, left fielder David Lough to second baseman Mike Aviles.",
+                "event": "Single",
+                "event2": "Runner Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 91,
+                  "type": "X",
+                  "tfs": 153537,
+                  "tfs_zulu": "2011-03-06T20:35:37Z",
+                  "x": 97.85,
+                  "y": 136.43,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 18,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 153710,
+                "start_tfs_zulu": "2011-03-06T20:37:10Z",
+                "batter": 458668,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 460024,
+                "p_throws": "R",
+                "des": "Jordan Danks grounds out, second baseman Mike Aviles to first baseman Eric Hosmer.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 97,
+                  "type": "X",
+                  "tfs": 153712,
+                  "tfs_zulu": "2011-03-06T20:37:12Z",
+                  "x": 99.57,
+                  "y": 139.88,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 3,
+          "away_team": "kca",
+          "home_team": "cha",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 19,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 154047,
+                "start_tfs_zulu": "2011-03-06T20:40:47Z",
+                "batter": 456715,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Lorenzo Cain lines out to pitcher Mark Buehrle.",
+                "event": "Lineout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 102,
+                  "type": "X",
+                  "tfs": 154049,
+                  "tfs_zulu": "2011-03-06T20:40:49Z",
+                  "x": 97.85,
+                  "y": 146.79,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 20,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 154121,
+                "start_tfs_zulu": "2011-03-06T20:41:21Z",
+                "batter": 449107,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Mike Aviles doubles (1) on a fly ball to right fielder Lastings Milledge.",
+                "event": "Double",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 106,
+                  "type": "X",
+                  "tfs": 154125,
+                  "tfs_zulu": "2011-03-06T20:41:25Z",
+                  "x": 97.85,
+                  "y": 138.15,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 449107,
+                  "start": "",
+                  "end": "2B",
+                  "event": "Double"
+                }
+              },
+              {
+                "num": 21,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 154230,
+                "start_tfs_zulu": "2011-03-06T20:42:30Z",
+                "batter": 543333,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Eric Hosmer grounds out to first baseman Adam Dunn.    Mike Aviles to 3rd.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 110,
+                  "type": "X",
+                  "tfs": 154232,
+                  "tfs_zulu": "2011-03-06T20:42:32Z",
+                  "x": 93.56,
+                  "y": 143.33,
+                  "on_2b": 449107,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 449107,
+                  "start": "2B",
+                  "end": "3B",
+                  "event": "Groundout"
+                }
+              },
+              {
+                "num": 22,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 154308,
+                "start_tfs_zulu": "2011-03-06T20:43:08Z",
+                "batter": 519208,
+                "stand": "L",
+                "b_height": "6-5",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Clint Robinson singles on a ground ball to right fielder Lastings Milledge.    Mike Aviles scores.",
+                "event": "Single",
+                "score": "T",
+                "home_team_runs": 1,
+                "away_team_runs": 4,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 115,
+                  "type": "X",
+                  "tfs": 154310,
+                  "tfs_zulu": "2011-03-06T20:43:10Z",
+                  "x": 97,
+                  "y": 136.43,
+                  "on_3b": 449107,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 449107,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Single",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 519208,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 23,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 154414,
+                "start_tfs_zulu": "2011-03-06T20:44:14Z",
+                "batter": 519058,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Mike Moustakas singles on a fly ball to center fielder Jordan Danks.    Clint Robinson to 2nd.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 121,
+                  "type": "X",
+                  "tfs": 154417,
+                  "tfs_zulu": "2011-03-06T20:44:17Z",
+                  "x": 96.14,
+                  "y": 134.7,
+                  "on_1b": 519208,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 519208,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 519058,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 24,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 154528,
+                "start_tfs_zulu": "2011-03-06T20:45:28Z",
+                "batter": 518953,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "David Lough singles on a fly ball to center fielder Jordan Danks.    Clint Robinson scores.    Mike Moustakas to 2nd.",
+                "event": "Single",
+                "score": "T",
+                "home_team_runs": 1,
+                "away_team_runs": 5,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 126,
+                  "type": "X",
+                  "tfs": 154534,
+                  "tfs_zulu": "2011-03-06T20:45:34Z",
+                  "x": 105.58,
+                  "y": 136.43,
+                  "on_1b": 519058,
+                  "on_2b": 519208,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 519058,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 519208,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Single",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 518953,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 25,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 154751,
+                "start_tfs_zulu": "2011-03-06T20:47:51Z",
+                "batter": 521692,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 279824,
+                "p_throws": "L",
+                "des": "Salvador Perez grounds out, third baseman Brent Morel to first baseman Adam Dunn.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 134,
+                  "type": "X",
+                  "tfs": 154755,
+                  "tfs_zulu": "2011-03-06T20:47:55Z",
+                  "x": 91.85,
+                  "y": 134.7,
+                  "on_1b": 518953,
+                  "on_2b": 519058,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 518953,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Groundout"
+                  },
+                  {
+                    "id": 519058,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Groundout"
+                  }
+                ]
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 26,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 155040,
+                "start_tfs_zulu": "2011-03-06T20:50:40Z",
+                "batter": 452121,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 460024,
+                "p_throws": "R",
+                "des": "Brent Lillibridge flies out to right fielder Lorenzo Cain.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 140,
+                  "type": "X",
+                  "tfs": 155045,
+                  "tfs_zulu": "2011-03-06T20:50:45Z",
+                  "x": 96.14,
+                  "y": 148.51,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 27,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 155258,
+                "start_tfs_zulu": "2011-03-06T20:52:58Z",
+                "batter": 334393,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 460024,
+                "p_throws": "R",
+                "des": "Juan Pierre flies out to center fielder Gregor Blanco.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 144,
+                  "type": "X",
+                  "tfs": 155300,
+                  "tfs_zulu": "2011-03-06T20:53:00Z",
+                  "x": 96.14,
+                  "y": 133.84,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 28,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 155359,
+                "start_tfs_zulu": "2011-03-06T20:53:59Z",
+                "batter": 493351,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 460024,
+                "p_throws": "R",
+                "des": "Alexei Ramirez grounds out, shortstop Lance Zawadzki to first baseman Eric Hosmer.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 148,
+                  "type": "X",
+                  "tfs": 155403,
+                  "tfs_zulu": "2011-03-06T20:54:03Z",
+                  "x": 99.57,
+                  "y": 140.74,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 4,
+          "away_team": "kca",
+          "home_team": "cha",
+          "next": "Y",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: Jesse Crain replaces Mark Buehrle.",
+                "event": "Pitching Substitution",
+                "tfs": 155508,
+                "tfs_zulu": "2011-03-06T20:55:08Z",
+                "player": 430884,
+                "pitch": 1
+              },
+              {
+                "b": 1,
+                "s": 0,
+                "o": 2,
+                "des": "With Eric Hosmer batting, Mike Aviles steals (1) 2nd base.",
+                "event": "Stolen Base 2B",
+                "tfs": 160448,
+                "tfs_zulu": "2011-03-06T21:04:48Z",
+                "player": 449107,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 29,
+                "b": 1,
+                "s": 2,
+                "o": 0,
+                "start_tfs": 155745,
+                "start_tfs_zulu": "2011-03-06T20:57:45Z",
+                "batter": 453368,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 430884,
+                "p_throws": "R",
+                "des": "Lance Zawadzki homers (1) on a fly ball to left field.",
+                "event": "Home Run",
+                "score": "T",
+                "home_team_runs": 1,
+                "away_team_runs": 6,
+                "pitch": [
+                  {
+                    "des": "Called Strike",
+                    "id": 155,
+                    "type": "S",
+                    "tfs": 155817,
+                    "tfs_zulu": "2011-03-06T20:58:17Z",
+                    "x": 104.72,
+                    "y": 136.43,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 156,
+                    "type": "B",
+                    "tfs": 155819,
+                    "tfs_zulu": "2011-03-06T20:58:19Z",
+                    "x": 60.94,
+                    "y": 132.97,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Foul",
+                    "id": 157,
+                    "type": "S",
+                    "tfs": 155820,
+                    "tfs_zulu": "2011-03-06T20:58:20Z",
+                    "x": 103,
+                    "y": 132.97,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "In play, run(s)",
+                    "id": 158,
+                    "type": "X",
+                    "tfs": 155823,
+                    "tfs_zulu": "2011-03-06T20:58:23Z",
+                    "x": 103,
+                    "y": 132.97,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 453368,
+                  "start": "",
+                  "end": "",
+                  "event": "Home Run",
+                  "score": "T",
+                  "rbi": "T",
+                  "earned": "T"
+                }
+              },
+              {
+                "num": 30,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 160055,
+                "start_tfs_zulu": "2011-03-06T21:00:55Z",
+                "batter": 453923,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 430884,
+                "p_throws": "R",
+                "des": "Gregor Blanco called out on strikes.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 163,
+                    "type": "S",
+                    "tfs": 160057,
+                    "tfs_zulu": "2011-03-06T21:00:57Z",
+                    "x": 98.71,
+                    "y": 127.79,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 164,
+                    "type": "S",
+                    "tfs": 160057,
+                    "tfs_zulu": "2011-03-06T21:00:57Z",
+                    "x": 98.71,
+                    "y": 127.79,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 165,
+                    "type": "S",
+                    "tfs": 160058,
+                    "tfs_zulu": "2011-03-06T21:00:58Z",
+                    "x": 98.71,
+                    "y": 127.79,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 31,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 160152,
+                "start_tfs_zulu": "2011-03-06T21:01:52Z",
+                "batter": 456715,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 430884,
+                "p_throws": "R",
+                "des": "Lorenzo Cain flies out to right fielder Lastings Milledge.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 169,
+                  "type": "X",
+                  "tfs": 160154,
+                  "tfs_zulu": "2011-03-06T21:01:54Z",
+                  "x": 86.7,
+                  "y": 141.61,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 32,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 160319,
+                "start_tfs_zulu": "2011-03-06T21:03:19Z",
+                "batter": 449107,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 430884,
+                "p_throws": "R",
+                "des": "Mike Aviles singles on a ground ball to center fielder Jordan Danks.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 173,
+                  "type": "X",
+                  "tfs": 160322,
+                  "tfs_zulu": "2011-03-06T21:03:22Z",
+                  "x": 98.71,
+                  "y": 137.29,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 449107,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 33,
+                "b": 1,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 160434,
+                "start_tfs_zulu": "2011-03-06T21:04:34Z",
+                "batter": 543333,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 430884,
+                "p_throws": "R",
+                "des": "Eric Hosmer grounds out, second baseman Brent Lillibridge to first baseman Adam Dunn.",
+                "event": "Groundout",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 177,
+                    "type": "B",
+                    "tfs": 160445,
+                    "tfs_zulu": "2011-03-06T21:04:45Z",
+                    "x": 66.09,
+                    "y": 135.56,
+                    "on_1b": 449107,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "In play, out(s)",
+                    "id": 181,
+                    "type": "X",
+                    "tfs": 160501,
+                    "tfs_zulu": "2011-03-06T21:05:01Z",
+                    "x": 106.44,
+                    "y": 143.33,
+                    "on_2b": 449107,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 449107,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Stolen Base 2B"
+                  },
+                  {
+                    "id": 449107,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Groundout"
+                  }
+                ]
+              }
+            ]
+          },
+          "bottom": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitcher Change: Mike Montgomery replaces Luke Hochevar.",
+              "event": "Pitching Substitution",
+              "tfs": 160610,
+              "tfs_zulu": "2011-03-06T21:06:10Z",
+              "player": 543557,
+              "pitch": 2
+            },
+            "atbat": [
+              {
+                "num": 34,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 160829,
+                "start_tfs_zulu": "2011-03-06T21:08:29Z",
+                "batter": 276055,
+                "stand": "L",
+                "b_height": "6-6",
+                "pitcher": 543557,
+                "p_throws": "L",
+                "des": "Adam Dunn pops out to third baseman Mike Moustakas.",
+                "event": "Pop Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 189,
+                  "type": "X",
+                  "tfs": 160834,
+                  "tfs_zulu": "2011-03-06T21:08:34Z",
+                  "x": 106.44,
+                  "y": 139.02,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 35,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 160943,
+                "start_tfs_zulu": "2011-03-06T21:09:43Z",
+                "batter": 150229,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 543557,
+                "p_throws": "L",
+                "des": "A.  J.   Pierzynski grounds out, pitcher Mike Montgomery to first baseman Eric Hosmer.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 193,
+                  "type": "X",
+                  "tfs": 160945,
+                  "tfs_zulu": "2011-03-06T21:09:45Z",
+                  "x": 97.85,
+                  "y": 133.84,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 36,
+                "b": 4,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 161101,
+                "start_tfs_zulu": "2011-03-06T21:11:01Z",
+                "batter": 451186,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 543557,
+                "p_throws": "L",
+                "des": "Lastings Milledge walks.",
+                "event": "Walk",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 197,
+                    "type": "B",
+                    "tfs": 161103,
+                    "tfs_zulu": "2011-03-06T21:11:03Z",
+                    "x": 61.8,
+                    "y": 156.29,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 198,
+                    "type": "B",
+                    "tfs": 161104,
+                    "tfs_zulu": "2011-03-06T21:11:04Z",
+                    "x": 65.24,
+                    "y": 177.01,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 199,
+                    "type": "B",
+                    "tfs": 161105,
+                    "tfs_zulu": "2011-03-06T21:11:05Z",
+                    "x": 89.27,
+                    "y": 187.37,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 200,
+                    "type": "B",
+                    "tfs": 161107,
+                    "tfs_zulu": "2011-03-06T21:11:07Z",
+                    "x": 89.27,
+                    "y": 177.87,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 451186,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk"
+                }
+              },
+              {
+                "num": 37,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 161346,
+                "start_tfs_zulu": "2011-03-06T21:13:46Z",
+                "batter": 543569,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 543557,
+                "p_throws": "L",
+                "des": "Brent Morel grounds out, pitcher Mike Montgomery to first baseman Eric Hosmer.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 204,
+                  "type": "X",
+                  "tfs": 161348,
+                  "tfs_zulu": "2011-03-06T21:13:48Z",
+                  "x": 88.41,
+                  "y": 136.43,
+                  "on_1b": 451186,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 451186,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Groundout"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 5,
+          "away_team": "kca",
+          "home_team": "cha",
+          "next": "Y",
+          "top": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitcher Change: Will Ohman replaces Jesse Crain.",
+              "event": "Pitching Substitution",
+              "tfs": 161459,
+              "tfs_zulu": "2011-03-06T21:14:59Z",
+              "player": 349193,
+              "pitch": 1
+            },
+            "atbat": [
+              {
+                "num": 38,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 161746,
+                "start_tfs_zulu": "2011-03-06T21:17:46Z",
+                "batter": 519208,
+                "stand": "L",
+                "b_height": "6-5",
+                "pitcher": 349193,
+                "p_throws": "L",
+                "des": "Clint Robinson lines out softly to third baseman Brent Morel.",
+                "event": "Lineout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 212,
+                  "type": "X",
+                  "tfs": 161747,
+                  "tfs_zulu": "2011-03-06T21:17:47Z",
+                  "x": 104.72,
+                  "y": 132.11,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 39,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 161834,
+                "start_tfs_zulu": "2011-03-06T21:18:34Z",
+                "batter": 519058,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 349193,
+                "p_throws": "L",
+                "des": "Mike Moustakas flies out to left fielder Juan Pierre.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 216,
+                  "type": "X",
+                  "tfs": 161836,
+                  "tfs_zulu": "2011-03-06T21:18:36Z",
+                  "x": 97,
+                  "y": 142.47,
+                  "cc": "Will Ohman has been getting the ball up so far; he has allowed 0 HR in 2.0 IP this year.",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 40,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 161946,
+                "start_tfs_zulu": "2011-03-06T21:19:46Z",
+                "batter": 518953,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 349193,
+                "p_throws": "L",
+                "des": "David Lough grounds out, second baseman Brent Lillibridge to first baseman Adam Dunn.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 220,
+                  "type": "X",
+                  "tfs": 161948,
+                  "tfs_zulu": "2011-03-06T21:19:48Z",
+                  "x": 96.14,
+                  "y": 134.7,
+                  "cc": "Will Ohman has Royals batters hitting the ball into the ground so far.",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 41,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 162302,
+                "start_tfs_zulu": "2011-03-06T21:23:02Z",
+                "batter": 452095,
+                "stand": "R",
+                "b_height": "6-4",
+                "pitcher": 543557,
+                "p_throws": "L",
+                "des": "Tyler Flowers singles on a ground ball to shortstop Lance Zawadzki.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 225,
+                  "type": "X",
+                  "tfs": 162306,
+                  "tfs_zulu": "2011-03-06T21:23:06Z",
+                  "x": 104.72,
+                  "y": 137.29,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 452095,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 42,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 162330,
+                "start_tfs_zulu": "2011-03-06T21:23:30Z",
+                "batter": 458668,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 543557,
+                "p_throws": "L",
+                "des": "Jordan Danks flies out to left fielder David Lough.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 229,
+                  "type": "X",
+                  "tfs": 162331,
+                  "tfs_zulu": "2011-03-06T21:23:31Z",
+                  "x": 103,
+                  "y": 125.2,
+                  "on_1b": 452095,
+                  "cc": "Mike Montgomery has been getting the ball up so far; he has allowed 0 HR in 1.0 IP this year.",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 43,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 162432,
+                "start_tfs_zulu": "2011-03-06T21:24:32Z",
+                "batter": 452121,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 543557,
+                "p_throws": "L",
+                "des": "Brent Lillibridge singles on a bunt ground ball to third baseman Mike Moustakas.    Tyler Flowers to 2nd.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 233,
+                  "type": "X",
+                  "tfs": 162434,
+                  "tfs_zulu": "2011-03-06T21:24:34Z",
+                  "x": 97.85,
+                  "y": 137.29,
+                  "on_1b": 452095,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 452095,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 452121,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 44,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 162539,
+                "start_tfs_zulu": "2011-03-06T21:25:39Z",
+                "batter": 334393,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 543557,
+                "p_throws": "L",
+                "des": "Juan Pierre flies out to center fielder Gregor Blanco.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 238,
+                  "type": "X",
+                  "tfs": 162541,
+                  "tfs_zulu": "2011-03-06T21:25:41Z",
+                  "x": 96.14,
+                  "y": 135.56,
+                  "on_1b": 452121,
+                  "on_2b": 452095,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 45,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 162648,
+                "start_tfs_zulu": "2011-03-06T21:26:48Z",
+                "batter": 493351,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 543557,
+                "p_throws": "L",
+                "des": "Alexei Ramirez called out on strikes.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 242,
+                    "type": "S",
+                    "tfs": 162650,
+                    "tfs_zulu": "2011-03-06T21:26:50Z",
+                    "x": 96.14,
+                    "y": 133.84,
+                    "on_1b": 452121,
+                    "on_2b": 452095,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 243,
+                    "type": "S",
+                    "tfs": 162650,
+                    "tfs_zulu": "2011-03-06T21:26:50Z",
+                    "x": 96.14,
+                    "y": 133.84,
+                    "on_1b": 452121,
+                    "on_2b": 452095,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 244,
+                    "type": "S",
+                    "tfs": 162652,
+                    "tfs_zulu": "2011-03-06T21:26:52Z",
+                    "x": 96.14,
+                    "y": 133.84,
+                    "on_1b": 452121,
+                    "on_2b": 452095,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 452121,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Strikeout"
+                  },
+                  {
+                    "id": 452095,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Strikeout"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "num": 6,
+          "away_team": "kca",
+          "home_team": "cha",
+          "next": "Y",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: Tony Pena replaces Will Ohman.",
+                "event": "Pitching Substitution",
+                "tfs": 162803,
+                "tfs_zulu": "2011-03-06T21:28:03Z",
+                "player": 430963,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Jared Price replaces catcher Tyler Flowers, batting 7th, playing catcher.",
+                "event": "Defensive Sub",
+                "tfs": 162948,
+                "tfs_zulu": "2011-03-06T21:29:48Z",
+                "player": 444919,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Offensive Substitution: Pinch hitter Jarrod Dyson replaces Gregor Blanco.",
+                "event": "Offensive sub",
+                "tfs": 163236,
+                "tfs_zulu": "2011-03-06T21:32:36Z",
+                "player": 502481,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "des": "Offensive Substitution: Pinch hitter Mitch Maier replaces Lorenzo Cain.",
+                "event": "Offensive sub",
+                "tfs": 163448,
+                "tfs_zulu": "2011-03-06T21:34:48Z",
+                "player": 430574,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "des": "Offensive Substitution: Pinch hitter Johnny Giavotella replaces Mike Aviles.",
+                "event": "Offensive sub",
+                "tfs": 163550,
+                "tfs_zulu": "2011-03-06T21:35:50Z",
+                "player": 543213,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "des": "Offensive Substitution: Pinch hitter Kila Ka'aihue replaces Eric Hosmer.",
+                "event": "Offensive sub",
+                "tfs": 163913,
+                "tfs_zulu": "2011-03-06T21:39:13Z",
+                "player": 451500,
+                "pitch": 4
+              }
+            ],
+            "atbat": [
+              {
+                "num": 46,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 163053,
+                "start_tfs_zulu": "2011-03-06T21:30:53Z",
+                "batter": 521692,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 430963,
+                "p_throws": "R",
+                "des": "Salvador Perez singles on a ground ball to left fielder Juan Pierre.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 254,
+                  "type": "X",
+                  "tfs": 163055,
+                  "tfs_zulu": "2011-03-06T21:30:55Z",
+                  "x": 101.29,
+                  "y": 144.2,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 521692,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 47,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 163215,
+                "start_tfs_zulu": "2011-03-06T21:32:15Z",
+                "batter": 453368,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 430963,
+                "p_throws": "R",
+                "des": "Lance Zawadzki doubles (1) on a sharp ground ball to right fielder Lastings Milledge.    Salvador Perez to 3rd.",
+                "event": "Double",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 258,
+                  "type": "X",
+                  "tfs": 163217,
+                  "tfs_zulu": "2011-03-06T21:32:17Z",
+                  "x": 103,
+                  "y": 142.47,
+                  "on_1b": 521692,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 521692,
+                    "start": "1B",
+                    "end": "3B",
+                    "event": "Double"
+                  },
+                  {
+                    "id": 453368,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Double"
+                  }
+                ]
+              },
+              {
+                "num": 48,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 163416,
+                "start_tfs_zulu": "2011-03-06T21:34:16Z",
+                "batter": 502481,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 430963,
+                "p_throws": "R",
+                "des": "Jarrod Dyson grounds out, shortstop Alexei Ramirez to first baseman Adam Dunn.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 265,
+                  "type": "X",
+                  "tfs": 163417,
+                  "tfs_zulu": "2011-03-06T21:34:17Z",
+                  "x": 95.28,
+                  "y": 139.02,
+                  "on_2b": 453368,
+                  "on_3b": 521692,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 49,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 163516,
+                "start_tfs_zulu": "2011-03-06T21:35:16Z",
+                "batter": 430574,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 430963,
+                "p_throws": "R",
+                "des": "Mitch Maier strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 271,
+                    "type": "S",
+                    "tfs": 163518,
+                    "tfs_zulu": "2011-03-06T21:35:18Z",
+                    "x": 101.29,
+                    "y": 139.02,
+                    "on_2b": 453368,
+                    "on_3b": 521692,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 272,
+                    "type": "S",
+                    "tfs": 163519,
+                    "tfs_zulu": "2011-03-06T21:35:19Z",
+                    "x": 100.43,
+                    "y": 139.02,
+                    "on_2b": 453368,
+                    "on_3b": 521692,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 273,
+                    "type": "S",
+                    "tfs": 163520,
+                    "tfs_zulu": "2011-03-06T21:35:20Z",
+                    "x": 100.43,
+                    "y": 139.02,
+                    "on_2b": 453368,
+                    "on_3b": 521692,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 50,
+                "b": 4,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 163750,
+                "start_tfs_zulu": "2011-03-06T21:37:50Z",
+                "batter": 543213,
+                "stand": "R",
+                "b_height": "5-8",
+                "pitcher": 430963,
+                "p_throws": "R",
+                "des": "Johnny Giavotella walks.",
+                "event": "Walk",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 279,
+                    "type": "B",
+                    "tfs": 163843,
+                    "tfs_zulu": "2011-03-06T21:38:43Z",
+                    "x": 62.66,
+                    "y": 128.65,
+                    "on_2b": 453368,
+                    "on_3b": 521692,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 280,
+                    "type": "B",
+                    "tfs": 163844,
+                    "tfs_zulu": "2011-03-06T21:38:44Z",
+                    "x": 62.66,
+                    "y": 128.65,
+                    "on_2b": 453368,
+                    "on_3b": 521692,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 281,
+                    "type": "B",
+                    "tfs": 163844,
+                    "tfs_zulu": "2011-03-06T21:38:44Z",
+                    "x": 62.66,
+                    "y": 128.65,
+                    "on_2b": 453368,
+                    "on_3b": 521692,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 282,
+                    "type": "B",
+                    "tfs": 163845,
+                    "tfs_zulu": "2011-03-06T21:38:45Z",
+                    "x": 62.66,
+                    "y": 128.65,
+                    "on_2b": 453368,
+                    "on_3b": 521692,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 543213,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk"
+                }
+              },
+              {
+                "num": 51,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 163917,
+                "start_tfs_zulu": "2011-03-06T21:39:17Z",
+                "batter": 451500,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 430963,
+                "p_throws": "R",
+                "des": "Kila Ka'aihue grounds into a force out, fielded by shortstop Alexei Ramirez.    Johnny Giavotella out at 2nd.",
+                "event": "Forceout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 288,
+                  "type": "X",
+                  "tfs": 164033,
+                  "tfs_zulu": "2011-03-06T21:40:33Z",
+                  "x": 109.01,
+                  "y": 137.29,
+                  "on_1b": 543213,
+                  "on_2b": 453368,
+                  "on_3b": 521692,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 543213,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Forceout"
+                  },
+                  {
+                    "id": 453368,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Forceout"
+                  },
+                  {
+                    "id": 521692,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Forceout"
+                  }
+                ]
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Jarrod Dyson remains in the game as the center fielder.",
+                "event": "Defensive Switch",
+                "tfs": 164338,
+                "tfs_zulu": "2011-03-06T21:43:38Z",
+                "player": 502481,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Mitch Maier remains in the game as the right fielder.",
+                "event": "Defensive Switch",
+                "tfs": 164338,
+                "tfs_zulu": "2011-03-06T21:43:38Z",
+                "player": 430574,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Johnny Giavotella remains in the game as the second baseman.",
+                "event": "Defensive Switch",
+                "tfs": 164338,
+                "tfs_zulu": "2011-03-06T21:43:38Z",
+                "player": 543213,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Kila Ka'aihue remains in the game as the first baseman.",
+                "event": "Defensive Switch",
+                "tfs": 164338,
+                "tfs_zulu": "2011-03-06T21:43:38Z",
+                "player": 451500,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Pedro Feliz replaces third baseman Mike Moustakas, batting 6th, playing third base.",
+                "event": "Defensive Sub",
+                "tfs": 164338,
+                "tfs_zulu": "2011-03-06T21:43:38Z",
+                "player": 150268,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Brett Carroll replaces left fielder David Lough, batting 7th, playing left field.",
+                "event": "Defensive Sub",
+                "tfs": 164338,
+                "tfs_zulu": "2011-03-06T21:43:38Z",
+                "player": 448276,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Cody Clark replaces catcher Salvador Perez, batting 8th, playing catcher.",
+                "event": "Defensive Sub",
+                "tfs": 164338,
+                "tfs_zulu": "2011-03-06T21:43:38Z",
+                "player": 460612,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Jeff Bianchi replaces shortstop Lance Zawadzki, batting 9th, playing shortstop.",
+                "event": "Defensive Sub",
+                "tfs": 164338,
+                "tfs_zulu": "2011-03-06T21:43:38Z",
+                "player": 488703,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: Greg Holland replaces Mike Montgomery.",
+                "event": "Pitching Substitution",
+                "tfs": 164338,
+                "tfs_zulu": "2011-03-06T21:43:38Z",
+                "player": 518813,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 52,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 164348,
+                "start_tfs_zulu": "2011-03-06T21:43:48Z",
+                "batter": 276055,
+                "stand": "L",
+                "b_height": "6-6",
+                "pitcher": 518813,
+                "p_throws": "R",
+                "des": "Adam Dunn singles on a line drive to right fielder Mitch Maier.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 313,
+                  "type": "X",
+                  "tfs": 164351,
+                  "tfs_zulu": "2011-03-06T21:43:51Z",
+                  "x": 103.86,
+                  "y": 129.52,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 276055,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 53,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 164522,
+                "start_tfs_zulu": "2011-03-06T21:45:22Z",
+                "batter": 150229,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 518813,
+                "p_throws": "R",
+                "des": "A.  J.   Pierzynski flies out to left fielder Brett Carroll.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 317,
+                  "type": "X",
+                  "tfs": 164524,
+                  "tfs_zulu": "2011-03-06T21:45:24Z",
+                  "x": 101.29,
+                  "y": 136.43,
+                  "on_1b": 276055,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 54,
+                "b": 4,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 164705,
+                "start_tfs_zulu": "2011-03-06T21:47:05Z",
+                "batter": 451186,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 518813,
+                "p_throws": "R",
+                "des": "Lastings Milledge walks.    Adam Dunn to 2nd.",
+                "event": "Walk",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 321,
+                    "type": "B",
+                    "tfs": 164708,
+                    "tfs_zulu": "2011-03-06T21:47:08Z",
+                    "x": 60.09,
+                    "y": 130.38,
+                    "on_1b": 276055,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 322,
+                    "type": "B",
+                    "tfs": 164709,
+                    "tfs_zulu": "2011-03-06T21:47:09Z",
+                    "x": 59.23,
+                    "y": 129.52,
+                    "on_1b": 276055,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 323,
+                    "type": "B",
+                    "tfs": 164709,
+                    "tfs_zulu": "2011-03-06T21:47:09Z",
+                    "x": 59.23,
+                    "y": 129.52,
+                    "on_1b": 276055,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 324,
+                    "type": "B",
+                    "tfs": 164710,
+                    "tfs_zulu": "2011-03-06T21:47:10Z",
+                    "x": 59.23,
+                    "y": 129.52,
+                    "on_1b": 276055,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 276055,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Walk"
+                  },
+                  {
+                    "id": 451186,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Walk"
+                  }
+                ]
+              },
+              {
+                "num": 55,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 164901,
+                "start_tfs_zulu": "2011-03-06T21:49:01Z",
+                "batter": 543569,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 518813,
+                "p_throws": "R",
+                "des": "Brent Morel called out on strikes.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 329,
+                    "type": "S",
+                    "tfs": 164903,
+                    "tfs_zulu": "2011-03-06T21:49:03Z",
+                    "x": 98.71,
+                    "y": 140.74,
+                    "on_1b": 451186,
+                    "on_2b": 276055,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 330,
+                    "type": "S",
+                    "tfs": 164904,
+                    "tfs_zulu": "2011-03-06T21:49:04Z",
+                    "x": 99.57,
+                    "y": 140.74,
+                    "on_1b": 451186,
+                    "on_2b": 276055,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 331,
+                    "type": "S",
+                    "tfs": 164905,
+                    "tfs_zulu": "2011-03-06T21:49:05Z",
+                    "x": 99.57,
+                    "y": 140.74,
+                    "on_1b": 451186,
+                    "on_2b": 276055,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 56,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 165145,
+                "start_tfs_zulu": "2011-03-06T21:51:45Z",
+                "batter": 444919,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 518813,
+                "p_throws": "R",
+                "des": "Jared Price strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 335,
+                    "type": "S",
+                    "tfs": 165146,
+                    "tfs_zulu": "2011-03-06T21:51:46Z",
+                    "x": 109.01,
+                    "y": 132.11,
+                    "on_1b": 451186,
+                    "on_2b": 276055,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 336,
+                    "type": "S",
+                    "tfs": 165147,
+                    "tfs_zulu": "2011-03-06T21:51:47Z",
+                    "x": 109.01,
+                    "y": 132.11,
+                    "on_1b": 451186,
+                    "on_2b": 276055,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 337,
+                    "type": "S",
+                    "tfs": 165148,
+                    "tfs_zulu": "2011-03-06T21:51:48Z",
+                    "x": 109.01,
+                    "y": 132.11,
+                    "on_1b": 451186,
+                    "on_2b": 276055,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 451186,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Strikeout"
+                  },
+                  {
+                    "id": 276055,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Strikeout"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "num": 7,
+          "away_team": "kca",
+          "home_team": "cha",
+          "next": "Y",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Eduardo Escobar replaces shortstop Alexei Ramirez, batting 2nd, playing shortstop.",
+                "event": "Defensive Sub",
+                "tfs": 165329,
+                "tfs_zulu": "2011-03-06T21:53:29Z",
+                "player": 500871,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Dallas McPherson replaces first baseman Adam Dunn, batting 3rd, playing first base.",
+                "event": "Defensive Sub",
+                "tfs": 165329,
+                "tfs_zulu": "2011-03-06T21:53:29Z",
+                "player": 425774,
+                "pitch": 3
+              }
+            ],
+            "atbat": [
+              {
+                "num": 57,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 165541,
+                "start_tfs_zulu": "2011-03-06T21:55:41Z",
+                "batter": 519208,
+                "stand": "L",
+                "b_height": "6-5",
+                "pitcher": 430963,
+                "p_throws": "R",
+                "des": "Clint Robinson called out on strikes.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 347,
+                    "type": "S",
+                    "tfs": 165543,
+                    "tfs_zulu": "2011-03-06T21:55:43Z",
+                    "x": 108.15,
+                    "y": 131.24,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 348,
+                    "type": "S",
+                    "tfs": 165544,
+                    "tfs_zulu": "2011-03-06T21:55:44Z",
+                    "x": 108.15,
+                    "y": 131.24,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 349,
+                    "type": "S",
+                    "tfs": 165544,
+                    "tfs_zulu": "2011-03-06T21:55:44Z",
+                    "x": 108.15,
+                    "y": 131.24,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 58,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 165553,
+                "start_tfs_zulu": "2011-03-06T21:55:53Z",
+                "batter": 150268,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 430963,
+                "p_throws": "R",
+                "des": "Pedro Feliz homers (1) on a fly ball to left field.",
+                "event": "Home Run",
+                "score": "T",
+                "home_team_runs": 1,
+                "away_team_runs": 7,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 353,
+                  "type": "X",
+                  "tfs": 165554,
+                  "tfs_zulu": "2011-03-06T21:55:54Z",
+                  "x": 96.14,
+                  "y": 137.29,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 150268,
+                  "start": "",
+                  "end": "",
+                  "event": "Home Run",
+                  "score": "T",
+                  "rbi": "T",
+                  "earned": "T"
+                }
+              },
+              {
+                "num": 59,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 165701,
+                "start_tfs_zulu": "2011-03-06T21:57:01Z",
+                "batter": 448276,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 430963,
+                "p_throws": "R",
+                "des": "Brett Carroll lines out to second baseman Brent Lillibridge.",
+                "event": "Lineout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 358,
+                  "type": "X",
+                  "tfs": 165732,
+                  "tfs_zulu": "2011-03-06T21:57:32Z",
+                  "x": 94.42,
+                  "y": 131.24,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 60,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 165852,
+                "start_tfs_zulu": "2011-03-06T21:58:52Z",
+                "batter": 460612,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 430963,
+                "p_throws": "R",
+                "des": "Cody Clark singles on a ground ball to right fielder Lastings Milledge.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 362,
+                  "type": "X",
+                  "tfs": 165854,
+                  "tfs_zulu": "2011-03-06T21:58:54Z",
+                  "x": 93.56,
+                  "y": 139.88,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 460612,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 61,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 165952,
+                "start_tfs_zulu": "2011-03-06T21:59:52Z",
+                "batter": 488703,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 430963,
+                "p_throws": "R",
+                "des": "Jeff Bianchi doubles (1) on a fly ball to left fielder Juan Pierre.    Cody Clark to 3rd.",
+                "event": "Double",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 366,
+                  "type": "X",
+                  "tfs": 165957,
+                  "tfs_zulu": "2011-03-06T21:59:57Z",
+                  "x": 107.3,
+                  "y": 128.65,
+                  "on_1b": 460612,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 460612,
+                    "start": "1B",
+                    "end": "3B",
+                    "event": "Double"
+                  },
+                  {
+                    "id": 488703,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Double"
+                  }
+                ]
+              },
+              {
+                "num": 62,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 170040,
+                "start_tfs_zulu": "2011-03-06T22:00:40Z",
+                "batter": 502481,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 430963,
+                "p_throws": "R",
+                "des": "Jarrod Dyson singles on a ground ball to shortstop Eduardo Escobar.    Cody Clark scores.    Jeff Bianchi to 3rd.",
+                "event": "Single",
+                "score": "T",
+                "home_team_runs": 1,
+                "away_team_runs": 8,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 371,
+                  "type": "X",
+                  "tfs": 170044,
+                  "tfs_zulu": "2011-03-06T22:00:44Z",
+                  "x": 109.87,
+                  "y": 132.11,
+                  "on_2b": 488703,
+                  "on_3b": 460612,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 488703,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 460612,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Single",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 502481,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 63,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 170116,
+                "start_tfs_zulu": "2011-03-06T22:01:16Z",
+                "batter": 430574,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 430963,
+                "p_throws": "R",
+                "des": "Mitch Maier grounds out, second baseman Brent Lillibridge to first baseman Dallas McPherson.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 378,
+                  "type": "X",
+                  "tfs": 170117,
+                  "tfs_zulu": "2011-03-06T22:01:17Z",
+                  "x": 108.15,
+                  "y": 129.52,
+                  "on_1b": 502481,
+                  "on_3b": 488703,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 502481,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Groundout"
+                  },
+                  {
+                    "id": 488703,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Groundout"
+                  }
+                ]
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: Blake Wood replaces Greg Holland.",
+                "event": "Pitching Substitution",
+                "tfs": 170235,
+                "tfs_zulu": "2011-03-06T22:02:35Z",
+                "player": 502028,
+                "pitch": 1
+              },
+              {
+                "b": 1,
+                "s": 0,
+                "o": 2,
+                "des": "With Dallas McPherson batting, wild pitch by Blake Wood, Brent Lillibridge scores.    Juan Pierre to 3rd.",
+                "event": "Wild Pitch",
+                "tfs": 171217,
+                "tfs_zulu": "2011-03-06T22:12:17Z",
+                "player": 452121,
+                "pitch": 1,
+                "score": "T",
+                "home_team_runs": 2,
+                "away_team_runs": 8
+              }
+            ],
+            "atbat": [
+              {
+                "num": 64,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 170528,
+                "start_tfs_zulu": "2011-03-06T22:05:28Z",
+                "batter": 458668,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 502028,
+                "p_throws": "R",
+                "des": "Jordan Danks grounds out, shortstop Jeff Bianchi to first baseman Kila Ka'aihue.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 386,
+                  "type": "X",
+                  "tfs": 170532,
+                  "tfs_zulu": "2011-03-06T22:05:32Z",
+                  "x": 115.02,
+                  "y": 134.7,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 65,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 170755,
+                "start_tfs_zulu": "2011-03-06T22:07:55Z",
+                "batter": 452121,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 502028,
+                "p_throws": "R",
+                "des": "Brent Lillibridge singles on a ground ball to first baseman Kila Ka'aihue, deflected by pitcher Blake Wood.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 390,
+                  "type": "X",
+                  "tfs": 170802,
+                  "tfs_zulu": "2011-03-06T22:08:02Z",
+                  "x": 92.7,
+                  "y": 139.02,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 452121,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 66,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 170954,
+                "start_tfs_zulu": "2011-03-06T22:09:54Z",
+                "batter": 334393,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 502028,
+                "p_throws": "R",
+                "des": "Juan Pierre singles on a ground ball to right fielder Mitch Maier.    Brent Lillibridge to 3rd.  Juan Pierre advances to 2nd, on throwing error by right fielder Mitch Maier.",
+                "event": "Single",
+                "event2": "Error",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 394,
+                  "type": "X",
+                  "tfs": 171001,
+                  "tfs_zulu": "2011-03-06T22:10:01Z",
+                  "x": 109.87,
+                  "y": 136.43,
+                  "on_1b": 452121,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 452121,
+                    "start": "1B",
+                    "end": "3B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 334393,
+                    "start": "",
+                    "end": "2B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 67,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 171052,
+                "start_tfs_zulu": "2011-03-06T22:10:52Z",
+                "batter": 500871,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 502028,
+                "p_throws": "R",
+                "des": "Eduardo Escobar grounds out, pitcher Blake Wood to first baseman Kila Ka'aihue.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 402,
+                  "type": "X",
+                  "tfs": 171055,
+                  "tfs_zulu": "2011-03-06T22:10:55Z",
+                  "x": 106.44,
+                  "y": 136.43,
+                  "on_2b": 334393,
+                  "on_3b": 452121,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 68,
+                "b": 1,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 171208,
+                "start_tfs_zulu": "2011-03-06T22:12:08Z",
+                "batter": 425774,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 502028,
+                "p_throws": "R",
+                "des": "Dallas McPherson strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 406,
+                    "type": "B",
+                    "tfs": 171211,
+                    "tfs_zulu": "2011-03-06T22:12:11Z",
+                    "x": 65.24,
+                    "y": 183.05,
+                    "on_2b": 334393,
+                    "on_3b": 452121,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 412,
+                    "type": "S",
+                    "tfs": 171323,
+                    "tfs_zulu": "2011-03-06T22:13:23Z",
+                    "x": 96.14,
+                    "y": 126.06,
+                    "on_3b": 334393,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 413,
+                    "type": "S",
+                    "tfs": 171324,
+                    "tfs_zulu": "2011-03-06T22:13:24Z",
+                    "x": 96.14,
+                    "y": 126.06,
+                    "on_3b": 334393,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 414,
+                    "type": "S",
+                    "tfs": 171326,
+                    "tfs_zulu": "2011-03-06T22:13:26Z",
+                    "x": 96.14,
+                    "y": 126.06,
+                    "on_3b": 334393,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": [
+                  {
+                    "id": 334393,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Wild Pitch"
+                  },
+                  {
+                    "id": 452121,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Wild Pitch",
+                    "score": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 334393,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Strikeout"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "num": 8,
+          "away_team": "kca",
+          "home_team": "cha",
+          "next": "Y",
+          "top": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitcher Change: Jeff Gray replaces Tony Pena.",
+              "event": "Pitching Substitution",
+              "tfs": 171444,
+              "tfs_zulu": "2011-03-06T22:14:44Z",
+              "player": 462522,
+              "pitch": 4
+            },
+            "atbat": [
+              {
+                "num": 69,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 171747,
+                "start_tfs_zulu": "2011-03-06T22:17:47Z",
+                "batter": 543213,
+                "stand": "R",
+                "b_height": "5-8",
+                "pitcher": 462522,
+                "p_throws": "R",
+                "des": "Johnny Giavotella called out on strikes.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 422,
+                    "type": "S",
+                    "tfs": 171748,
+                    "tfs_zulu": "2011-03-06T22:17:48Z",
+                    "x": 101.29,
+                    "y": 130.38,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 423,
+                    "type": "S",
+                    "tfs": 171750,
+                    "tfs_zulu": "2011-03-06T22:17:50Z",
+                    "x": 101.29,
+                    "y": 130.38,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 424,
+                    "type": "S",
+                    "tfs": 171751,
+                    "tfs_zulu": "2011-03-06T22:17:51Z",
+                    "x": 101.29,
+                    "y": 130.38,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 70,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 171812,
+                "start_tfs_zulu": "2011-03-06T22:18:12Z",
+                "batter": 451500,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 462522,
+                "p_throws": "R",
+                "des": "Kila Ka'aihue grounds out to first baseman Dallas McPherson.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 428,
+                  "type": "X",
+                  "tfs": 171814,
+                  "tfs_zulu": "2011-03-06T22:18:14Z",
+                  "x": 96.14,
+                  "y": 131.24,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 71,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 171901,
+                "start_tfs_zulu": "2011-03-06T22:19:01Z",
+                "batter": 519208,
+                "stand": "L",
+                "b_height": "6-5",
+                "pitcher": 462522,
+                "p_throws": "R",
+                "des": "Clint Robinson flies out to center fielder Jordan Danks.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 432,
+                  "type": "X",
+                  "tfs": 171903,
+                  "tfs_zulu": "2011-03-06T22:19:03Z",
+                  "x": 99.57,
+                  "y": 135.56,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitcher Change: Aaron Crow replaces Blake Wood.",
+              "event": "Pitching Substitution",
+              "tfs": 172005,
+              "tfs_zulu": "2011-03-06T22:20:05Z",
+              "player": 543070,
+              "pitch": 1
+            },
+            "atbat": [
+              {
+                "num": 72,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 172307,
+                "start_tfs_zulu": "2011-03-06T22:23:07Z",
+                "batter": 150229,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 543070,
+                "p_throws": "R",
+                "des": "A.  J.   Pierzynski strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 439,
+                    "type": "S",
+                    "tfs": 172311,
+                    "tfs_zulu": "2011-03-06T22:23:11Z",
+                    "x": 107.3,
+                    "y": 137.29,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 440,
+                    "type": "S",
+                    "tfs": 172313,
+                    "tfs_zulu": "2011-03-06T22:23:13Z",
+                    "x": 104.72,
+                    "y": 127.79,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 441,
+                    "type": "S",
+                    "tfs": 172315,
+                    "tfs_zulu": "2011-03-06T22:23:15Z",
+                    "x": 104.72,
+                    "y": 127.79,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 73,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 172414,
+                "start_tfs_zulu": "2011-03-06T22:24:14Z",
+                "batter": 451186,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 543070,
+                "p_throws": "R",
+                "des": "Lastings Milledge grounds out, second baseman Johnny Giavotella to first baseman Kila Ka'aihue.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 445,
+                  "type": "X",
+                  "tfs": 172416,
+                  "tfs_zulu": "2011-03-06T22:24:16Z",
+                  "x": 99.57,
+                  "y": 139.02,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 74,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 172509,
+                "start_tfs_zulu": "2011-03-06T22:25:09Z",
+                "batter": 543569,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 543070,
+                "p_throws": "R",
+                "des": "Brent Morel grounds out, shortstop Jeff Bianchi to first baseman Kila Ka'aihue.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 449,
+                  "type": "X",
+                  "tfs": 172511,
+                  "tfs_zulu": "2011-03-06T22:25:11Z",
+                  "x": 100.43,
+                  "y": 137.29,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 9,
+          "away_team": "kca",
+          "home_team": "cha",
+          "next": "N",
+          "top": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitcher Change: Shane Lindsay replaces Jeff Gray.",
+              "event": "Pitching Substitution",
+              "tfs": 172637,
+              "tfs_zulu": "2011-03-06T22:26:37Z",
+              "player": 469834,
+              "pitch": 1
+            },
+            "atbat": [
+              {
+                "num": 75,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 172923,
+                "start_tfs_zulu": "2011-03-06T22:29:23Z",
+                "batter": 150268,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 469834,
+                "p_throws": "R",
+                "des": "Pedro Feliz strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 456,
+                    "type": "S",
+                    "tfs": 172925,
+                    "tfs_zulu": "2011-03-06T22:29:25Z",
+                    "x": 110.73,
+                    "y": 133.84,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 457,
+                    "type": "S",
+                    "tfs": 172926,
+                    "tfs_zulu": "2011-03-06T22:29:26Z",
+                    "x": 89.27,
+                    "y": 133.84,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 458,
+                    "type": "S",
+                    "tfs": 172928,
+                    "tfs_zulu": "2011-03-06T22:29:28Z",
+                    "x": 89.27,
+                    "y": 133.84,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 76,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 173005,
+                "start_tfs_zulu": "2011-03-06T22:30:05Z",
+                "batter": 448276,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 469834,
+                "p_throws": "R",
+                "des": "Brett Carroll grounds out, shortstop Eduardo Escobar to first baseman Dallas McPherson.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 462,
+                  "type": "X",
+                  "tfs": 173009,
+                  "tfs_zulu": "2011-03-06T22:30:09Z",
+                  "x": 108.15,
+                  "y": 131.24,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 77,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 173116,
+                "start_tfs_zulu": "2011-03-06T22:31:16Z",
+                "batter": 460612,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 469834,
+                "p_throws": "R",
+                "des": "Cody Clark grounds out, shortstop Eduardo Escobar to first baseman Dallas McPherson.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 466,
+                  "type": "X",
+                  "tfs": 173118,
+                  "tfs_zulu": "2011-03-06T22:31:18Z",
+                  "x": 100.43,
+                  "y": 127.79,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 78,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 173342,
+                "start_tfs_zulu": "2011-03-06T22:33:42Z",
+                "batter": 444919,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 543070,
+                "p_throws": "R",
+                "des": "Jared Price singles on a ground ball to third baseman Pedro Feliz.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 471,
+                  "type": "X",
+                  "tfs": 173345,
+                  "tfs_zulu": "2011-03-06T22:33:45Z",
+                  "x": 101.29,
+                  "y": 141.61,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 444919,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 79,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 173415,
+                "start_tfs_zulu": "2011-03-06T22:34:15Z",
+                "batter": 458668,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 543070,
+                "p_throws": "R",
+                "des": "Jordan Danks singles on a ground ball to center fielder Jarrod Dyson.    Jared Price to 2nd.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 475,
+                  "type": "X",
+                  "tfs": 173420,
+                  "tfs_zulu": "2011-03-06T22:34:20Z",
+                  "x": 100.43,
+                  "y": 134.7,
+                  "on_1b": 444919,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 444919,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 458668,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 80,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 173822,
+                "start_tfs_zulu": "2011-03-06T22:38:22Z",
+                "batter": 452121,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 543070,
+                "p_throws": "R",
+                "des": "Brent Lillibridge called out on strikes.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 480,
+                    "type": "S",
+                    "tfs": 173824,
+                    "tfs_zulu": "2011-03-06T22:38:24Z",
+                    "x": 97.85,
+                    "y": 131.24,
+                    "on_1b": 458668,
+                    "on_2b": 444919,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 481,
+                    "type": "S",
+                    "tfs": 173826,
+                    "tfs_zulu": "2011-03-06T22:38:26Z",
+                    "x": 97.85,
+                    "y": 131.24,
+                    "on_1b": 458668,
+                    "on_2b": 444919,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 482,
+                    "type": "S",
+                    "tfs": 173827,
+                    "tfs_zulu": "2011-03-06T22:38:27Z",
+                    "x": 97.85,
+                    "y": 131.24,
+                    "on_1b": 458668,
+                    "on_2b": 444919,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 81,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 173913,
+                "start_tfs_zulu": "2011-03-06T22:39:13Z",
+                "batter": 334393,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 543070,
+                "p_throws": "R",
+                "des": "Juan Pierre singles on a ground ball to left fielder Brett Carroll.    Jared Price to 3rd.    Jordan Danks to 2nd.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 486,
+                  "type": "X",
+                  "tfs": 173916,
+                  "tfs_zulu": "2011-03-06T22:39:16Z",
+                  "x": 107.3,
+                  "y": 133.84,
+                  "on_1b": 458668,
+                  "on_2b": 444919,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 458668,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 444919,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 334393,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 82,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 174110,
+                "start_tfs_zulu": "2011-03-06T22:41:10Z",
+                "batter": 500871,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 543070,
+                "p_throws": "R",
+                "des": "Eduardo Escobar grounds out to first baseman Kila Ka'aihue.    Jared Price scores.    Jordan Danks to 3rd.    Juan Pierre to 2nd.",
+                "event": "Groundout",
+                "score": "T",
+                "home_team_runs": 3,
+                "away_team_runs": 8,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 492,
+                  "type": "X",
+                  "tfs": 174113,
+                  "tfs_zulu": "2011-03-06T22:41:13Z",
+                  "x": 103.86,
+                  "y": 133.84,
+                  "on_1b": 334393,
+                  "on_2b": 458668,
+                  "on_3b": 444919,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 334393,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Groundout"
+                  },
+                  {
+                    "id": 458668,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Groundout"
+                  },
+                  {
+                    "id": 444919,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Groundout",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  }
+                ]
+              },
+              {
+                "num": 83,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 174149,
+                "start_tfs_zulu": "2011-03-06T22:41:49Z",
+                "batter": 425774,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 543070,
+                "p_throws": "R",
+                "des": "Dallas McPherson grounds out, third baseman Pedro Feliz to first baseman Kila Ka'aihue.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 500,
+                  "type": "X",
+                  "tfs": 174151,
+                  "tfs_zulu": "2011-03-06T22:41:51Z",
+                  "x": 115.02,
+                  "y": 136.43,
+                  "on_2b": 334393,
+                  "on_3b": 458668,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 334393,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Groundout"
+                  },
+                  {
+                    "id": 458668,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Groundout"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "id": "40bf3982-d625-40e4-9b3d-3ffdf28efb94",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:06:38Z",
+      "contextualData": {
+        "batter": 453923,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "8d490169-1535-4131-8955-4853311b81be",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:07:00Z",
+      "contextualData": {
+        "batter": 456715,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "86665332-3f0e-4ab9-ae96-6315800ec6ed",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:07:32Z",
+      "contextualData": {
+        "batter": 449107,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "17ea365d-fc81-4c2d-9d76-0f1bd7a2e241",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:08:27Z",
+      "contextualData": {
+        "batter": 543333,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "87e5683a-1f8f-428c-af7c-af19b2a66020",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:09:23Z",
+      "contextualData": {
+        "batter": 519208,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "329070b4-d2a5-4902-96da-e67c03085f8c",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:10:09Z",
+      "contextualData": {
+        "batter": 519058,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "19f5466b-fb00-4740-ba7a-940b03ca3110",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:11:54Z",
+      "contextualData": {
+        "batter": 518953,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "d7117b8e-cff1-4752-afb8-fa676cfc354b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T20:14:36Z",
+      "contextualData": {
+        "batter": 334393,
+        "pitcher": 460024
+      }
+    },
+    {
+      "id": "5e4afd14-28fd-4bbb-96a1-9d50ccb25978",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T20:15:44Z",
+      "contextualData": {
+        "batter": 493351,
+        "pitcher": 460024
+      }
+    },
+    {
+      "id": "1f42f7b3-39c5-4744-9d34-0161c29d078e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T20:19:49Z",
+      "contextualData": {
+        "batter": 276055,
+        "pitcher": 460024
+      }
+    },
+    {
+      "id": "cf2f9702-844d-4522-a6ca-7243ad7bdb6e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T20:21:11Z",
+      "contextualData": {
+        "batter": 150229,
+        "pitcher": 460024
+      }
+    },
+    {
+      "id": "7d7be07c-7d2d-450d-84c6-91b263aabb90",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T20:23:35Z",
+      "contextualData": {
+        "batter": 451186,
+        "pitcher": 460024
+      }
+    },
+    {
+      "id": "d47c8025-b723-4495-801e-90a4b522dfec",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:26:18Z",
+      "contextualData": {
+        "batter": 521692,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "cc13ca6b-43c9-484b-a9d0-80ff6e5cd28d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:27:43Z",
+      "contextualData": {
+        "batter": 453368,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "51768d21-b332-4998-bf5f-881ff0bd5ff0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:31:43Z",
+      "contextualData": {
+        "batter": 453923,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "bb9b62da-8acb-432d-894a-f86eda519607",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Passed Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:31:47Z",
+      "contextualData": {
+        "player": 453368
+      }
+    },
+    {
+      "id": "142c4f45-5f91-4cac-9fbb-1f625726af87",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:31:51Z",
+      "contextualData": {
+        "batter": 453923,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "ed9a6b96-a81a-4adb-b281-95f8a7021318",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T20:34:36Z",
+      "contextualData": {
+        "batter": 543569,
+        "pitcher": 460024
+      }
+    },
+    {
+      "id": "12ba7af0-ad3c-4b9e-82e5-c6bb06a30a41",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T20:35:37Z",
+      "contextualData": {
+        "batter": 452095,
+        "pitcher": 460024
+      }
+    },
+    {
+      "id": "a76a2288-fe43-4c53-9e99-ce30d7299325",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T20:37:12Z",
+      "contextualData": {
+        "batter": 458668,
+        "pitcher": 460024
+      }
+    },
+    {
+      "id": "69c46442-bcd5-4cac-895f-072ed4599f4e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:40:49Z",
+      "contextualData": {
+        "batter": 456715,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "de16be9f-3ecc-4cf6-a851-80a54961db1f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:41:25Z",
+      "contextualData": {
+        "batter": 449107,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "81bc40f6-3c6e-4620-a0c4-3bb4ce2f36da",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:42:32Z",
+      "contextualData": {
+        "batter": 543333,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "68536c1f-b575-4a7d-806b-e37f69b7644c",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:43:10Z",
+      "contextualData": {
+        "batter": 519208,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "05737933-5dc9-43c2-aef9-5e7fb41de239",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:44:17Z",
+      "contextualData": {
+        "batter": 519058,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "20bca94b-cdab-43ca-a742-55d71a59cc3e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:45:34Z",
+      "contextualData": {
+        "batter": 518953,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "7e81e7c6-a4ce-4ed6-b9bb-3f7cb5f0e434",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:47:55Z",
+      "contextualData": {
+        "batter": 521692,
+        "pitcher": 279824
+      }
+    },
+    {
+      "id": "0f625379-6d12-4d68-9e07-398dd8218f14",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T20:50:45Z",
+      "contextualData": {
+        "batter": 452121,
+        "pitcher": 460024
+      }
+    },
+    {
+      "id": "a764ae0c-7fab-4d87-8d3f-66b61f2551f9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T20:53:00Z",
+      "contextualData": {
+        "batter": 334393,
+        "pitcher": 460024
+      }
+    },
+    {
+      "id": "30c36ba9-dd40-493d-984a-fdd629a789ed",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T20:54:03Z",
+      "contextualData": {
+        "batter": 493351,
+        "pitcher": 460024
+      }
+    },
+    {
+      "id": "f6bdbfbd-cfe1-487c-8b36-fdf332636c14",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:55:08Z",
+      "contextualData": {
+        "player": 430884
+      }
+    },
+    {
+      "id": "1efdcfab-f58c-4b8a-aaac-a569afb7d852",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:58:17Z",
+      "contextualData": {
+        "batter": 453368,
+        "pitcher": 430884
+      }
+    },
+    {
+      "id": "5e20ba9f-6055-49fa-9bba-345ec5c0f087",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:58:19Z",
+      "contextualData": {
+        "batter": 453368,
+        "pitcher": 430884
+      }
+    },
+    {
+      "id": "56920fe4-2632-42f4-84bb-d67746ad07ec",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Foul",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:58:20Z",
+      "contextualData": {
+        "batter": 453368,
+        "pitcher": 430884
+      }
+    },
+    {
+      "id": "a7540be7-3139-48ac-92a4-d78424092e5e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T20:58:23Z",
+      "contextualData": {
+        "batter": 453368,
+        "pitcher": 430884
+      }
+    },
+    {
+      "id": "1013e24f-a9d1-40ba-9173-c8762ef2310d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:00:57Z",
+      "contextualData": {
+        "batter": 453923,
+        "pitcher": 430884
+      }
+    },
+    {
+      "id": "9a0ebd01-0ba9-4a71-8bc7-40481a9a971f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:00:57Z",
+      "contextualData": {
+        "batter": 453923,
+        "pitcher": 430884
+      }
+    },
+    {
+      "id": "43df89bd-e4ae-4075-989e-6d9f3f9421ca",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:00:58Z",
+      "contextualData": {
+        "batter": 453923,
+        "pitcher": 430884
+      }
+    },
+    {
+      "id": "418097ff-ef55-4305-a0f2-c076124e62ed",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:01:54Z",
+      "contextualData": {
+        "batter": 456715,
+        "pitcher": 430884
+      }
+    },
+    {
+      "id": "1af89a56-766f-4253-ac89-4bc81b707f49",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:03:22Z",
+      "contextualData": {
+        "batter": 449107,
+        "pitcher": 430884
+      }
+    },
+    {
+      "id": "7cf0f514-dbbc-4a0f-88bf-2d629bebffc8",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:04:45Z",
+      "contextualData": {
+        "batter": 543333,
+        "pitcher": 430884
+      }
+    },
+    {
+      "id": "44e6877e-70ca-4653-9bd7-7843bdf2b88d",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Stolen Base 2B",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:04:48Z",
+      "contextualData": {
+        "player": 449107
+      }
+    },
+    {
+      "id": "8c45d2b1-3d0a-4342-b90c-1e0ec1a3aafb",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:05:01Z",
+      "contextualData": {
+        "batter": 543333,
+        "pitcher": 430884
+      }
+    },
+    {
+      "id": "5edd94f1-4f8f-432d-a5a9-8c5c32e76b61",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:06:10Z",
+      "contextualData": {
+        "player": 543557
+      }
+    },
+    {
+      "id": "eb2a3748-2167-4a07-ac8e-22f57d95c529",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:08:34Z",
+      "contextualData": {
+        "batter": 276055,
+        "pitcher": 543557
+      }
+    },
+    {
+      "id": "21cada19-16d0-4235-a049-39bce9e68493",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:09:45Z",
+      "contextualData": {
+        "batter": 150229,
+        "pitcher": 543557
+      }
+    },
+    {
+      "id": "a2d89a62-2503-4b19-9e4a-6c04560178e2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:11:03Z",
+      "contextualData": {
+        "batter": 451186,
+        "pitcher": 543557
+      }
+    },
+    {
+      "id": "0edba8b3-6d30-4d00-bb99-0401ce3d7eea",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:11:04Z",
+      "contextualData": {
+        "batter": 451186,
+        "pitcher": 543557
+      }
+    },
+    {
+      "id": "409ee409-08c6-4db3-af20-7f6750613934",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:11:05Z",
+      "contextualData": {
+        "batter": 451186,
+        "pitcher": 543557
+      }
+    },
+    {
+      "id": "f553b85b-c876-453a-b562-5ab8b554cb29",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:11:07Z",
+      "contextualData": {
+        "batter": 451186,
+        "pitcher": 543557
+      }
+    },
+    {
+      "id": "b34a0823-37d0-45a8-9f00-d861975eadbd",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:13:48Z",
+      "contextualData": {
+        "batter": 543569,
+        "pitcher": 543557
+      }
+    },
+    {
+      "id": "a28b6f6f-2173-4d37-b18b-a5ac4d59a9ef",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:14:59Z",
+      "contextualData": {
+        "player": 349193
+      }
+    },
+    {
+      "id": "a97ef448-1e31-45af-b98e-7a2483b02c2e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:17:47Z",
+      "contextualData": {
+        "batter": 519208,
+        "pitcher": 349193
+      }
+    },
+    {
+      "id": "e84b857a-0831-4267-9393-e4df9d7985b3",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:18:36Z",
+      "contextualData": {
+        "batter": 519058,
+        "pitcher": 349193
+      }
+    },
+    {
+      "id": "6528b8e4-1dc9-4ef5-b56d-07db7c25f57c",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:19:48Z",
+      "contextualData": {
+        "batter": 518953,
+        "pitcher": 349193
+      }
+    },
+    {
+      "id": "5a713527-5412-4ee7-8308-7941f89e9501",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:23:06Z",
+      "contextualData": {
+        "batter": 452095,
+        "pitcher": 543557
+      }
+    },
+    {
+      "id": "27a6e3fb-a736-49fd-9ed5-521c10020ec1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:23:31Z",
+      "contextualData": {
+        "batter": 458668,
+        "pitcher": 543557
+      }
+    },
+    {
+      "id": "38502cc2-ae5c-4442-b79d-0445d823be34",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:24:34Z",
+      "contextualData": {
+        "batter": 452121,
+        "pitcher": 543557
+      }
+    },
+    {
+      "id": "4f3665d0-007c-4c9c-98f3-a47221ee7b17",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:25:41Z",
+      "contextualData": {
+        "batter": 334393,
+        "pitcher": 543557
+      }
+    },
+    {
+      "id": "0b1ed9b2-e178-46ac-912b-e08428039025",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:26:50Z",
+      "contextualData": {
+        "batter": 493351,
+        "pitcher": 543557
+      }
+    },
+    {
+      "id": "3d731066-9eac-47b9-ad80-849fc211896f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:26:50Z",
+      "contextualData": {
+        "batter": 493351,
+        "pitcher": 543557
+      }
+    },
+    {
+      "id": "10202fc2-09ec-4a22-b8c7-3a27c1d2b7f8",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:26:52Z",
+      "contextualData": {
+        "batter": 493351,
+        "pitcher": 543557
+      }
+    },
+    {
+      "id": "95ebb3e1-fddd-4994-9ca1-c6c9fe9d5a35",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:28:03Z",
+      "contextualData": {
+        "player": 430963
+      }
+    },
+    {
+      "id": "7892b853-4592-4202-9c76-0a7441c17de0",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:29:48Z",
+      "contextualData": {
+        "player": 444919
+      }
+    },
+    {
+      "id": "e2e9a9f7-7a31-4194-8347-05997ba61605",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:30:55Z",
+      "contextualData": {
+        "batter": 521692,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "3309ac6e-d685-4e50-b90a-cdbdbeebf1a4",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:32:17Z",
+      "contextualData": {
+        "batter": 453368,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "c6067dc6-cea9-4ded-94aa-ff890ad326cf",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive sub",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:32:36Z",
+      "contextualData": {
+        "player": 502481
+      }
+    },
+    {
+      "id": "79648aec-4715-42aa-a270-357f5217d36d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:34:17Z",
+      "contextualData": {
+        "batter": 502481,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "8906ac35-fba7-47d7-a47c-0ba88a0753db",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive sub",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:34:48Z",
+      "contextualData": {
+        "player": 430574
+      }
+    },
+    {
+      "id": "8916b0b5-6ccb-4949-b524-bb6eeee42d6a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:35:18Z",
+      "contextualData": {
+        "batter": 430574,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "3767379b-3906-4d6e-80cb-6d2df2ffff83",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:35:19Z",
+      "contextualData": {
+        "batter": 430574,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "86edaee5-7e04-4d6e-9023-d0c396d033f4",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:35:20Z",
+      "contextualData": {
+        "batter": 430574,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "b58b7e31-76c0-4239-8263-ee1b67fdfc8a",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive sub",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:35:50Z",
+      "contextualData": {
+        "player": 543213
+      }
+    },
+    {
+      "id": "ddb5157b-9edf-4a0c-97a8-cea6e7ec0591",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:38:43Z",
+      "contextualData": {
+        "batter": 543213,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "1872e2d1-56d2-40d3-9080-c9d397d33314",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:38:44Z",
+      "contextualData": {
+        "batter": 543213,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "097df22c-c2cf-4f77-8555-a8ea9a563130",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:38:44Z",
+      "contextualData": {
+        "batter": 543213,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "57b80973-acab-41a8-8a97-4a7207d857da",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:38:45Z",
+      "contextualData": {
+        "batter": 543213,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "fe856112-b15d-49b0-b8b7-10b7c72aedc0",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive sub",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:39:13Z",
+      "contextualData": {
+        "player": 451500
+      }
+    },
+    {
+      "id": "f815e1c7-7ef8-4327-8e65-bd1a5e61ce18",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:40:33Z",
+      "contextualData": {
+        "batter": 451500,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "a8ff74c8-d6b9-490e-9e08-2857ec059b75",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:43:38Z",
+      "contextualData": {
+        "player": 488703
+      }
+    },
+    {
+      "id": "e73d23af-0c65-443e-ae0a-7e1097f8cf47",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:43:38Z",
+      "contextualData": {
+        "player": 451500
+      }
+    },
+    {
+      "id": "f7e79111-2ba2-4328-ade2-f5c738354705",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:43:38Z",
+      "contextualData": {
+        "player": 150268
+      }
+    },
+    {
+      "id": "c3c269d1-a9b1-4142-8da8-e25e79841e8b",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:43:38Z",
+      "contextualData": {
+        "player": 448276
+      }
+    },
+    {
+      "id": "ce9bb2c2-f890-48f8-a901-a4594425111d",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:43:38Z",
+      "contextualData": {
+        "player": 460612
+      }
+    },
+    {
+      "id": "078fd405-ed37-4d61-bd65-76c7d85d25df",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:43:38Z",
+      "contextualData": {
+        "player": 543213
+      }
+    },
+    {
+      "id": "e98908bf-124a-465e-8430-d7dadd4cd4c2",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:43:38Z",
+      "contextualData": {
+        "player": 518813
+      }
+    },
+    {
+      "id": "09bd388c-2369-41e2-9a06-69820e710a93",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:43:38Z",
+      "contextualData": {
+        "player": 502481
+      }
+    },
+    {
+      "id": "8de05484-2ac2-4121-ab39-8d71a76a4b7d",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:43:38Z",
+      "contextualData": {
+        "player": 430574
+      }
+    },
+    {
+      "id": "9e129f15-2d6a-49a4-af44-1b43aca714de",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:43:51Z",
+      "contextualData": {
+        "batter": 276055,
+        "pitcher": 518813
+      }
+    },
+    {
+      "id": "3fb63615-d051-4f75-babb-5d68a70c4bf9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:45:24Z",
+      "contextualData": {
+        "batter": 150229,
+        "pitcher": 518813
+      }
+    },
+    {
+      "id": "b76752e4-77a1-4a44-96c2-f84c45ecd199",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:47:08Z",
+      "contextualData": {
+        "batter": 451186,
+        "pitcher": 518813
+      }
+    },
+    {
+      "id": "b239588a-d481-49f7-8649-f02b3905f934",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:47:09Z",
+      "contextualData": {
+        "batter": 451186,
+        "pitcher": 518813
+      }
+    },
+    {
+      "id": "1895e2c2-290f-4528-aecb-58de5d67a645",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:47:09Z",
+      "contextualData": {
+        "batter": 451186,
+        "pitcher": 518813
+      }
+    },
+    {
+      "id": "7bbd461e-530e-47a1-95d9-d3e52f8b8fe3",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:47:10Z",
+      "contextualData": {
+        "batter": 451186,
+        "pitcher": 518813
+      }
+    },
+    {
+      "id": "7f93939d-23ef-4472-a69f-80b0fe207c43",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:49:03Z",
+      "contextualData": {
+        "batter": 543569,
+        "pitcher": 518813
+      }
+    },
+    {
+      "id": "e769272f-3f80-4493-8c55-54f77a1e2f97",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:49:04Z",
+      "contextualData": {
+        "batter": 543569,
+        "pitcher": 518813
+      }
+    },
+    {
+      "id": "bcd3f399-9978-482d-9109-5e19c441fc59",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:49:05Z",
+      "contextualData": {
+        "batter": 543569,
+        "pitcher": 518813
+      }
+    },
+    {
+      "id": "27f1190a-86f0-4ec5-9594-ea34f98c142e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:51:46Z",
+      "contextualData": {
+        "batter": 444919,
+        "pitcher": 518813
+      }
+    },
+    {
+      "id": "335e244e-5db6-41d4-9c7c-30f12a0d9942",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:51:47Z",
+      "contextualData": {
+        "batter": 444919,
+        "pitcher": 518813
+      }
+    },
+    {
+      "id": "0adbca14-706a-4984-ad29-ce86ed034864",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T21:51:48Z",
+      "contextualData": {
+        "batter": 444919,
+        "pitcher": 518813
+      }
+    },
+    {
+      "id": "0cc8acb6-1802-4d24-a603-2188445152c9",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:53:29Z",
+      "contextualData": {
+        "player": 500871
+      }
+    },
+    {
+      "id": "28ff68c8-b071-4b9b-b17b-921ba81a88a7",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:53:29Z",
+      "contextualData": {
+        "player": 425774
+      }
+    },
+    {
+      "id": "9d33479e-ac64-4d14-85f3-02fdfd6162fe",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:55:43Z",
+      "contextualData": {
+        "batter": 519208,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "9b25ebec-ebda-4933-8382-fb46c5e70959",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:55:44Z",
+      "contextualData": {
+        "batter": 519208,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "b2373e99-b558-4505-ba2f-8d9261aac536",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:55:44Z",
+      "contextualData": {
+        "batter": 519208,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "237e6ace-6698-442c-adc3-5df6173c26ae",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:55:54Z",
+      "contextualData": {
+        "batter": 150268,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "1f0c6f38-95ec-4bd6-8f5d-fb1bf728e00a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:57:32Z",
+      "contextualData": {
+        "batter": 448276,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "a86665f2-888c-4f42-be24-c0387f04a418",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:58:54Z",
+      "contextualData": {
+        "batter": 460612,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "b208dfa2-c49a-4245-8662-88be0bdde01b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T21:59:57Z",
+      "contextualData": {
+        "batter": 488703,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "b26e69ce-da64-408a-9577-d6cdb29b09ac",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T22:00:44Z",
+      "contextualData": {
+        "batter": 502481,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "bf378fb3-198f-4789-a92f-9ec0c3101c7e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T22:01:17Z",
+      "contextualData": {
+        "batter": 430574,
+        "pitcher": 430963
+      }
+    },
+    {
+      "id": "e3fccafb-3cdb-40a6-814b-dce3422c7c86",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:02:35Z",
+      "contextualData": {
+        "player": 502028
+      }
+    },
+    {
+      "id": "41254ac2-a789-4740-aa44-344ce6494703",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:05:32Z",
+      "contextualData": {
+        "batter": 458668,
+        "pitcher": 502028
+      }
+    },
+    {
+      "id": "64198cfd-1ae4-4727-81aa-24e277a982de",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:08:02Z",
+      "contextualData": {
+        "batter": 452121,
+        "pitcher": 502028
+      }
+    },
+    {
+      "id": "7f87d8d2-b6f7-44b8-83db-81dd2e3444e6",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:10:01Z",
+      "contextualData": {
+        "batter": 334393,
+        "pitcher": 502028
+      }
+    },
+    {
+      "id": "7892dff0-67da-4909-9a68-d50835274c42",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:10:55Z",
+      "contextualData": {
+        "batter": 500871,
+        "pitcher": 502028
+      }
+    },
+    {
+      "id": "d8b6c440-b2c4-4328-91ad-90bf1b11bc94",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:12:11Z",
+      "contextualData": {
+        "batter": 425774,
+        "pitcher": 502028
+      }
+    },
+    {
+      "id": "46324b66-3eec-4983-a6bc-cfff62ddca32",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Wild Pitch",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:12:17Z",
+      "contextualData": {
+        "player": 452121
+      }
+    },
+    {
+      "id": "3d860203-409f-4468-bb94-dd4886b99718",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:13:23Z",
+      "contextualData": {
+        "batter": 425774,
+        "pitcher": 502028
+      }
+    },
+    {
+      "id": "dd6de705-b274-4e7d-a922-93d168db1107",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:13:24Z",
+      "contextualData": {
+        "batter": 425774,
+        "pitcher": 502028
+      }
+    },
+    {
+      "id": "3177c679-05db-45d1-a89f-b8a226f0b839",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:13:26Z",
+      "contextualData": {
+        "batter": 425774,
+        "pitcher": 502028
+      }
+    },
+    {
+      "id": "4ee48a8b-67f8-4b62-a589-e9fe867b4ed2",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T22:14:44Z",
+      "contextualData": {
+        "player": 462522
+      }
+    },
+    {
+      "id": "31ac95e1-8543-4bc7-9bdb-6b9efe6f64d2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T22:17:48Z",
+      "contextualData": {
+        "batter": 543213,
+        "pitcher": 462522
+      }
+    },
+    {
+      "id": "ecf8e6de-1d40-452d-b72f-48cb031f8cf7",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T22:17:50Z",
+      "contextualData": {
+        "batter": 543213,
+        "pitcher": 462522
+      }
+    },
+    {
+      "id": "c143438c-82bd-4ad7-ba89-b268ff01b6a7",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T22:17:51Z",
+      "contextualData": {
+        "batter": 543213,
+        "pitcher": 462522
+      }
+    },
+    {
+      "id": "dbc43bdb-0b2a-4156-b251-a39868004510",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T22:18:14Z",
+      "contextualData": {
+        "batter": 451500,
+        "pitcher": 462522
+      }
+    },
+    {
+      "id": "58433a9c-4ab4-4ce3-8a13-d4f6c16514d7",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T22:19:03Z",
+      "contextualData": {
+        "batter": 519208,
+        "pitcher": 462522
+      }
+    },
+    {
+      "id": "e1aae0e8-d758-40b9-8b7f-4166bb62147b",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:20:05Z",
+      "contextualData": {
+        "player": 543070
+      }
+    },
+    {
+      "id": "c9be54bc-f39d-4a32-b3df-0f64a18dd15d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:23:11Z",
+      "contextualData": {
+        "batter": 150229,
+        "pitcher": 543070
+      }
+    },
+    {
+      "id": "d3ba705b-1929-41f9-b567-5d578a43f0de",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:23:13Z",
+      "contextualData": {
+        "batter": 150229,
+        "pitcher": 543070
+      }
+    },
+    {
+      "id": "41277fa6-fb10-4347-921e-f52e450591ee",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:23:15Z",
+      "contextualData": {
+        "batter": 150229,
+        "pitcher": 543070
+      }
+    },
+    {
+      "id": "4b587635-08b6-4a98-9cb0-0e4712c5fe11",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:24:16Z",
+      "contextualData": {
+        "batter": 451186,
+        "pitcher": 543070
+      }
+    },
+    {
+      "id": "8d96b9dd-b5d5-49ac-923f-0662b9ff96ac",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:25:11Z",
+      "contextualData": {
+        "batter": 543569,
+        "pitcher": 543070
+      }
+    },
+    {
+      "id": "988d52b5-3375-41f3-ae0f-f9d3aee9f94c",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T22:26:37Z",
+      "contextualData": {
+        "player": 469834
+      }
+    },
+    {
+      "id": "52d33882-7edf-445c-8475-196301e15fe9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T22:29:25Z",
+      "contextualData": {
+        "batter": 150268,
+        "pitcher": 469834
+      }
+    },
+    {
+      "id": "ba609ac4-0fa5-475a-8276-a8f0f4147a0e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T22:29:26Z",
+      "contextualData": {
+        "batter": 150268,
+        "pitcher": 469834
+      }
+    },
+    {
+      "id": "dc2b3a30-af95-4170-9073-199e0b0eb769",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T22:29:28Z",
+      "contextualData": {
+        "batter": 150268,
+        "pitcher": 469834
+      }
+    },
+    {
+      "id": "30032371-1146-4c7a-925f-208efcffa0b1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T22:30:09Z",
+      "contextualData": {
+        "batter": 448276,
+        "pitcher": 469834
+      }
+    },
+    {
+      "id": "f2c1ee3e-9e05-4b20-afd5-2c305d84afa0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2011-03-06T22:31:18Z",
+      "contextualData": {
+        "batter": 460612,
+        "pitcher": 469834
+      }
+    },
+    {
+      "id": "983797ff-464e-41dd-9de5-4180d3c56a1d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 9,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:33:45Z",
+      "contextualData": {
+        "batter": 444919,
+        "pitcher": 543070
+      }
+    },
+    {
+      "id": "0836f6cb-509e-407b-992f-c4efc11deee8",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 9,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:34:20Z",
+      "contextualData": {
+        "batter": 458668,
+        "pitcher": 543070
+      }
+    },
+    {
+      "id": "5685e2ec-b37e-4049-914f-1a8518b82158",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 9,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:38:24Z",
+      "contextualData": {
+        "batter": 452121,
+        "pitcher": 543070
+      }
+    },
+    {
+      "id": "4d887534-65f2-41b0-b8bb-e7550d61385f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 9,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:38:26Z",
+      "contextualData": {
+        "batter": 452121,
+        "pitcher": 543070
+      }
+    },
+    {
+      "id": "96346d05-23fc-4461-954d-71392b700ba2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 9,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:38:27Z",
+      "contextualData": {
+        "batter": 452121,
+        "pitcher": 543070
+      }
+    },
+    {
+      "id": "4e39947f-68e4-4c28-aa21-fd3de8d80dc5",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 9,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:39:16Z",
+      "contextualData": {
+        "batter": 334393,
+        "pitcher": 543070
+      }
+    },
+    {
+      "id": "71b091e5-76e6-400f-836d-9b433fbee3d2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 9,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:41:13Z",
+      "contextualData": {
+        "batter": 500871,
+        "pitcher": 543070
+      }
+    },
+    {
+      "id": "5b88edff-05ee-498d-bad6-2f30d2fe67a2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "cha",
+      "awayTeam": "kca",
+      "inningNumber": 9,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2011-03-06T22:41:51Z",
+      "contextualData": {
+        "batter": 425774,
+        "pitcher": 543070
+      }
+    }
+  ]
+}

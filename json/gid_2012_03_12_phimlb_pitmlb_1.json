@@ -1,0 +1,5193 @@
+{
+  "origial": {
+    "game": {
+      "atBat": 501605,
+      "deck": 431171,
+      "hole": 518755,
+      "ind": "F",
+      "inning": [
+        {
+          "num": 1,
+          "away_team": "phi",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 1,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 130748,
+                "start_tfs_zulu": "2012-03-12T17:07:48Z",
+                "batter": 276519,
+                "stand": "L",
+                "b_height": "5-8",
+                "pitcher": 450203,
+                "p_throws": "R",
+                "des": "Jimmy Rollins grounds out, first baseman Casey McGehee to pitcher Charlie Morton.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 3,
+                  "type": "X",
+                  "tfs": 130758,
+                  "tfs_zulu": "2012-03-12T17:07:58Z",
+                  "x": 109.01,
+                  "y": 140.74,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 2,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 130808,
+                "start_tfs_zulu": "2012-03-12T17:08:08Z",
+                "batter": 334393,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 450203,
+                "p_throws": "R",
+                "des": "Juan Pierre singles on a ground ball to second baseman Neil Walker.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 7,
+                  "type": "X",
+                  "tfs": 130917,
+                  "tfs_zulu": "2012-03-12T17:09:17Z",
+                  "x": 117.6,
+                  "y": 130.38,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 334393,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 3,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 131045,
+                "start_tfs_zulu": "2012-03-12T17:10:45Z",
+                "batter": 425664,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 450203,
+                "p_throws": "R",
+                "des": "Shane Victorino singles on a line drive to center fielder Andrew McCutchen.    Juan Pierre to 2nd.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 11,
+                  "type": "X",
+                  "tfs": 131047,
+                  "tfs_zulu": "2012-03-12T17:10:47Z",
+                  "x": 104.72,
+                  "y": 119.16,
+                  "on_1b": 334393,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 334393,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 425664,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 4,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 131054,
+                "start_tfs_zulu": "2012-03-12T17:10:54Z",
+                "batter": 425556,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 450203,
+                "p_throws": "R",
+                "des": "Laynce Nix strikes out swinging.",
+                "event": "Strikeout",
+                "po": {
+                  "des": "Pickoff Attempt 2B"
+                },
+                "runner": [
+                  {
+                    "id": 334393,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Picked off stealing 3B"
+                  },
+                  {
+                    "id": 425664,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Strikeout"
+                  }
+                ],
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 20,
+                    "type": "S",
+                    "tfs": 131539,
+                    "tfs_zulu": "2012-03-12T17:15:39Z",
+                    "x": 69.53,
+                    "y": 141.61,
+                    "on_1b": 425664,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 21,
+                    "type": "S",
+                    "tfs": 131540,
+                    "tfs_zulu": "2012-03-12T17:15:40Z",
+                    "x": 67.81,
+                    "y": 127.79,
+                    "on_1b": 425664,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 22,
+                    "type": "S",
+                    "tfs": 131541,
+                    "tfs_zulu": "2012-03-12T17:15:41Z",
+                    "x": 67.81,
+                    "y": 127.79,
+                    "on_1b": 425664,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              }
+            ],
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 2,
+              "des": "With Laynce Nix batting, Juan Pierre picked off and caught stealing 3rd base, pitcher Charlie Morton to shortstop Clint Barmes to third baseman Pedro Alvarez.",
+              "event": "Picked off stealing 3B",
+              "tfs": 131535,
+              "tfs_zulu": "2012-03-12T17:15:35Z",
+              "player": 334393,
+              "pitch": 0
+            }
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 5,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 131853,
+                "start_tfs_zulu": "2012-03-12T17:18:53Z",
+                "batter": 502100,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 474699,
+                "p_throws": "R",
+                "des": "Alex Presley called out on strikes.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Called Strike",
+                    "id": 28,
+                    "type": "S",
+                    "tfs": 131856,
+                    "tfs_zulu": "2012-03-12T17:18:56Z",
+                    "x": 103,
+                    "y": 119.16,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 29,
+                    "type": "S",
+                    "tfs": 131857,
+                    "tfs_zulu": "2012-03-12T17:18:57Z",
+                    "x": 80.69,
+                    "y": 119.16,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 30,
+                    "type": "S",
+                    "tfs": 131859,
+                    "tfs_zulu": "2012-03-12T17:18:59Z",
+                    "x": 91.85,
+                    "y": 119.16,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 6,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 132037,
+                "start_tfs_zulu": "2012-03-12T17:20:37Z",
+                "batter": 434661,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 474699,
+                "p_throws": "R",
+                "des": "Nate McLouth strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 34,
+                    "type": "S",
+                    "tfs": 132039,
+                    "tfs_zulu": "2012-03-12T17:20:39Z",
+                    "x": 115.02,
+                    "y": 113.98,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 35,
+                    "type": "S",
+                    "tfs": 132040,
+                    "tfs_zulu": "2012-03-12T17:20:40Z",
+                    "x": 103,
+                    "y": 120.88,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 36,
+                    "type": "S",
+                    "tfs": 132041,
+                    "tfs_zulu": "2012-03-12T17:20:41Z",
+                    "x": 103,
+                    "y": 120.88,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 7,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 132148,
+                "start_tfs_zulu": "2012-03-12T17:21:48Z",
+                "batter": 457705,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 474699,
+                "p_throws": "R",
+                "des": "Andrew McCutchen grounds out, third baseman Pete Orr to first baseman Laynce Nix.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 40,
+                  "type": "X",
+                  "tfs": 132150,
+                  "tfs_zulu": "2012-03-12T17:21:50Z",
+                  "x": 99.57,
+                  "y": 126.06,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 2,
+          "away_team": "phi",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 8,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 132403,
+                "start_tfs_zulu": "2012-03-12T17:24:03Z",
+                "batter": 434563,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 450203,
+                "p_throws": "R",
+                "des": "Carlos Ruiz singles on a line drive to left fielder Alex Presley.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 45,
+                  "type": "X",
+                  "tfs": 132411,
+                  "tfs_zulu": "2012-03-12T17:24:11Z",
+                  "x": 90.99,
+                  "y": 139.88,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 434563,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 9,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 132514,
+                "start_tfs_zulu": "2012-03-12T17:25:14Z",
+                "batter": 325392,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 450203,
+                "p_throws": "R",
+                "des": "Scott Podsednik singles on a ground ball to right fielder Nate McLouth.    Carlos Ruiz to 2nd.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 49,
+                  "type": "X",
+                  "tfs": 132521,
+                  "tfs_zulu": "2012-03-12T17:25:21Z",
+                  "x": 100.43,
+                  "y": 132.11,
+                  "on_1b": 434563,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 434563,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Single"
+                  },
+                  {
+                    "id": 325392,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 10,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 132626,
+                "start_tfs_zulu": "2012-03-12T17:26:26Z",
+                "batter": 502265,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 450203,
+                "p_throws": "R",
+                "des": "Tyson Gillies out on a sacrifice bunt, third baseman Pedro Alvarez to second baseman Neil Walker.    Carlos Ruiz to 3rd.    Scott Podsednik to 2nd.",
+                "event": "Sac Bunt",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 54,
+                  "type": "X",
+                  "tfs": 132627,
+                  "tfs_zulu": "2012-03-12T17:26:27Z",
+                  "x": 120.17,
+                  "y": 138.15,
+                  "on_1b": 325392,
+                  "on_2b": 434563,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 325392,
+                    "start": "1B",
+                    "end": "2B",
+                    "event": "Sac Bunt"
+                  },
+                  {
+                    "id": 434563,
+                    "start": "2B",
+                    "end": "3B",
+                    "event": "Sac Bunt"
+                  }
+                ]
+              },
+              {
+                "num": 11,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 132839,
+                "start_tfs_zulu": "2012-03-12T17:28:39Z",
+                "batter": 434681,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 450203,
+                "p_throws": "R",
+                "des": "Pete Orr strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 60,
+                    "type": "S",
+                    "tfs": 132842,
+                    "tfs_zulu": "2012-03-12T17:28:42Z",
+                    "x": 117.6,
+                    "y": 125.2,
+                    "on_2b": 325392,
+                    "on_3b": 434563,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 61,
+                    "type": "S",
+                    "tfs": 132843,
+                    "tfs_zulu": "2012-03-12T17:28:43Z",
+                    "x": 103.86,
+                    "y": 126.06,
+                    "on_2b": 325392,
+                    "on_3b": 434563,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 62,
+                    "type": "S",
+                    "tfs": 132844,
+                    "tfs_zulu": "2012-03-12T17:28:44Z",
+                    "x": 103.86,
+                    "y": 126.06,
+                    "on_2b": 325392,
+                    "on_3b": 434563,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 12,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 133004,
+                "start_tfs_zulu": "2012-03-12T17:30:04Z",
+                "batter": 492841,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 450203,
+                "p_throws": "R",
+                "des": "Michael Martinez grounds out, shortstop Clint Barmes to first baseman Casey McGehee.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 66,
+                  "type": "X",
+                  "tfs": 133005,
+                  "tfs_zulu": "2012-03-12T17:30:05Z",
+                  "x": 92.7,
+                  "y": 150.24,
+                  "on_2b": 325392,
+                  "on_3b": 434563,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 325392,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Groundout"
+                  },
+                  {
+                    "id": 434563,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Groundout"
+                  }
+                ]
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 13,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 133504,
+                "start_tfs_zulu": "2012-03-12T17:35:04Z",
+                "batter": 435522,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 474699,
+                "p_throws": "R",
+                "des": "Neil Walker strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 72,
+                    "type": "S",
+                    "tfs": 133507,
+                    "tfs_zulu": "2012-03-12T17:35:07Z",
+                    "x": 96.14,
+                    "y": 126.93,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 73,
+                    "type": "S",
+                    "tfs": 133508,
+                    "tfs_zulu": "2012-03-12T17:35:08Z",
+                    "x": 106.44,
+                    "y": 110.52,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 74,
+                    "type": "S",
+                    "tfs": 133509,
+                    "tfs_zulu": "2012-03-12T17:35:09Z",
+                    "x": 107.3,
+                    "y": 119.16,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 14,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 133535,
+                "start_tfs_zulu": "2012-03-12T17:35:35Z",
+                "batter": 431171,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 474699,
+                "p_throws": "R",
+                "des": "Casey McGehee pops out to second baseman Michael Martinez.",
+                "event": "Pop Out",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 78,
+                  "type": "X",
+                  "tfs": 133537,
+                  "tfs_zulu": "2012-03-12T17:35:37Z",
+                  "x": 97,
+                  "y": 124.34,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 15,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 133821,
+                "start_tfs_zulu": "2012-03-12T17:38:21Z",
+                "batter": 434540,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 474699,
+                "p_throws": "R",
+                "des": "Garrett Jones strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 82,
+                    "type": "S",
+                    "tfs": 133827,
+                    "tfs_zulu": "2012-03-12T17:38:27Z",
+                    "x": 120.17,
+                    "y": 130.38,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 83,
+                    "type": "S",
+                    "tfs": 133828,
+                    "tfs_zulu": "2012-03-12T17:38:28Z",
+                    "x": 97.85,
+                    "y": 127.79,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 84,
+                    "type": "S",
+                    "tfs": 133828,
+                    "tfs_zulu": "2012-03-12T17:38:28Z",
+                    "x": 97.85,
+                    "y": 127.79,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "num": 3,
+          "away_team": "phi",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitcher Change: Chris Resop replaces Charlie Morton.",
+              "event": "Pitching Substitution",
+              "tfs": 133848,
+              "tfs_zulu": "2012-03-12T17:38:48Z",
+              "player": 434592,
+              "pitch": 3
+            },
+            "atbat": [
+              {
+                "num": 16,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 134136,
+                "start_tfs_zulu": "2012-03-12T17:41:36Z",
+                "batter": 276519,
+                "stand": "L",
+                "b_height": "5-8",
+                "pitcher": 434592,
+                "p_throws": "R",
+                "des": "Jimmy Rollins strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 91,
+                    "type": "S",
+                    "tfs": 134137,
+                    "tfs_zulu": "2012-03-12T17:41:37Z",
+                    "x": 126.18,
+                    "y": 116.57,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 92,
+                    "type": "S",
+                    "tfs": 134139,
+                    "tfs_zulu": "2012-03-12T17:41:39Z",
+                    "x": 109.01,
+                    "y": 122.61,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 93,
+                    "type": "S",
+                    "tfs": 134140,
+                    "tfs_zulu": "2012-03-12T17:41:40Z",
+                    "x": 94.42,
+                    "y": 126.93,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 17,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 134217,
+                "start_tfs_zulu": "2012-03-12T17:42:17Z",
+                "batter": 334393,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 434592,
+                "p_throws": "R",
+                "des": "Juan Pierre grounds out to first baseman Casey McGehee.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 97,
+                  "type": "X",
+                  "tfs": 134234,
+                  "tfs_zulu": "2012-03-12T17:42:34Z",
+                  "x": 94.42,
+                  "y": 129.52,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 18,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 134251,
+                "start_tfs_zulu": "2012-03-12T17:42:51Z",
+                "batter": 425664,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 434592,
+                "p_throws": "R",
+                "des": "Shane Victorino flies out to left fielder Alex Presley.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 101,
+                  "type": "X",
+                  "tfs": 134334,
+                  "tfs_zulu": "2012-03-12T17:43:34Z",
+                  "x": 100.43,
+                  "y": 117.43,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Defensive Substitution:  Hector Luna replaces first baseman Laynce Nix, batting 4th, playing first base.",
+              "event": "Defensive Sub",
+              "tfs": 134734,
+              "tfs_zulu": "2012-03-12T17:47:34Z",
+              "player": 425659,
+              "pitch": 1
+            },
+            "atbat": [
+              {
+                "num": 19,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 134739,
+                "start_tfs_zulu": "2012-03-12T17:47:39Z",
+                "batter": 476883,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 474699,
+                "p_throws": "R",
+                "des": "Pedro Alvarez called out on strikes.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Called Strike",
+                    "id": 108,
+                    "type": "S",
+                    "tfs": 134741,
+                    "tfs_zulu": "2012-03-12T17:47:41Z",
+                    "x": 84.12,
+                    "y": 141.61,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 109,
+                    "type": "S",
+                    "tfs": 134743,
+                    "tfs_zulu": "2012-03-12T17:47:43Z",
+                    "x": 84.12,
+                    "y": 145.06,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 110,
+                    "type": "S",
+                    "tfs": 134744,
+                    "tfs_zulu": "2012-03-12T17:47:44Z",
+                    "x": 79.83,
+                    "y": 141.61,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 20,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 134856,
+                "start_tfs_zulu": "2012-03-12T17:48:56Z",
+                "batter": 425549,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 474699,
+                "p_throws": "R",
+                "des": "Clint Barmes called out on strikes.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Called Strike",
+                    "id": 114,
+                    "type": "S",
+                    "tfs": 134906,
+                    "tfs_zulu": "2012-03-12T17:49:06Z",
+                    "x": 88.41,
+                    "y": 135.56,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 115,
+                    "type": "S",
+                    "tfs": 134907,
+                    "tfs_zulu": "2012-03-12T17:49:07Z",
+                    "x": 78.97,
+                    "y": 120.02,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 116,
+                    "type": "S",
+                    "tfs": 134909,
+                    "tfs_zulu": "2012-03-12T17:49:09Z",
+                    "x": 79.83,
+                    "y": 120.02,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 21,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 135134,
+                "start_tfs_zulu": "2012-03-12T17:51:34Z",
+                "batter": 518700,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 474699,
+                "p_throws": "R",
+                "des": "Eric Fryer grounds out, second baseman Michael Martinez to first baseman Hector Luna.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 120,
+                  "type": "X",
+                  "tfs": 135136,
+                  "tfs_zulu": "2012-03-12T17:51:36Z",
+                  "x": 95.28,
+                  "y": 135.56,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 4,
+          "away_team": "phi",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "atbat": [
+              {
+                "num": 22,
+                "b": 3,
+                "s": 1,
+                "o": 0,
+                "start_tfs": 135521,
+                "start_tfs_zulu": "2012-03-12T17:55:21Z",
+                "batter": 425659,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 434592,
+                "p_throws": "R",
+                "des": "Hector Luna homers (1) on a fly ball to left field.",
+                "event": "Home Run",
+                "score": "T",
+                "home_team_runs": 0,
+                "away_team_runs": 1,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 125,
+                    "type": "B",
+                    "tfs": 135525,
+                    "tfs_zulu": "2012-03-12T17:55:25Z",
+                    "x": 55.79,
+                    "y": 94.12,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 126,
+                    "type": "S",
+                    "tfs": 135526,
+                    "tfs_zulu": "2012-03-12T17:55:26Z",
+                    "x": 69.53,
+                    "y": 121.75,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 127,
+                    "type": "B",
+                    "tfs": 135529,
+                    "tfs_zulu": "2012-03-12T17:55:29Z",
+                    "x": 69.53,
+                    "y": 121.75,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 128,
+                    "type": "B",
+                    "tfs": 135532,
+                    "tfs_zulu": "2012-03-12T17:55:32Z",
+                    "x": 80.69,
+                    "y": 178.73,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "In play, run(s)",
+                    "id": 129,
+                    "type": "X",
+                    "tfs": 135534,
+                    "tfs_zulu": "2012-03-12T17:55:34Z",
+                    "x": 95.28,
+                    "y": 128.65,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 425659,
+                  "start": "",
+                  "end": "",
+                  "event": "Home Run",
+                  "score": "T",
+                  "rbi": "T",
+                  "earned": "T"
+                }
+              },
+              {
+                "num": 23,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 135552,
+                "start_tfs_zulu": "2012-03-12T17:55:52Z",
+                "batter": 434563,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 434592,
+                "p_throws": "R",
+                "des": "Carlos Ruiz grounds out, second baseman Neil Walker to first baseman Casey McGehee.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 134,
+                  "type": "X",
+                  "tfs": 135701,
+                  "tfs_zulu": "2012-03-12T17:57:01Z",
+                  "x": 115.02,
+                  "y": 154.56,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 24,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 135754,
+                "start_tfs_zulu": "2012-03-12T17:57:54Z",
+                "batter": 325392,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 434592,
+                "p_throws": "R",
+                "des": "Scott Podsednik grounds out, second baseman Neil Walker to first baseman Casey McGehee.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 138,
+                  "type": "X",
+                  "tfs": 135756,
+                  "tfs_zulu": "2012-03-12T17:57:56Z",
+                  "x": 101.29,
+                  "y": 139.02,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 25,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 135858,
+                "start_tfs_zulu": "2012-03-12T17:58:58Z",
+                "batter": 502265,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 434592,
+                "p_throws": "R",
+                "des": "Tyson Gillies grounds out, second baseman Neil Walker to first baseman Casey McGehee.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 142,
+                  "type": "X",
+                  "tfs": 135900,
+                  "tfs_zulu": "2012-03-12T17:59:00Z",
+                  "x": 98.71,
+                  "y": 132.11,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "atbat": [
+              {
+                "num": 26,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 140241,
+                "start_tfs_zulu": "2012-03-12T18:02:41Z",
+                "batter": 502100,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 474699,
+                "p_throws": "R",
+                "des": "Alex Presley grounds out, shortstop Jimmy Rollins to first baseman Hector Luna.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 147,
+                  "type": "X",
+                  "tfs": 140254,
+                  "tfs_zulu": "2012-03-12T18:02:54Z",
+                  "x": 104.72,
+                  "y": 133.84,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 27,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 140355,
+                "start_tfs_zulu": "2012-03-12T18:03:55Z",
+                "batter": 434661,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 474699,
+                "p_throws": "R",
+                "des": "Nate McLouth called out on strikes.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Called Strike",
+                    "id": 151,
+                    "type": "S",
+                    "tfs": 140402,
+                    "tfs_zulu": "2012-03-12T18:04:02Z",
+                    "x": 95.28,
+                    "y": 142.47,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 152,
+                    "type": "S",
+                    "tfs": 140403,
+                    "tfs_zulu": "2012-03-12T18:04:03Z",
+                    "x": 99.57,
+                    "y": 120.02,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 153,
+                    "type": "S",
+                    "tfs": 140405,
+                    "tfs_zulu": "2012-03-12T18:04:05Z",
+                    "x": 99.57,
+                    "y": 120.02,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 28,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 140638,
+                "start_tfs_zulu": "2012-03-12T18:06:38Z",
+                "batter": 457705,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 474699,
+                "p_throws": "R",
+                "des": "Andrew McCutchen strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 157,
+                    "type": "S",
+                    "tfs": 140640,
+                    "tfs_zulu": "2012-03-12T18:06:40Z",
+                    "x": 118.45,
+                    "y": 135.56,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 158,
+                    "type": "S",
+                    "tfs": 140642,
+                    "tfs_zulu": "2012-03-12T18:06:42Z",
+                    "x": 97.85,
+                    "y": 126.06,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 159,
+                    "type": "S",
+                    "tfs": 140643,
+                    "tfs_zulu": "2012-03-12T18:06:43Z",
+                    "x": 59.23,
+                    "y": 125.2,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "num": 5,
+          "away_team": "phi",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitcher Change: Tony Watson replaces Chris Resop.",
+              "event": "Pitching Substitution",
+              "tfs": 140742,
+              "tfs_zulu": "2012-03-12T18:07:42Z",
+              "player": 453265,
+              "pitch": 3
+            },
+            "atbat": [
+              {
+                "num": 29,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 141002,
+                "start_tfs_zulu": "2012-03-12T18:10:02Z",
+                "batter": 434681,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 453265,
+                "p_throws": "L",
+                "des": "Pete Orr grounds out, shortstop Clint Barmes to first baseman Casey McGehee.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 166,
+                  "type": "X",
+                  "tfs": 141004,
+                  "tfs_zulu": "2012-03-12T18:10:04Z",
+                  "x": 91.85,
+                  "y": 129.52,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 30,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 141147,
+                "start_tfs_zulu": "2012-03-12T18:11:47Z",
+                "batter": 492841,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 453265,
+                "p_throws": "L",
+                "des": "Michael Martinez grounds out, second baseman Neil Walker to first baseman Casey McGehee.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 170,
+                  "type": "X",
+                  "tfs": 141148,
+                  "tfs_zulu": "2012-03-12T18:11:48Z",
+                  "x": 109.87,
+                  "y": 134.7,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 31,
+                "b": 3,
+                "s": 2,
+                "o": 2,
+                "start_tfs": 141357,
+                "start_tfs_zulu": "2012-03-12T18:13:57Z",
+                "batter": 276519,
+                "stand": "R",
+                "b_height": "5-8",
+                "pitcher": 453265,
+                "p_throws": "L",
+                "des": "Jimmy Rollins homers (1) on a fly ball to left field.",
+                "event": "Home Run",
+                "score": "T",
+                "home_team_runs": 0,
+                "away_team_runs": 2,
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 174,
+                    "type": "B",
+                    "tfs": 141400,
+                    "tfs_zulu": "2012-03-12T18:14:00Z",
+                    "x": 117.6,
+                    "y": 84.62,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 175,
+                    "type": "S",
+                    "tfs": 141401,
+                    "tfs_zulu": "2012-03-12T18:14:01Z",
+                    "x": 69.53,
+                    "y": 124.34,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Foul",
+                    "id": 176,
+                    "type": "S",
+                    "tfs": 141402,
+                    "tfs_zulu": "2012-03-12T18:14:02Z",
+                    "x": 68.67,
+                    "y": 123.47,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 177,
+                    "type": "B",
+                    "tfs": 141403,
+                    "tfs_zulu": "2012-03-12T18:14:03Z",
+                    "x": 66.09,
+                    "y": 139.88,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 178,
+                    "type": "B",
+                    "tfs": 141405,
+                    "tfs_zulu": "2012-03-12T18:14:05Z",
+                    "x": 54.08,
+                    "y": 144.2,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "In play, run(s)",
+                    "id": 179,
+                    "type": "X",
+                    "tfs": 141408,
+                    "tfs_zulu": "2012-03-12T18:14:08Z",
+                    "x": 97.85,
+                    "y": 127.79,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 276519,
+                  "start": "",
+                  "end": "",
+                  "event": "Home Run",
+                  "score": "T",
+                  "rbi": "T",
+                  "earned": "T"
+                }
+              },
+              {
+                "num": 32,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 141437,
+                "start_tfs_zulu": "2012-03-12T18:14:37Z",
+                "batter": 334393,
+                "stand": "L",
+                "b_height": "5-11",
+                "pitcher": 453265,
+                "p_throws": "L",
+                "des": "Juan Pierre lines out to third baseman Pedro Alvarez.",
+                "event": "Lineout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 184,
+                  "type": "X",
+                  "tfs": 141438,
+                  "tfs_zulu": "2012-03-12T18:14:38Z",
+                  "x": 101.29,
+                  "y": 124.34,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Freddy Galvis replaces shortstop Jimmy Rollins, batting 1st, playing second base.",
+                "event": "Defensive Sub",
+                "tfs": 141655,
+                "tfs_zulu": "2012-03-12T18:16:55Z",
+                "player": 520471,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive switch from second base to shortstop for Michael Martinez.",
+                "event": "Defensive Switch",
+                "tfs": 141655,
+                "tfs_zulu": "2012-03-12T18:16:55Z",
+                "player": 492841,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: Pat Misch replaces Vance Worley.",
+                "event": "Pitching Substitution",
+                "tfs": 141655,
+                "tfs_zulu": "2012-03-12T18:16:55Z",
+                "player": 435619,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 33,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 141752,
+                "start_tfs_zulu": "2012-03-12T18:17:52Z",
+                "batter": 435522,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 435619,
+                "p_throws": "L",
+                "des": "Neil Walker flies out to center fielder Tyson Gillies.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 195,
+                  "type": "X",
+                  "tfs": 141758,
+                  "tfs_zulu": "2012-03-12T18:17:58Z",
+                  "x": 119.31,
+                  "y": 125.2,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 34,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 141834,
+                "start_tfs_zulu": "2012-03-12T18:18:34Z",
+                "batter": 431171,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 435619,
+                "p_throws": "L",
+                "des": "Casey McGehee grounds out, third baseman Pete Orr to first baseman Hector Luna.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 199,
+                  "type": "X",
+                  "tfs": 141918,
+                  "tfs_zulu": "2012-03-12T18:19:18Z",
+                  "x": 98.71,
+                  "y": 148.51,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 35,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 142106,
+                "start_tfs_zulu": "2012-03-12T18:21:06Z",
+                "batter": 434540,
+                "stand": "L",
+                "b_height": "6-4",
+                "pitcher": 435619,
+                "p_throws": "L",
+                "des": "Garrett Jones called out on strikes.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Called Strike",
+                    "id": 203,
+                    "type": "S",
+                    "tfs": 142149,
+                    "tfs_zulu": "2012-03-12T18:21:49Z",
+                    "x": 108.15,
+                    "y": 141.61,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 204,
+                    "type": "S",
+                    "tfs": 142150,
+                    "tfs_zulu": "2012-03-12T18:21:50Z",
+                    "x": 89.27,
+                    "y": 118.29,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 205,
+                    "type": "S",
+                    "tfs": 142151,
+                    "tfs_zulu": "2012-03-12T18:21:51Z",
+                    "x": 89.27,
+                    "y": 118.29,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "num": 6,
+          "away_team": "phi",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Gorkys Hernandez replaces right fielder Nate McLouth, batting 2nd, playing right field.",
+                "event": "Defensive Sub",
+                "tfs": 142641,
+                "tfs_zulu": "2012-03-12T18:26:41Z",
+                "player": 491676,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Starling Marte replaces center fielder Andrew McCutchen, batting 3rd, playing center field.",
+                "event": "Defensive Sub",
+                "tfs": 142641,
+                "tfs_zulu": "2012-03-12T18:26:41Z",
+                "player": 516782,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Yamaico Navarro replaces second baseman Neil Walker, batting 4th, playing second base.",
+                "event": "Defensive Sub",
+                "tfs": 142641,
+                "tfs_zulu": "2012-03-12T18:26:41Z",
+                "player": 501605,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: Rudy Owens replaces Tony Watson.",
+                "event": "Pitching Substitution",
+                "tfs": 142641,
+                "tfs_zulu": "2012-03-12T18:26:41Z",
+                "player": 502168,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Mel Rojas replaces left fielder Alex Presley, batting 1st, playing left field.",
+                "event": "Defensive Sub",
+                "tfs": 142755,
+                "tfs_zulu": "2012-03-12T18:27:55Z",
+                "player": 592692,
+                "pitch": 3
+              }
+            ],
+            "atbat": [
+              {
+                "num": 36,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 142802,
+                "start_tfs_zulu": "2012-03-12T18:28:02Z",
+                "batter": 425664,
+                "stand": "R",
+                "b_height": "5-9",
+                "pitcher": 502168,
+                "p_throws": "L",
+                "des": "Shane Victorino flies out to center fielder Starling Marte.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 220,
+                  "type": "X",
+                  "tfs": 142808,
+                  "tfs_zulu": "2012-03-12T18:28:08Z",
+                  "x": 102.15,
+                  "y": 117.43,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 37,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 142817,
+                "start_tfs_zulu": "2012-03-12T18:28:17Z",
+                "batter": 425659,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 502168,
+                "p_throws": "L",
+                "des": "Hector Luna flies out to center fielder Starling Marte.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 224,
+                  "type": "X",
+                  "tfs": 142822,
+                  "tfs_zulu": "2012-03-12T18:28:22Z",
+                  "x": 91.85,
+                  "y": 132.11,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 38,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 142918,
+                "start_tfs_zulu": "2012-03-12T18:29:18Z",
+                "batter": 434563,
+                "stand": "R",
+                "b_height": "5-10",
+                "pitcher": 502168,
+                "p_throws": "L",
+                "des": "Carlos Ruiz lines out to left fielder Mel Rojas.",
+                "event": "Lineout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 228,
+                  "type": "X",
+                  "tfs": 142950,
+                  "tfs_zulu": "2012-03-12T18:29:50Z",
+                  "x": 99.57,
+                  "y": 131.24,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Domonic Brown replaces left fielder Juan Pierre, batting 2nd, playing left field.",
+                "event": "Defensive Sub",
+                "tfs": 143040,
+                "tfs_zulu": "2012-03-12T18:30:40Z",
+                "player": 502126,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Tuffy Gosewisch replaces catcher Carlos Ruiz, batting 5th, playing catcher.",
+                "event": "Defensive Sub",
+                "tfs": 143040,
+                "tfs_zulu": "2012-03-12T18:30:40Z",
+                "player": 488912,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 39,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 143107,
+                "start_tfs_zulu": "2012-03-12T18:31:07Z",
+                "batter": 476883,
+                "stand": "L",
+                "b_height": "6-3",
+                "pitcher": 435619,
+                "p_throws": "L",
+                "des": "Pedro Alvarez grounds out, first baseman Hector Luna to pitcher Pat Misch.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 237,
+                  "type": "X",
+                  "tfs": 143109,
+                  "tfs_zulu": "2012-03-12T18:31:09Z",
+                  "x": 106.44,
+                  "y": 127.79,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 40,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 143117,
+                "start_tfs_zulu": "2012-03-12T18:31:17Z",
+                "batter": 425549,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 435619,
+                "p_throws": "L",
+                "des": "Clint Barmes called out on strikes.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Called Strike",
+                    "id": 241,
+                    "type": "S",
+                    "tfs": 143252,
+                    "tfs_zulu": "2012-03-12T18:32:52Z",
+                    "x": 117.6,
+                    "y": 116.57,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 242,
+                    "type": "S",
+                    "tfs": 143253,
+                    "tfs_zulu": "2012-03-12T18:32:53Z",
+                    "x": 88.41,
+                    "y": 122.61,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Called Strike",
+                    "id": 243,
+                    "type": "S",
+                    "tfs": 143254,
+                    "tfs_zulu": "2012-03-12T18:32:54Z",
+                    "x": 87.55,
+                    "y": 125.2,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 41,
+                "b": 4,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 143325,
+                "start_tfs_zulu": "2012-03-12T18:33:25Z",
+                "batter": 518700,
+                "stand": "R",
+                "b_height": "6-2",
+                "pitcher": 435619,
+                "p_throws": "L",
+                "des": "Eric Fryer walks.",
+                "event": "Walk",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 247,
+                    "type": "B",
+                    "tfs": 143427,
+                    "tfs_zulu": "2012-03-12T18:34:27Z",
+                    "x": 60.94,
+                    "y": 105.34,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 248,
+                    "type": "B",
+                    "tfs": 143428,
+                    "tfs_zulu": "2012-03-12T18:34:28Z",
+                    "x": 54.94,
+                    "y": 109.66,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 249,
+                    "type": "B",
+                    "tfs": 143429,
+                    "tfs_zulu": "2012-03-12T18:34:29Z",
+                    "x": 54.94,
+                    "y": 91.53,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 250,
+                    "type": "B",
+                    "tfs": 143431,
+                    "tfs_zulu": "2012-03-12T18:34:31Z",
+                    "x": 58.37,
+                    "y": 98.43,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 518700,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk"
+                }
+              },
+              {
+                "num": 42,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 143642,
+                "start_tfs_zulu": "2012-03-12T18:36:42Z",
+                "batter": 592692,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 435619,
+                "p_throws": "L",
+                "des": "Mel Rojas flies out to right fielder Scott Podsednik.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 254,
+                  "type": "X",
+                  "tfs": 143644,
+                  "tfs_zulu": "2012-03-12T18:36:44Z",
+                  "x": 95.28,
+                  "y": 134.7,
+                  "on_1b": 518700,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 518700,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Flyout"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 7,
+          "away_team": "phi",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Jordy Mercer replaces third baseman Pedro Alvarez, batting 7th, playing third base.",
+                "event": "Defensive Sub",
+                "tfs": 143729,
+                "tfs_zulu": "2012-03-12T18:37:29Z",
+                "player": 474568,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Tony Sanchez replaces catcher Eric Fryer, batting 9th, playing catcher.",
+                "event": "Defensive Sub",
+                "tfs": 143729,
+                "tfs_zulu": "2012-03-12T18:37:29Z",
+                "player": 506997,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: Ryota Igarashi replaces Rudy Owens.",
+                "event": "Pitching Substitution",
+                "tfs": 143729,
+                "tfs_zulu": "2012-03-12T18:37:29Z",
+                "player": 579799,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Chase d'Arnaud replaces shortstop Clint Barmes, batting 8th, playing shortstop.",
+                "event": "Defensive Sub",
+                "tfs": 151154,
+                "tfs_zulu": "2012-03-12T19:11:54Z",
+                "player": 488818,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 43,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 143951,
+                "start_tfs_zulu": "2012-03-12T18:39:51Z",
+                "batter": 325392,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 579799,
+                "p_throws": "R",
+                "des": "Scott Podsednik strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 268,
+                    "type": "S",
+                    "tfs": 143954,
+                    "tfs_zulu": "2012-03-12T18:39:54Z",
+                    "x": 108.15,
+                    "y": 134.7,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 269,
+                    "type": "S",
+                    "tfs": 143956,
+                    "tfs_zulu": "2012-03-12T18:39:56Z",
+                    "x": 98.71,
+                    "y": 72.53,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 270,
+                    "type": "S",
+                    "tfs": 143957,
+                    "tfs_zulu": "2012-03-12T18:39:57Z",
+                    "x": 93.56,
+                    "y": 173.55,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 44,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 144036,
+                "start_tfs_zulu": "2012-03-12T18:40:36Z",
+                "batter": 502265,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 579799,
+                "p_throws": "R",
+                "des": "Tyson Gillies flies out to left fielder Mel Rojas.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 274,
+                  "type": "X",
+                  "tfs": 144038,
+                  "tfs_zulu": "2012-03-12T18:40:38Z",
+                  "x": 96.14,
+                  "y": 141.61,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 45,
+                "b": 0,
+                "s": 3,
+                "o": 3,
+                "start_tfs": 144046,
+                "start_tfs_zulu": "2012-03-12T18:40:46Z",
+                "batter": 434681,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 579799,
+                "p_throws": "R",
+                "des": "Pete Orr strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 278,
+                    "type": "S",
+                    "tfs": 144213,
+                    "tfs_zulu": "2012-03-12T18:42:13Z",
+                    "x": 88.41,
+                    "y": 174.42,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 279,
+                    "type": "S",
+                    "tfs": 144214,
+                    "tfs_zulu": "2012-03-12T18:42:14Z",
+                    "x": 89.27,
+                    "y": 173.55,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 280,
+                    "type": "S",
+                    "tfs": 144215,
+                    "tfs_zulu": "2012-03-12T18:42:15Z",
+                    "x": 133.05,
+                    "y": 150.24,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Defensive Substitution:  Lou Montanez replaces right fielder Scott Podsednik, batting 6th, playing right field.",
+                "event": "Defensive Sub",
+                "tfs": 144410,
+                "tfs_zulu": "2012-03-12T18:44:10Z",
+                "player": 428642,
+                "pitch": 3
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: David Herndon replaces Pat Misch.",
+                "event": "Pitching Substitution",
+                "tfs": 144410,
+                "tfs_zulu": "2012-03-12T18:44:10Z",
+                "player": 458589,
+                "pitch": 3
+              },
+              {
+                "b": 1,
+                "s": 0,
+                "o": 0,
+                "des": "With Starling Marte batting, Gorkys Hernandez steals (1) 2nd base.",
+                "event": "Stolen Base 2B",
+                "tfs": 144856,
+                "tfs_zulu": "2012-03-12T18:48:56Z",
+                "player": 491676,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "des": "Offensive Substitution: Pinch hitter Matt Hague replaces Garrett Jones.",
+                "event": "Offensive sub",
+                "tfs": 145336,
+                "tfs_zulu": "2012-03-12T18:53:36Z",
+                "player": 518755,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 46,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 144605,
+                "start_tfs_zulu": "2012-03-12T18:46:05Z",
+                "batter": 491676,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 458589,
+                "p_throws": "R",
+                "des": "Gorkys Hernandez singles on a ground ball to second baseman Freddy Galvis.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 289,
+                  "type": "X",
+                  "tfs": 144607,
+                  "tfs_zulu": "2012-03-12T18:46:07Z",
+                  "x": 93.56,
+                  "y": 158.01,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 491676,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 47,
+                "b": 1,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 144614,
+                "start_tfs_zulu": "2012-03-12T18:46:14Z",
+                "batter": 516782,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 458589,
+                "p_throws": "R",
+                "des": "Starling Marte strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 293,
+                    "type": "B",
+                    "tfs": 144852,
+                    "tfs_zulu": "2012-03-12T18:48:52Z",
+                    "x": 109.01,
+                    "y": 87.21,
+                    "on_1b": 491676,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 297,
+                    "type": "S",
+                    "tfs": 144928,
+                    "tfs_zulu": "2012-03-12T18:49:28Z",
+                    "x": 99.57,
+                    "y": 179.6,
+                    "on_2b": 491676,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 298,
+                    "type": "S",
+                    "tfs": 144929,
+                    "tfs_zulu": "2012-03-12T18:49:29Z",
+                    "x": 66.09,
+                    "y": 147.65,
+                    "on_2b": 491676,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 299,
+                    "type": "S",
+                    "tfs": 144931,
+                    "tfs_zulu": "2012-03-12T18:49:31Z",
+                    "x": 59.23,
+                    "y": 129.52,
+                    "on_2b": 491676,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 491676,
+                  "start": "1B",
+                  "end": "2B",
+                  "event": "Stolen Base 2B"
+                }
+              },
+              {
+                "num": 48,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 145028,
+                "start_tfs_zulu": "2012-03-12T18:50:28Z",
+                "batter": 501605,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 458589,
+                "p_throws": "R",
+                "des": "Yamaico Navarro grounds out, second baseman Freddy Galvis to first baseman Hector Luna.    Gorkys Hernandez to 3rd.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 303,
+                  "type": "X",
+                  "tfs": 145030,
+                  "tfs_zulu": "2012-03-12T18:50:30Z",
+                  "x": 89.27,
+                  "y": 153.69,
+                  "on_2b": 491676,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 491676,
+                  "start": "2B",
+                  "end": "3B",
+                  "event": "Groundout"
+                }
+              },
+              {
+                "num": 49,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 145259,
+                "start_tfs_zulu": "2012-03-12T18:52:59Z",
+                "batter": 431171,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 458589,
+                "p_throws": "R",
+                "des": "Casey McGehee reaches on fielding error by shortstop Michael Martinez.    Gorkys Hernandez scores.",
+                "event": "Field Error",
+                "event2": "Error",
+                "score": "T",
+                "home_team_runs": 1,
+                "away_team_runs": 2,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 308,
+                  "type": "X",
+                  "tfs": 145301,
+                  "tfs_zulu": "2012-03-12T18:53:01Z",
+                  "x": 113.3,
+                  "y": 138.15,
+                  "on_3b": 491676,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 491676,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Field Error",
+                    "score": "T"
+                  },
+                  {
+                    "id": 431171,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Field Error"
+                  }
+                ]
+              },
+              {
+                "num": 50,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 145458,
+                "start_tfs_zulu": "2012-03-12T18:54:58Z",
+                "batter": 518755,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 458589,
+                "p_throws": "R",
+                "des": "Matt Hague flies out to center fielder Tyson Gillies.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 317,
+                  "type": "X",
+                  "tfs": 145500,
+                  "tfs_zulu": "2012-03-12T18:55:00Z",
+                  "x": 92.7,
+                  "y": 139.88,
+                  "on_1b": 431171,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 431171,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Flyout"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 8,
+          "away_team": "phi",
+          "home_team": "pit",
+          "next": "Y",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Matt Hague remains in the game as the designated hitter.",
+                "event": "Defensive Switch",
+                "tfs": 145740,
+                "tfs_zulu": "2012-03-12T18:57:40Z",
+                "player": 518755,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "des": "Offensive Substitution: Pinch hitter Kevin Frandsen replaces Shane Victorino.",
+                "event": "Offensive sub",
+                "tfs": 150209,
+                "tfs_zulu": "2012-03-12T19:02:09Z",
+                "player": 435623,
+                "pitch": 1
+              },
+              {
+                "b": 1,
+                "s": 0,
+                "o": 3,
+                "des": "With Tuffy Gosewisch batting, Kevin Frandsen caught stealing 2nd base, catcher Tony Sanchez to second baseman Yamaico Navarro.",
+                "event": "Caught Stealing 2B",
+                "tfs": 150429,
+                "tfs_zulu": "2012-03-12T19:04:29Z",
+                "player": 435623,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 51,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 145726,
+                "start_tfs_zulu": "2012-03-12T18:57:26Z",
+                "batter": 492841,
+                "stand": "L",
+                "b_height": "5-9",
+                "pitcher": 579799,
+                "p_throws": "R",
+                "des": "Michael Martinez singles on a ground ball to right fielder Gorkys Hernandez.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 325,
+                  "type": "X",
+                  "tfs": 145747,
+                  "tfs_zulu": "2012-03-12T18:57:47Z",
+                  "x": 85.84,
+                  "y": 130.38,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 492841,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 52,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 145754,
+                "start_tfs_zulu": "2012-03-12T18:57:54Z",
+                "batter": 520471,
+                "stand": "L",
+                "b_height": "5-10",
+                "pitcher": 579799,
+                "p_throws": "R",
+                "des": "Freddy Galvis out on a sacrifice bunt, pitcher Ryota Igarashi to first baseman Casey McGehee.    Michael Martinez to 2nd.",
+                "event": "Sac Bunt",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 329,
+                  "type": "X",
+                  "tfs": 145814,
+                  "tfs_zulu": "2012-03-12T18:58:14Z",
+                  "x": 104.72,
+                  "y": 126.93,
+                  "on_1b": 492841,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 492841,
+                  "start": "1B",
+                  "end": "2B",
+                  "event": "Sac Bunt"
+                }
+              },
+              {
+                "num": 53,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 150134,
+                "start_tfs_zulu": "2012-03-12T19:01:34Z",
+                "batter": 502126,
+                "stand": "L",
+                "b_height": "6-5",
+                "pitcher": 579799,
+                "p_throws": "R",
+                "des": "Domonic Brown triples (1) on a fly ball to center fielder Starling Marte.    Michael Martinez scores.",
+                "event": "Triple",
+                "score": "T",
+                "home_team_runs": 1,
+                "away_team_runs": 3,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 334,
+                  "type": "X",
+                  "tfs": 150136,
+                  "tfs_zulu": "2012-03-12T19:01:36Z",
+                  "x": 104.72,
+                  "y": 143.33,
+                  "on_2b": 492841,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 492841,
+                    "start": "2B",
+                    "end": "",
+                    "event": "Triple",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 502126,
+                    "start": "",
+                    "end": "3B",
+                    "event": "Triple"
+                  }
+                ]
+              },
+              {
+                "num": 54,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 150149,
+                "start_tfs_zulu": "2012-03-12T19:01:49Z",
+                "batter": 435623,
+                "stand": "L",
+                "b_height": "6-0",
+                "pitcher": 579799,
+                "p_throws": "R",
+                "des": "Kevin Frandsen singles on a ground ball to center fielder Starling Marte.    Domonic Brown scores.",
+                "event": "Single",
+                "score": "T",
+                "home_team_runs": 1,
+                "away_team_runs": 4,
+                "pitch": {
+                  "des": "In play, run(s)",
+                  "id": 342,
+                  "type": "X",
+                  "tfs": 150219,
+                  "tfs_zulu": "2012-03-12T19:02:19Z",
+                  "x": 102.15,
+                  "y": 139.88,
+                  "on_3b": 502126,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 502126,
+                    "start": "3B",
+                    "end": "",
+                    "event": "Single",
+                    "score": "T",
+                    "rbi": "T",
+                    "earned": "T"
+                  },
+                  {
+                    "id": 435623,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Single"
+                  }
+                ]
+              },
+              {
+                "num": 55,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 150230,
+                "start_tfs_zulu": "2012-03-12T19:02:30Z",
+                "batter": 425659,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 579799,
+                "p_throws": "R",
+                "des": "Hector Luna flies out to center fielder Starling Marte.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 348,
+                  "type": "X",
+                  "tfs": 150231,
+                  "tfs_zulu": "2012-03-12T19:02:31Z",
+                  "x": 106.44,
+                  "y": 129.52,
+                  "on_1b": 435623,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 56,
+                "b": 1,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 150240,
+                "start_tfs_zulu": "2012-03-12T19:02:40Z",
+                "batter": 488912,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 579799,
+                "p_throws": "R",
+                "des": "With Tuffy Gosewisch batting, Kevin Frandsen caught stealing 2nd base, catcher Tony Sanchez to second baseman Yamaico Navarro.",
+                "event": "Runner Out",
+                "pitch": {
+                  "des": "Ball",
+                  "id": 352,
+                  "type": "B",
+                  "tfs": 150416,
+                  "tfs_zulu": "2012-03-12T19:04:16Z",
+                  "x": 66.95,
+                  "y": 134.7,
+                  "on_1b": 435623,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 435623,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Caught Stealing 2B"
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Kevin Frandsen remains in the game as the designated hitter.",
+                "event": "Defensive Switch",
+                "tfs": 150640,
+                "tfs_zulu": "2012-03-12T19:06:40Z",
+                "player": 435623,
+                "pitch": 1
+              },
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: Antonio Bastardo replaces David Herndon.",
+                "event": "Pitching Substitution",
+                "tfs": 150640,
+                "tfs_zulu": "2012-03-12T19:06:40Z",
+                "player": 455374,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 57,
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "start_tfs": 150621,
+                "start_tfs_zulu": "2012-03-12T19:06:21Z",
+                "batter": 474568,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 455374,
+                "p_throws": "L",
+                "des": "Jordy Mercer singles on a line drive to left fielder Domonic Brown.",
+                "event": "Single",
+                "pitch": {
+                  "des": "In play, no out",
+                  "id": 362,
+                  "type": "X",
+                  "tfs": 150755,
+                  "tfs_zulu": "2012-03-12T19:07:55Z",
+                  "x": 84.98,
+                  "y": 133.84,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 474568,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Single"
+                }
+              },
+              {
+                "num": 58,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 150812,
+                "start_tfs_zulu": "2012-03-12T19:08:12Z",
+                "batter": 488818,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 455374,
+                "p_throws": "L",
+                "des": "Chase d'Arnaud flies out to center fielder Tyson Gillies.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 366,
+                  "type": "X",
+                  "tfs": 151208,
+                  "tfs_zulu": "2012-03-12T19:12:08Z",
+                  "x": 100.43,
+                  "y": 150.24,
+                  "on_1b": 474568,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 59,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 151235,
+                "start_tfs_zulu": "2012-03-12T19:12:35Z",
+                "batter": 506997,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 455374,
+                "p_throws": "L",
+                "des": "Tony Sanchez flies out to center fielder Tyson Gillies.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 370,
+                  "type": "X",
+                  "tfs": 151237,
+                  "tfs_zulu": "2012-03-12T19:12:37Z",
+                  "x": 106.44,
+                  "y": 145.92,
+                  "on_1b": 474568,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 60,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 151246,
+                "start_tfs_zulu": "2012-03-12T19:12:46Z",
+                "batter": 592692,
+                "stand": "R",
+                "b_height": "6-3",
+                "pitcher": 455374,
+                "p_throws": "L",
+                "des": "Mel Rojas grounds out, second baseman Freddy Galvis to first baseman Hector Luna.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 374,
+                  "type": "X",
+                  "tfs": 151344,
+                  "tfs_zulu": "2012-03-12T19:13:44Z",
+                  "x": 111.59,
+                  "y": 129.52,
+                  "on_1b": 474568,
+                  "cc": "Antonio Bastardo has Pirates batters hitting the ball into the ground so far.",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 474568,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Groundout"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "num": 9,
+          "away_team": "phi",
+          "home_team": "pit",
+          "next": "N",
+          "top": {
+            "action": [
+              {
+                "b": 0,
+                "s": 0,
+                "o": 0,
+                "des": "Pitcher Change: Juan Cruz replaces Ryota Igarashi.",
+                "event": "Pitching Substitution",
+                "tfs": 151458,
+                "tfs_zulu": "2012-03-12T19:14:58Z",
+                "player": 407297,
+                "pitch": 1
+              },
+              {
+                "b": 1,
+                "s": 0,
+                "o": 3,
+                "des": "With Pete Orr batting, Tyson Gillies caught stealing 2nd base, catcher Tony Sanchez to shortstop Chase d'Arnaud.",
+                "event": "Caught Stealing 2B",
+                "tfs": 152332,
+                "tfs_zulu": "2012-03-12T19:23:32Z",
+                "player": 502265,
+                "pitch": 1
+              }
+            ],
+            "atbat": [
+              {
+                "num": 61,
+                "b": 0,
+                "s": 3,
+                "o": 1,
+                "start_tfs": 151734,
+                "start_tfs_zulu": "2012-03-12T19:17:34Z",
+                "batter": 488912,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 407297,
+                "p_throws": "R",
+                "des": "Tuffy Gosewisch strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 382,
+                    "type": "S",
+                    "tfs": 151736,
+                    "tfs_zulu": "2012-03-12T19:17:36Z",
+                    "x": 105.58,
+                    "y": 132.97,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 383,
+                    "type": "S",
+                    "tfs": 151738,
+                    "tfs_zulu": "2012-03-12T19:17:38Z",
+                    "x": 103.86,
+                    "y": 127.79,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 384,
+                    "type": "S",
+                    "tfs": 151739,
+                    "tfs_zulu": "2012-03-12T19:17:39Z",
+                    "x": 103.86,
+                    "y": 127.79,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 62,
+                "b": 4,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 151744,
+                "start_tfs_zulu": "2012-03-12T19:17:44Z",
+                "batter": 428642,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 407297,
+                "p_throws": "R",
+                "des": "Lou Montanez walks.",
+                "event": "Walk",
+                "pitch": [
+                  {
+                    "des": "Ball",
+                    "id": 388,
+                    "type": "B",
+                    "tfs": 151958,
+                    "tfs_zulu": "2012-03-12T19:19:58Z",
+                    "x": 140.77,
+                    "y": 113.98,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 389,
+                    "type": "B",
+                    "tfs": 151959,
+                    "tfs_zulu": "2012-03-12T19:19:59Z",
+                    "x": 136.48,
+                    "y": 115.7,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 390,
+                    "type": "B",
+                    "tfs": 152001,
+                    "tfs_zulu": "2012-03-12T19:20:01Z",
+                    "x": 136.48,
+                    "y": 115.7,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Ball",
+                    "id": 391,
+                    "type": "B",
+                    "tfs": 152002,
+                    "tfs_zulu": "2012-03-12T19:20:02Z",
+                    "x": 136.48,
+                    "y": 115.7,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ],
+                "runner": {
+                  "id": 428642,
+                  "start": "",
+                  "end": "1B",
+                  "event": "Walk"
+                }
+              },
+              {
+                "num": 63,
+                "b": 0,
+                "s": 0,
+                "o": 2,
+                "start_tfs": 152015,
+                "start_tfs_zulu": "2012-03-12T19:20:15Z",
+                "batter": 502265,
+                "stand": "L",
+                "b_height": "6-2",
+                "pitcher": 407297,
+                "p_throws": "R",
+                "des": "Tyson Gillies grounds into a force out, second baseman Yamaico Navarro to shortstop Chase d'Arnaud.    Lou Montanez out at 2nd.    Tyson Gillies to 1st.",
+                "event": "Forceout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 395,
+                  "type": "X",
+                  "tfs": 152050,
+                  "tfs_zulu": "2012-03-12T19:20:50Z",
+                  "x": 90.99,
+                  "y": 126.93,
+                  "on_1b": 428642,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": [
+                  {
+                    "id": 428642,
+                    "start": "1B",
+                    "end": "",
+                    "event": "Forceout"
+                  },
+                  {
+                    "id": 502265,
+                    "start": "",
+                    "end": "1B",
+                    "event": "Forceout"
+                  }
+                ]
+              },
+              {
+                "num": 64,
+                "b": 1,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 152106,
+                "start_tfs_zulu": "2012-03-12T19:21:06Z",
+                "batter": 434681,
+                "stand": "L",
+                "b_height": "6-1",
+                "pitcher": 407297,
+                "p_throws": "R",
+                "des": "With Pete Orr batting, Tyson Gillies caught stealing 2nd base, catcher Tony Sanchez to shortstop Chase d'Arnaud.",
+                "event": "Runner Out",
+                "pitch": {
+                  "des": "Ball",
+                  "id": 400,
+                  "type": "B",
+                  "tfs": 152300,
+                  "tfs_zulu": "2012-03-12T19:23:00Z",
+                  "x": 141.63,
+                  "y": 108.8,
+                  "on_1b": 502265,
+                  "cc": "",
+                  "mt": ""
+                },
+                "runner": {
+                  "id": 502265,
+                  "start": "1B",
+                  "end": "",
+                  "event": "Caught Stealing 2B"
+                }
+              }
+            ]
+          },
+          "bottom": {
+            "action": {
+              "b": 0,
+              "s": 0,
+              "o": 0,
+              "des": "Pitcher Change: Michael Schwimer replaces Antonio Bastardo.",
+              "event": "Pitching Substitution",
+              "tfs": 152444,
+              "tfs_zulu": "2012-03-12T19:24:44Z",
+              "player": 543754,
+              "pitch": 1
+            },
+            "atbat": [
+              {
+                "num": 65,
+                "b": 0,
+                "s": 0,
+                "o": 1,
+                "start_tfs": 152647,
+                "start_tfs_zulu": "2012-03-12T19:26:47Z",
+                "batter": 491676,
+                "stand": "R",
+                "b_height": "6-0",
+                "pitcher": 543754,
+                "p_throws": "R",
+                "des": "Gorkys Hernandez flies out to right fielder Lou Montanez.",
+                "event": "Flyout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 408,
+                  "type": "X",
+                  "tfs": 152649,
+                  "tfs_zulu": "2012-03-12T19:26:49Z",
+                  "x": 94.42,
+                  "y": 144.2,
+                  "cc": "",
+                  "mt": ""
+                }
+              },
+              {
+                "num": 66,
+                "b": 0,
+                "s": 3,
+                "o": 2,
+                "start_tfs": 152657,
+                "start_tfs_zulu": "2012-03-12T19:26:57Z",
+                "batter": 516782,
+                "stand": "R",
+                "b_height": "6-1",
+                "pitcher": 543754,
+                "p_throws": "R",
+                "des": "Starling Marte strikes out swinging.",
+                "event": "Strikeout",
+                "pitch": [
+                  {
+                    "des": "Swinging Strike",
+                    "id": 412,
+                    "type": "S",
+                    "tfs": 152747,
+                    "tfs_zulu": "2012-03-12T19:27:47Z",
+                    "x": 96.14,
+                    "y": 134.7,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 413,
+                    "type": "S",
+                    "tfs": 152748,
+                    "tfs_zulu": "2012-03-12T19:27:48Z",
+                    "x": 95.28,
+                    "y": 129.52,
+                    "cc": "",
+                    "mt": ""
+                  },
+                  {
+                    "des": "Swinging Strike",
+                    "id": 414,
+                    "type": "S",
+                    "tfs": 152750,
+                    "tfs_zulu": "2012-03-12T19:27:50Z",
+                    "x": 95.28,
+                    "y": 129.52,
+                    "cc": "",
+                    "mt": ""
+                  }
+                ]
+              },
+              {
+                "num": 67,
+                "b": 0,
+                "s": 0,
+                "o": 3,
+                "start_tfs": 152802,
+                "start_tfs_zulu": "2012-03-12T19:28:02Z",
+                "batter": 501605,
+                "stand": "R",
+                "b_height": "5-11",
+                "pitcher": 543754,
+                "p_throws": "R",
+                "des": "Yamaico Navarro grounds out, third baseman Pete Orr to first baseman Hector Luna.",
+                "event": "Groundout",
+                "pitch": {
+                  "des": "In play, out(s)",
+                  "id": 418,
+                  "type": "X",
+                  "tfs": 152953,
+                  "tfs_zulu": "2012-03-12T19:29:53Z",
+                  "x": 116.74,
+                  "y": 132.97,
+                  "cc": "",
+                  "mt": ""
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "id": "bd3ad52f-0fb4-4f3a-ba33-7f88ad48eb36",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:07:58Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 450203
+      }
+    },
+    {
+      "id": "ad300e3b-7e77-41d5-8600-547fedf33245",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:09:17Z",
+      "contextualData": {
+        "batter": 334393,
+        "pitcher": 450203
+      }
+    },
+    {
+      "id": "e5a32aa7-41fc-4cd2-a364-63ff6a8215d8",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:10:47Z",
+      "contextualData": {
+        "batter": 425664,
+        "pitcher": 450203
+      }
+    },
+    {
+      "id": "dcf93911-8b56-4dc1-8b0f-a390eed3bee2",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Picked off stealing 3B",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:15:35Z",
+      "contextualData": {
+        "player": 334393
+      }
+    },
+    {
+      "id": "e70cb1d0-dab8-4125-ab4f-5e0c1f29b343",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:15:39Z",
+      "contextualData": {
+        "batter": 425556,
+        "pitcher": 450203
+      }
+    },
+    {
+      "id": "ab9b1f11-2651-45b9-a9bd-1b157bf570c5",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:15:40Z",
+      "contextualData": {
+        "batter": 425556,
+        "pitcher": 450203
+      }
+    },
+    {
+      "id": "c73391ca-7c99-44ca-99fc-cdb76788afed",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:15:41Z",
+      "contextualData": {
+        "batter": 425556,
+        "pitcher": 450203
+      }
+    },
+    {
+      "id": "db7dafa1-ca78-4ac8-8ec6-59c37008ad68",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:18:56Z",
+      "contextualData": {
+        "batter": 502100,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "6c9dd16f-6ffa-42d7-a59b-42b7321a8c74",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:18:57Z",
+      "contextualData": {
+        "batter": 502100,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "f952b4b3-2c62-4aae-8e04-8e7891339b7f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:18:59Z",
+      "contextualData": {
+        "batter": 502100,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "36e6b520-7e1e-4d6a-9af2-b839d6293b16",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:20:39Z",
+      "contextualData": {
+        "batter": 434661,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "fb86802d-40d8-42ec-a3e0-43b382e42aff",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:20:40Z",
+      "contextualData": {
+        "batter": 434661,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "d6a42247-454a-40d5-bd46-0dde7daa847a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:20:41Z",
+      "contextualData": {
+        "batter": 434661,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "469800fa-f47a-4941-9ef3-dbbc9f742871",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 1,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:21:50Z",
+      "contextualData": {
+        "batter": 457705,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "ac975703-6dd3-4210-a8ef-93ef86d10587",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:24:11Z",
+      "contextualData": {
+        "batter": 434563,
+        "pitcher": 450203
+      }
+    },
+    {
+      "id": "5d694a42-8555-4afe-b6c5-1eef7f483a7f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:25:21Z",
+      "contextualData": {
+        "batter": 325392,
+        "pitcher": 450203
+      }
+    },
+    {
+      "id": "89849384-24c2-4988-909d-633bd4757a06",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:26:27Z",
+      "contextualData": {
+        "batter": 502265,
+        "pitcher": 450203
+      }
+    },
+    {
+      "id": "08256d7f-305b-44d9-88fc-f95d7e53d8bb",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:28:42Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 450203
+      }
+    },
+    {
+      "id": "215dbf67-5f79-4b8a-a8aa-59a3ca0b0dc2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:28:43Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 450203
+      }
+    },
+    {
+      "id": "85cfa62a-5e64-4205-9906-1692550172d1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:28:44Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 450203
+      }
+    },
+    {
+      "id": "123de870-48ce-444e-b512-ba6641137d4c",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:30:05Z",
+      "contextualData": {
+        "batter": 492841,
+        "pitcher": 450203
+      }
+    },
+    {
+      "id": "c4fe0560-6893-47ef-a65d-721cc9758187",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:35:07Z",
+      "contextualData": {
+        "batter": 435522,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "09f28a3d-09d7-4a50-bc3e-7ab6d383698d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:35:08Z",
+      "contextualData": {
+        "batter": 435522,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "96fbdbf9-13a1-47f8-8893-6c458fd75b34",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:35:09Z",
+      "contextualData": {
+        "batter": 435522,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "1b8a3156-02f8-40a8-b6d8-47a444859a01",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:35:37Z",
+      "contextualData": {
+        "batter": 431171,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "685a82ca-9a50-44c7-8eb7-e05ef717c1cf",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:38:27Z",
+      "contextualData": {
+        "batter": 434540,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "e4b866f0-f6b9-4df1-a917-d149be3ea6f1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:38:28Z",
+      "contextualData": {
+        "batter": 434540,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "1bced9cd-309b-4e11-a8b2-134cffa1f0b1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 2,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:38:28Z",
+      "contextualData": {
+        "batter": 434540,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "05b822b4-ab2c-41d6-be50-0277f5255df5",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:38:48Z",
+      "contextualData": {
+        "player": 434592
+      }
+    },
+    {
+      "id": "00841844-2b78-40a0-8cbb-6e1b1743cdf9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:41:37Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 434592
+      }
+    },
+    {
+      "id": "49c9ca15-2a97-4d6a-822f-cfa816d96480",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:41:39Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 434592
+      }
+    },
+    {
+      "id": "a3ffca9a-b9d0-49d3-b419-6c51879f033f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:41:40Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 434592
+      }
+    },
+    {
+      "id": "2e4e5e01-c9e6-439b-a963-3b3f120c80f2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:42:34Z",
+      "contextualData": {
+        "batter": 334393,
+        "pitcher": 434592
+      }
+    },
+    {
+      "id": "a6e11375-7bfa-4428-ad9e-8be08b7c5848",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:43:34Z",
+      "contextualData": {
+        "batter": 425664,
+        "pitcher": 434592
+      }
+    },
+    {
+      "id": "9e8f8b6c-1210-4783-b0b8-3f50960894db",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:47:34Z",
+      "contextualData": {
+        "player": 425659
+      }
+    },
+    {
+      "id": "83727d58-fcc8-4bd9-a124-4f1f7ec6cc7a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:47:41Z",
+      "contextualData": {
+        "batter": 476883,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "4621920b-c88a-464e-9640-36dbeea3b305",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:47:43Z",
+      "contextualData": {
+        "batter": 476883,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "b0d43ac9-7f3f-424a-8e7f-0b06dc73923a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:47:44Z",
+      "contextualData": {
+        "batter": 476883,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "b1745ded-95e8-4c1c-a09c-761cb417c862",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:49:06Z",
+      "contextualData": {
+        "batter": 425549,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "b97f092b-4cbc-432d-a888-a44863fc47d3",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:49:07Z",
+      "contextualData": {
+        "batter": 425549,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "19f80966-d956-4be7-9ec4-ed3c5205e91a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:49:09Z",
+      "contextualData": {
+        "batter": 425549,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "5aa017c7-f535-42dd-bed5-25bc8f5b5b3a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 3,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T17:51:36Z",
+      "contextualData": {
+        "batter": 518700,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "14ce6687-8281-487c-ab97-3cf8516b5c05",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:55:25Z",
+      "contextualData": {
+        "batter": 425659,
+        "pitcher": 434592
+      }
+    },
+    {
+      "id": "9428ab10-0ab3-456d-bd46-e3aae429bb98",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:55:26Z",
+      "contextualData": {
+        "batter": 425659,
+        "pitcher": 434592
+      }
+    },
+    {
+      "id": "15c04944-44c9-49a0-94ea-ec9dc9709587",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:55:29Z",
+      "contextualData": {
+        "batter": 425659,
+        "pitcher": 434592
+      }
+    },
+    {
+      "id": "9356f632-2596-405e-b498-7697bb2de777",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:55:32Z",
+      "contextualData": {
+        "batter": 425659,
+        "pitcher": 434592
+      }
+    },
+    {
+      "id": "299b66d6-d49f-4f3f-8979-cc84906dc178",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:55:34Z",
+      "contextualData": {
+        "batter": 425659,
+        "pitcher": 434592
+      }
+    },
+    {
+      "id": "b1b3f2ac-76aa-4874-afd1-d9695c998660",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:57:01Z",
+      "contextualData": {
+        "batter": 434563,
+        "pitcher": 434592
+      }
+    },
+    {
+      "id": "746ba9f5-ea35-42f5-bad3-943ef4f2ae32",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:57:56Z",
+      "contextualData": {
+        "batter": 325392,
+        "pitcher": 434592
+      }
+    },
+    {
+      "id": "ec67fb0e-486e-40d7-869e-f2572f60dadc",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T17:59:00Z",
+      "contextualData": {
+        "batter": 502265,
+        "pitcher": 434592
+      }
+    },
+    {
+      "id": "01510f75-1bfe-4401-9486-9bfd99dc50d0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:02:54Z",
+      "contextualData": {
+        "batter": 502100,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "be16df61-1f58-48b9-93b5-576a3f5749f5",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:04:02Z",
+      "contextualData": {
+        "batter": 434661,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "25cd262b-e51e-4138-a842-56e6c5b3a709",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:04:03Z",
+      "contextualData": {
+        "batter": 434661,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "2ec03c1a-f6b6-4651-929e-632e20ee8186",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:04:05Z",
+      "contextualData": {
+        "batter": 434661,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "7add5a7a-5373-4d3d-a632-73402e81f3c9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:06:40Z",
+      "contextualData": {
+        "batter": 457705,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "6d730d2c-294f-4af7-84a1-8b9636a349ca",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:06:42Z",
+      "contextualData": {
+        "batter": 457705,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "4ab79cb7-5887-473a-8a51-a3d28d7c5931",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 4,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:06:43Z",
+      "contextualData": {
+        "batter": 457705,
+        "pitcher": 474699
+      }
+    },
+    {
+      "id": "dbacc05f-60cf-44f5-acee-1191cb283f14",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:07:42Z",
+      "contextualData": {
+        "player": 453265
+      }
+    },
+    {
+      "id": "6c6e0b46-3145-4439-b2f4-1e6e06cade71",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:10:04Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 453265
+      }
+    },
+    {
+      "id": "36104cb4-d8a6-42c7-976c-380baf92ae5e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:11:48Z",
+      "contextualData": {
+        "batter": 492841,
+        "pitcher": 453265
+      }
+    },
+    {
+      "id": "bd0eace6-4263-4c2b-9fd1-0ab6dc435437",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:14:00Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 453265
+      }
+    },
+    {
+      "id": "3b33db1a-0970-4700-a029-4a20ae12d2b9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:14:01Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 453265
+      }
+    },
+    {
+      "id": "9a4dc06d-2980-487d-a3d8-2fa8a43633d2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Foul",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:14:02Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 453265
+      }
+    },
+    {
+      "id": "f10fdf83-cb09-4c2d-8adf-d1bd250ad255",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:14:03Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 453265
+      }
+    },
+    {
+      "id": "681423d0-4c05-40b7-a4ad-553f6bb469f3",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:14:05Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 453265
+      }
+    },
+    {
+      "id": "dbda24a6-141a-4c8f-bc38-87d4ee26f9eb",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:14:08Z",
+      "contextualData": {
+        "batter": 276519,
+        "pitcher": 453265
+      }
+    },
+    {
+      "id": "3e10c2b0-f5fb-4b5e-88d4-78579811fd55",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:14:38Z",
+      "contextualData": {
+        "batter": 334393,
+        "pitcher": 453265
+      }
+    },
+    {
+      "id": "da8fe583-46fb-4473-81f6-8ac97da5f1cb",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:16:55Z",
+      "contextualData": {
+        "player": 520471
+      }
+    },
+    {
+      "id": "764436cb-9094-4bb6-a781-039ee31f818b",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:16:55Z",
+      "contextualData": {
+        "player": 435619
+      }
+    },
+    {
+      "id": "6d05975a-c174-4e70-95cc-f152bf750dc5",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:16:55Z",
+      "contextualData": {
+        "player": 492841
+      }
+    },
+    {
+      "id": "1f67deda-d7af-4f7b-b8db-799fc575ac41",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:17:58Z",
+      "contextualData": {
+        "batter": 435522,
+        "pitcher": 435619
+      }
+    },
+    {
+      "id": "2fbc734b-8d08-4972-8733-b5547abef866",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:19:18Z",
+      "contextualData": {
+        "batter": 431171,
+        "pitcher": 435619
+      }
+    },
+    {
+      "id": "9ab2a7bf-e25e-43a3-b925-ba8a0b8c127d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:21:49Z",
+      "contextualData": {
+        "batter": 434540,
+        "pitcher": 435619
+      }
+    },
+    {
+      "id": "d9d50fb8-0878-498d-a431-0385fbdffc39",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:21:50Z",
+      "contextualData": {
+        "batter": 434540,
+        "pitcher": 435619
+      }
+    },
+    {
+      "id": "c410fd12-b809-4da1-8489-8cc8e94cfb68",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 5,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:21:51Z",
+      "contextualData": {
+        "batter": 434540,
+        "pitcher": 435619
+      }
+    },
+    {
+      "id": "ce2c7f4d-c266-41fd-b217-8b3607fffa7c",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:26:41Z",
+      "contextualData": {
+        "player": 491676
+      }
+    },
+    {
+      "id": "8978347b-1ed9-43f8-b0a7-07f9bde52095",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:26:41Z",
+      "contextualData": {
+        "player": 516782
+      }
+    },
+    {
+      "id": "2de57ac4-2e2b-44d7-932d-48fd0eb49b5c",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:26:41Z",
+      "contextualData": {
+        "player": 501605
+      }
+    },
+    {
+      "id": "0459bf6a-e15c-42df-b344-7a079714efdf",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:26:41Z",
+      "contextualData": {
+        "player": 502168
+      }
+    },
+    {
+      "id": "a015b978-833d-4966-864c-8f9dba74662c",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:27:55Z",
+      "contextualData": {
+        "player": 592692
+      }
+    },
+    {
+      "id": "d55b420b-af9f-4e1b-afaa-bcc4ba3da56d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:28:08Z",
+      "contextualData": {
+        "batter": 425664,
+        "pitcher": 502168
+      }
+    },
+    {
+      "id": "a3413a07-8c82-4f13-8549-e51a9e28be16",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:28:22Z",
+      "contextualData": {
+        "batter": 425659,
+        "pitcher": 502168
+      }
+    },
+    {
+      "id": "187a16aa-7291-4940-ac5a-791fb4ec0712",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:29:50Z",
+      "contextualData": {
+        "batter": 434563,
+        "pitcher": 502168
+      }
+    },
+    {
+      "id": "e5372f2e-689a-4811-839b-c93e2155b36b",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:30:40Z",
+      "contextualData": {
+        "player": 502126
+      }
+    },
+    {
+      "id": "1ec7e6e4-2b51-4cea-8f69-7b0635671084",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:30:40Z",
+      "contextualData": {
+        "player": 488912
+      }
+    },
+    {
+      "id": "034e1ae2-07ac-4326-b74b-2c03fe30eb78",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:31:09Z",
+      "contextualData": {
+        "batter": 476883,
+        "pitcher": 435619
+      }
+    },
+    {
+      "id": "04f31175-e1f5-404d-99d4-1b37ae73c302",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:32:52Z",
+      "contextualData": {
+        "batter": 425549,
+        "pitcher": 435619
+      }
+    },
+    {
+      "id": "d66bfa12-eb94-4b5b-87e9-b3ccc415b309",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:32:53Z",
+      "contextualData": {
+        "batter": 425549,
+        "pitcher": 435619
+      }
+    },
+    {
+      "id": "3c3c8292-35ff-406c-ba1d-1dd39805c303",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Called Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:32:54Z",
+      "contextualData": {
+        "batter": 425549,
+        "pitcher": 435619
+      }
+    },
+    {
+      "id": "adb921f8-be55-45d2-9655-00a0b0bb1769",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:34:27Z",
+      "contextualData": {
+        "batter": 518700,
+        "pitcher": 435619
+      }
+    },
+    {
+      "id": "3daf3305-d542-4b6c-b69b-4a5ec6b53fa6",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:34:28Z",
+      "contextualData": {
+        "batter": 518700,
+        "pitcher": 435619
+      }
+    },
+    {
+      "id": "eb61316f-f3a2-470d-b150-0fbb67a8dbb0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:34:29Z",
+      "contextualData": {
+        "batter": 518700,
+        "pitcher": 435619
+      }
+    },
+    {
+      "id": "2cb68ee9-08e8-44c5-b1e3-8f395dc14188",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:34:31Z",
+      "contextualData": {
+        "batter": 518700,
+        "pitcher": 435619
+      }
+    },
+    {
+      "id": "c033444b-ccc6-42fa-bec2-424db5119315",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 6,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:36:44Z",
+      "contextualData": {
+        "batter": 592692,
+        "pitcher": 435619
+      }
+    },
+    {
+      "id": "b01d694a-345d-44c3-ba90-6163768c7018",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:37:29Z",
+      "contextualData": {
+        "player": 506997
+      }
+    },
+    {
+      "id": "161762e0-e084-4ca3-af07-2c63746d8078",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:37:29Z",
+      "contextualData": {
+        "player": 474568
+      }
+    },
+    {
+      "id": "e15a4ac5-3805-4bdf-b01a-dfeb3e56cf38",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:37:29Z",
+      "contextualData": {
+        "player": 579799
+      }
+    },
+    {
+      "id": "fd0b8b7c-6e03-4110-b2f5-3b65fd84ff60",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:39:54Z",
+      "contextualData": {
+        "batter": 325392,
+        "pitcher": 579799
+      }
+    },
+    {
+      "id": "c2808454-5c3d-4d55-9fd0-49f23fff2985",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:39:56Z",
+      "contextualData": {
+        "batter": 325392,
+        "pitcher": 579799
+      }
+    },
+    {
+      "id": "43733503-87db-4640-a41e-f29a0036668b",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:39:57Z",
+      "contextualData": {
+        "batter": 325392,
+        "pitcher": 579799
+      }
+    },
+    {
+      "id": "416137dd-9592-4b03-ba7f-2f2ece9b1b1f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:40:38Z",
+      "contextualData": {
+        "batter": 502265,
+        "pitcher": 579799
+      }
+    },
+    {
+      "id": "59906a16-e298-4c1a-b6cc-cd5d1247a1e2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:42:13Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 579799
+      }
+    },
+    {
+      "id": "87548d66-d8e7-445f-86b8-1af64a7059c7",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:42:14Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 579799
+      }
+    },
+    {
+      "id": "b379a4cc-2340-4764-a0a8-0de443328813",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:42:15Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 579799
+      }
+    },
+    {
+      "id": "3dc883b8-894e-402c-80eb-723d9ab5783a",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:44:10Z",
+      "contextualData": {
+        "player": 428642
+      }
+    },
+    {
+      "id": "e4e7ffc3-92df-4f41-acaa-1198c3783100",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:44:10Z",
+      "contextualData": {
+        "player": 458589
+      }
+    },
+    {
+      "id": "635f6a7c-ab2f-49bd-a947-41e9f5732aec",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:46:07Z",
+      "contextualData": {
+        "batter": 491676,
+        "pitcher": 458589
+      }
+    },
+    {
+      "id": "71ce5885-5baf-447d-8efa-70e5f4d8df1d",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:48:52Z",
+      "contextualData": {
+        "batter": 516782,
+        "pitcher": 458589
+      }
+    },
+    {
+      "id": "0f5aac65-b317-4c92-b60e-f31791043548",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Stolen Base 2B",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:48:56Z",
+      "contextualData": {
+        "player": 491676
+      }
+    },
+    {
+      "id": "4c6e7f0b-eff6-445a-8d69-4e607462c56e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:49:28Z",
+      "contextualData": {
+        "batter": 516782,
+        "pitcher": 458589
+      }
+    },
+    {
+      "id": "55d5cd71-56d2-4983-b03b-2bdd5f7a64d3",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:49:29Z",
+      "contextualData": {
+        "batter": 516782,
+        "pitcher": 458589
+      }
+    },
+    {
+      "id": "047b7aa6-4934-4866-82dc-0d817cf475d7",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:49:31Z",
+      "contextualData": {
+        "batter": 516782,
+        "pitcher": 458589
+      }
+    },
+    {
+      "id": "520fe880-915a-4eda-a09b-5ce85cefd67a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:50:30Z",
+      "contextualData": {
+        "batter": 501605,
+        "pitcher": 458589
+      }
+    },
+    {
+      "id": "969e5c64-e04b-4a36-8484-385f76e9875a",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:53:01Z",
+      "contextualData": {
+        "batter": 431171,
+        "pitcher": 458589
+      }
+    },
+    {
+      "id": "2682cb18-5744-454e-8972-0c6d49334f48",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive sub",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:53:36Z",
+      "contextualData": {
+        "player": 518755
+      }
+    },
+    {
+      "id": "d164a64e-c7cf-460b-b134-e86f4ba3d9d8",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T18:55:00Z",
+      "contextualData": {
+        "batter": 518755,
+        "pitcher": 458589
+      }
+    },
+    {
+      "id": "dcc5d1bf-ebfc-4ac6-ad8d-c3246f4aa8a5",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:57:40Z",
+      "contextualData": {
+        "player": 518755
+      }
+    },
+    {
+      "id": "bcdcb076-969d-484b-a586-fcf0a5787040",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:57:47Z",
+      "contextualData": {
+        "batter": 492841,
+        "pitcher": 579799
+      }
+    },
+    {
+      "id": "0d05d306-9017-4544-9583-971f1d65dbd4",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T18:58:14Z",
+      "contextualData": {
+        "batter": 520471,
+        "pitcher": 579799
+      }
+    },
+    {
+      "id": "7d1aafb8-37ee-4768-895e-0c06a95ac2d1",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:01:36Z",
+      "contextualData": {
+        "batter": 502126,
+        "pitcher": 579799
+      }
+    },
+    {
+      "id": "d698345a-02b1-450e-849f-9d3fcd5eb694",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Offensive sub",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:02:09Z",
+      "contextualData": {
+        "player": 435623
+      }
+    },
+    {
+      "id": "402c8cae-b029-47e6-9193-b326a7590ad9",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, run(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:02:19Z",
+      "contextualData": {
+        "batter": 435623,
+        "pitcher": 579799
+      }
+    },
+    {
+      "id": "ff8c26d9-f881-41e9-8de0-49b4fbe5ec85",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:02:31Z",
+      "contextualData": {
+        "batter": 425659,
+        "pitcher": 579799
+      }
+    },
+    {
+      "id": "27bd4bc3-1da4-4ff2-b047-87c8efca46fc",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:04:16Z",
+      "contextualData": {
+        "batter": 488912,
+        "pitcher": 579799
+      }
+    },
+    {
+      "id": "1c94b186-8f77-4510-be28-cf05e2e797ce",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Caught Stealing 2B",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:04:29Z",
+      "contextualData": {
+        "player": 435623
+      }
+    },
+    {
+      "id": "66c542c1-208b-4571-82d2-9a339d5b1bf5",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Switch",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T19:06:40Z",
+      "contextualData": {
+        "player": 435623
+      }
+    },
+    {
+      "id": "c73d234b-bb29-435b-b983-40d6900efed7",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T19:06:40Z",
+      "contextualData": {
+        "player": 455374
+      }
+    },
+    {
+      "id": "d46c240d-ad20-488c-a5cf-e7cbf48e9e8f",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, no out",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T19:07:55Z",
+      "contextualData": {
+        "batter": 474568,
+        "pitcher": 455374
+      }
+    },
+    {
+      "id": "2ddceddf-d5d7-4c03-b210-35e4090fe81d",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Defensive Sub",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 7,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:11:54Z",
+      "contextualData": {
+        "player": 488818
+      }
+    },
+    {
+      "id": "61fab8f9-f793-4ab5-9f48-e84bbc7fa7c2",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T19:12:08Z",
+      "contextualData": {
+        "batter": 488818,
+        "pitcher": 455374
+      }
+    },
+    {
+      "id": "09e6fce9-ba69-485e-8b2f-ce8002f03df3",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T19:12:37Z",
+      "contextualData": {
+        "batter": 506997,
+        "pitcher": 455374
+      }
+    },
+    {
+      "id": "ce2acdda-4b72-4adf-a6cf-79d40ca1fc01",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 8,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T19:13:44Z",
+      "contextualData": {
+        "batter": 592692,
+        "pitcher": 455374
+      }
+    },
+    {
+      "id": "a34456e4-ae21-4747-be24-85810bc737f4",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:14:58Z",
+      "contextualData": {
+        "player": 407297
+      }
+    },
+    {
+      "id": "6a765b71-3f8a-4483-a9e0-8797d7c2cd33",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:17:36Z",
+      "contextualData": {
+        "batter": 488912,
+        "pitcher": 407297
+      }
+    },
+    {
+      "id": "fca5f2c4-90c5-4787-883f-6a55ec95694e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:17:38Z",
+      "contextualData": {
+        "batter": 488912,
+        "pitcher": 407297
+      }
+    },
+    {
+      "id": "981e9bd1-2081-4e5d-bad0-bfb3e3c87075",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:17:39Z",
+      "contextualData": {
+        "batter": 488912,
+        "pitcher": 407297
+      }
+    },
+    {
+      "id": "e278d756-9ad3-45b0-ba4d-e3c98aa9cb08",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:19:58Z",
+      "contextualData": {
+        "batter": 428642,
+        "pitcher": 407297
+      }
+    },
+    {
+      "id": "e1f50197-8643-4f9e-a1e5-be12549e0f25",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:19:59Z",
+      "contextualData": {
+        "batter": 428642,
+        "pitcher": 407297
+      }
+    },
+    {
+      "id": "75289450-26bc-4a71-9212-1c2233032e46",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:20:01Z",
+      "contextualData": {
+        "batter": 428642,
+        "pitcher": 407297
+      }
+    },
+    {
+      "id": "5b87bc34-51e8-43af-a723-4212f8b8d7c0",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:20:02Z",
+      "contextualData": {
+        "batter": 428642,
+        "pitcher": 407297
+      }
+    },
+    {
+      "id": "1b85519f-c0cc-481c-b572-c35d8c415247",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:20:50Z",
+      "contextualData": {
+        "batter": 502265,
+        "pitcher": 407297
+      }
+    },
+    {
+      "id": "fc9d9001-dac0-41be-8ea7-3cd988a66563",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Ball",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:23:00Z",
+      "contextualData": {
+        "batter": 434681,
+        "pitcher": 407297
+      }
+    },
+    {
+      "id": "4f5ff27a-c982-4be7-9c61-4ddfdfd6e26a",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Caught Stealing 2B",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "TOP_OF_INNING",
+      "timestampStart": "2012-03-12T19:23:32Z",
+      "contextualData": {
+        "player": 502265
+      }
+    },
+    {
+      "id": "99b4c9e5-e7b6-4664-9be5-e51df1820643",
+      "eventType": "ACTION_TYPE",
+      "eventSubType": "Pitching Substitution",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T19:24:44Z",
+      "contextualData": {
+        "player": 543754
+      }
+    },
+    {
+      "id": "31ab9343-1d46-4371-9e68-06de37123a3e",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T19:26:49Z",
+      "contextualData": {
+        "batter": 491676,
+        "pitcher": 543754
+      }
+    },
+    {
+      "id": "a5d90862-8e9b-4d63-b3a5-81c7de6cd554",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T19:27:47Z",
+      "contextualData": {
+        "batter": 516782,
+        "pitcher": 543754
+      }
+    },
+    {
+      "id": "8e33460f-ae3e-4ce7-b7c4-d9a76a771966",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T19:27:48Z",
+      "contextualData": {
+        "batter": 516782,
+        "pitcher": 543754
+      }
+    },
+    {
+      "id": "eac1f4c6-f4d4-4037-9925-d97158d9df50",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "Swinging Strike",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T19:27:50Z",
+      "contextualData": {
+        "batter": 516782,
+        "pitcher": 543754
+      }
+    },
+    {
+      "id": "2e28873d-99a6-457f-ad96-ad03625787a8",
+      "eventType": "PITCH_TYPE",
+      "eventSubType": "In play, out(s)",
+      "homeTeam": "pit",
+      "awayTeam": "phi",
+      "inningNumber": 9,
+      "inningHalf": "BOTTOM_OF_INNING",
+      "timestampStart": "2012-03-12T19:29:53Z",
+      "contextualData": {
+        "batter": 501605,
+        "pitcher": 543754
+      }
+    }
+  ]
+}
